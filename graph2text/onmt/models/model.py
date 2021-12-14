@@ -2,6 +2,7 @@
 import torch
 import torch.nn as nn
 import dgl
+import calc_uas_las from onmt.decoders.dependency_tree_rel_model
 
 
 class NMTModel(nn.Module):
@@ -174,9 +175,14 @@ class NMTPlanModel(nn.Module):
                 edus = tree_edus[i].unsqueeze(0)
                 adj_matrix = (left_adj, right_adj)
                 tree_loss += self.tree_decoder(edus, tree_graph, adj_matrix, root, rels)
-                pred_order, loss, uas, las = self.tree_decoder.decode(edus, tree_graph, torch.cat([left_adj, right_adj], dim=2), root, tree)
-                print("PREDICTION ORDER: ", pred_order)
-                print("Loss: ", loss)
+                
+                compat_matrix_full = self.tree_decoder.get_compat_matrix(edus)
+                root_scores = self.tree_decoder.root_clf(edus).view(edus.shape[0], -1)
+                # Decode the tree structure
+                msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
+                # Decode the EDU order from the tree
+                dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(root))
+                uas, las = calc_uas_las(new_adj_matrix, torch.cat(adj_matrix, dim=2), pred_root, root, num_nodes)
                 print("UAS: ", uas)
                 print("LAS: ", las)
 

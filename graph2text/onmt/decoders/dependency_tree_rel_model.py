@@ -187,17 +187,17 @@ class DependencyTreeRelModel(nn.Module):
         loss[th.isnan(loss) == 1] = 0
         return self.alpha * th.sum(loss)
 
-    def decode(self, all_edus, trees_graph, adj_matrix, roots, gold_tree):
+    def decode(self, all_edus, trees_graph, gold_tree):
         
-        # l_trees_graph, r_trees_graph, roots = trees_graph
-        # trees_graph = build_trees_graph(l_trees_graph, r_trees_graph)
-        # left_adj_matrix = l_trees_graph.reverse() \
-        #                     .adjacency_matrix(transpose=True, ctx=th.device(self.config[DEVICE])) \
-        #                     .to_dense().unsqueeze(2) 
-        # right_adj_matrix = r_trees_graph.reverse() \
-        #                     .adjacency_matrix(transpose=True, ctx=th.device(self.config[DEVICE])) \
-        #                     .to_dense().unsqueeze(2)
-        # adj_matrix = th.cat([left_adj_matrix,right_adj_matrix], dim=2)
+        l_trees_graph, r_trees_graph, roots = trees_graph
+        trees_graph = build_trees_graph(l_trees_graph, r_trees_graph)
+        left_adj_matrix = l_trees_graph.reverse() \
+                            .adjacency_matrix(transpose=True, ctx=th.device(self.config[DEVICE])) \
+                            .to_dense().unsqueeze(2) 
+        right_adj_matrix = r_trees_graph.reverse() \
+                            .adjacency_matrix(transpose=True, ctx=th.device(self.config[DEVICE])) \
+                            .to_dense().unsqueeze(2)
+        adj_matrix = th.cat([left_adj_matrix,right_adj_matrix], dim=2)
         return self.decode_directed(all_edus, gold_tree, adj_matrix, roots, trees_graph)
 
     def decode_directed(self, all_edus, gold_tree, gold_adj_matrix, gold_root, trees_graph):
