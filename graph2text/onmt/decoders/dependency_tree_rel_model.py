@@ -238,6 +238,7 @@ class DependencyTreeRelModel(nn.Module):
         arcs = []
         
         compat_matrix, etype = th.max(compat_matrix_full, dim=2)
+        print("COMPAT ", compat_matrix.shape, compat_matrix[0, 0], compat_matrix)
         
         _, indices = th.topk(root_scores, beam_size)
         
