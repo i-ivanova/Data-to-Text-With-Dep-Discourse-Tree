@@ -184,11 +184,10 @@ class NMTPlanModel(nn.Module):
                 print("ADJ MATRIX ", new_adj_matrix.shape)
                 flat_new_adj = torch.sum(new_adj_matrix, dim=2)
                 flat_gold_adj = torch.sum(torch.cat(adj_matrix, dim=2), dim=2)
-                uas = 1 - torch.sum(flat_new_adj != flat_gold_adj).float() / (num_nodes * 2) - int(root != gold_root) / num_nodes
-                las = 1 - torch.sum(new_adj_matrix != gold_adj_matrix).float() / (num_nodes * 2) - int(root != gold_root) / num_nodes                print("UAS: ", uas)
-                
-                print("LAS: ", las)
+                uas = 1 - torch.sum(flat_new_adj != flat_gold_adj).float() / (num_nodes * 2) - int(pred_root != root) / num_nodes
+                las = 1 - torch.sum(new_adj_matrix != torch.cat(adj_matrix, dim=2)).float() / (num_nodes * 2) - int(pred_root != root) / num_nodes                
                 print("UAS: ", uas)
+                print("LAS: ", las)
 
         
         dec_out, attns = self.decoder(dec_in, memory_bank,
