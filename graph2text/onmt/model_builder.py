@@ -212,25 +212,25 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
     # plan_generator_decoder = CopyGeneratorPlanDecoder(model_opt.dec_rnn_size, vocab_size, pad_idx)
     
     # Build Generator.
-    # if not model_opt.copy_attn:
-    #     if model_opt.generator_function == "sparsemax":
-    #         gen_func = onmt.modules.sparse_activations.LogSparsemax(dim=-1)
-    #     else:
-    #         gen_func = nn.LogSoftmax(dim=-1)
-    #     generator = nn.Sequential(
-    #         nn.Linear(model_opt.dec_rnn_size,
-    #                   len(fields["tgt"].base_field.vocab)),
-    #         Cast(torch.float32),
-    #         gen_func
-    #     )
-    #     if model_opt.share_decoder_embeddings:
-    #         generator[0].weight = decoder.embeddings.word_lut.weight
-    # else:
-    tgt_base_field = fields["tgt"].base_field
-    vocab_size = len(tgt_base_field.vocab)
-    pad_idx = tgt_base_field.vocab.stoi[tgt_base_field.pad_token]
-    generator = CopyGeneratorFromPlan(model_opt.dec_rnn_size, vocab_size, pad_idx)
-    
+    if not model_opt.copy_attn:
+        if model_opt.generator_function == "sparsemax":
+            gen_func = onmt.modules.sparse_activations.LogSparsemax(dim=-1)
+        else:
+            gen_func = nn.LogSoftmax(dim=-1)
+        generator = nn.Sequential(
+            nn.Linear(model_opt.dec_rnn_size,
+                      len(fields["tgt"].base_field.vocab)),
+            Cast(torch.float32),
+            gen_func
+        )
+        if model_opt.share_decoder_embeddings:
+            generator[0].weight = decoder.embeddings.word_lut.weight
+    else:
+        tgt_base_field = fields["tgt"].base_field
+        vocab_size = len(tgt_base_field.vocab)
+        pad_idx = tgt_base_field.vocab.stoi[tgt_base_field.pad_token]
+        generator = CopyGeneratorFromPlan(model_opt.dec_rnn_size, vocab_size, pad_idx)
+        
 
     """
     # Build Generator.
@@ -269,7 +269,7 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
         # end of patch for backward compatibility
 
         model.load_state_dict(checkpoint['model'], strict=False)
-        plan_generator.load_state_dict(checkpoint['plan_generator'], strict=False)
+        plan_generator.load_state_dict(checkpoint['plan_gnerator'], strict=False)
         generator.load_state_dict(checkpoint['generator'], strict=False)
     else:
         if model_opt.param_init != 0.0:

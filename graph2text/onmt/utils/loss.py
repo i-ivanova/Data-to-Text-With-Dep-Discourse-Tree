@@ -64,51 +64,6 @@ def build_loss_compute(model, tgt_field, opt, train=True):
     return compute
 
 
-# def build_loss_compute_plan(model, plan_field, tgt_field, opt, train=True):
-#     """
-#     Returns a LossCompute subclass which wraps around an nn.Module subclass
-#     (such as nn.NLLLoss) which defines the loss criterion. The LossCompute
-#     object allows this loss to be computed in shards and passes the relevant
-#     data to a Statistics object which handles training/validation logging.
-#     Currently, the NMTLossCompute class handles all loss computation except
-#     for when using a copy mechanism.
-#     """
-#     device = torch.device("cuda" if onmt.utils.misc.use_gpu(opt) else "cpu")
-
-#     plan_padding_idx = 0
-#     plan_unk_idx = -1
-
-#     plan_criterion = onmt.modules.CopyGeneratorLoss(
-#         4, opt.copy_attn_force,
-#         unk_index=plan_unk_idx, ignore_index=plan_padding_idx
-#     )
-#     plan_loss_gen = model.plan_generator
-#     plan_compute = onmt.modules.CopyGeneratorLossCompute(
-#         plan_criterion, plan_loss_gen, plan_field.vocab, opt.copy_loss_by_seqlength,
-#         lambda_coverage=opt.lambda_coverage
-#     )
-    
-#     out_padding_idx = tgt_field.vocab.stoi[tgt_field.pad_token]
-#     out_unk_idx = tgt_field.vocab.stoi[tgt_field.unk_token]
-    
-#     if train:
-#         out_criterion = LabelSmoothingLoss(
-#             opt.label_smoothing, len(tgt_field.vocab), ignore_index=out_padding_idx
-#         )
-#     else:
-#         out_criterion = nn.NLLLoss(ignore_index=out_padding_idx, reduction='sum')
-
-#     out_loss_gen = model.generator
-#     out_compute = NMTLossCompute(
-#         out_criterion, out_loss_gen, lambda_coverage=opt.lambda_coverage,
-#         lambda_align=opt.lambda_align)
-    
-#     plan_compute.to(device)
-#     out_compute.to(device)
-    
-#     return plan_compute, out_compute
-
-
 def build_loss_compute_plan(model, plan_field, tgt_field, opt, train=True):
     """
     Returns a LossCompute subclass which wraps around an nn.Module subclass
@@ -132,51 +87,96 @@ def build_loss_compute_plan(model, plan_field, tgt_field, opt, train=True):
         plan_criterion, plan_loss_gen, plan_field.vocab, opt.copy_loss_by_seqlength,
         lambda_coverage=opt.lambda_coverage
     )
-
-   # text generator
+    
     out_padding_idx = tgt_field.vocab.stoi[tgt_field.pad_token]
     out_unk_idx = tgt_field.vocab.stoi[tgt_field.unk_token]
     
-    out_criterion = onmt.modules.CopyGeneratorLoss(
-        len(tgt_field.vocab), opt.copy_attn_force,
-        unk_index=out_unk_idx, ignore_index=out_padding_idx
-    )
+    if train:
+        out_criterion = LabelSmoothingLoss(
+            opt.label_smoothing, len(tgt_field.vocab), ignore_index=out_padding_idx
+        )
+    else:
+        out_criterion = nn.NLLLoss(ignore_index=out_padding_idx, reduction='sum')
 
-    # if opt.copy_attn:
-    #     out_criterion = onmt.modules.CopyGeneratorLoss(
-    #        len(tgt_field.vocab), opt.copy_attn_force,
-    #         unk_index=out_unk_idx, ignore_index=out_padding_idx
-    #     )
-
-    # elif opt.label_smoothing > 0 and train:
-    #     out_criterion = LabelSmoothingLoss(
-    #         opt.label_smoothing, len(tgt_field.vocab), ignore_index=out_padding_idx
-    #     )
-    # elif isinstance(model.generator[-1], LogSparsemax):
-    #     out_criterion = SparsemaxLoss(ignore_index=out_padding_idx, reduction='sum')
-    # else:
-    #     out_criterion = nn.NLLLoss(ignore_index=out_padding_idx, reduction='sum')
-
-    # if the loss function operates on vectors of raw logits instead of
-    # probabilities, only the first part of the generator needs to be
-    # passed to the NMTLossCompute. At the moment, the only supported
-    # loss function of this kind is the sparsemax loss.
-    # use_raw_logits = isinstance(out_criterion, SparsemaxLoss)
     out_loss_gen = model.generator
-    # if opt.copy_attn:
-    out_compute = onmt.modules.CopyGeneratorLossCompute(
-        out_criterion, out_loss_gen, tgt_field.vocab, opt.copy_loss_by_seqlength,
-        lambda_coverage=opt.lambda_coverage
-    )
-    # else:
-    #     out_compute = NMTLossCompute(
-    #         out_criterion, out_loss_gen, lambda_coverage=opt.lambda_coverage,
-    #         lambda_align=opt.lambda_align)
-
+    out_compute = NMTLossCompute(
+        out_criterion, out_loss_gen, lambda_coverage=opt.lambda_coverage,
+        lambda_align=opt.lambda_align)
+    
     plan_compute.to(device)
     out_compute.to(device)
-
+    
     return plan_compute, out_compute
+
+
+# def build_loss_compute_plan(model, plan_field, tgt_field, opt, train=True):
+#     """
+#     Returns a LossCompute subclass which wraps around an nn.Module subclass
+#     (such as nn.NLLLoss) which defines the loss criterion. The LossCompute
+#     object allows this loss to be computed in shards and passes the relevant
+#     data to a Statistics object which handles training/validation logging.
+#     Currently, the NMTLossCompute class handles all loss computation except
+#     for when using a copy mechanism.
+#     """
+#     device = torch.device("cuda" if onmt.utils.misc.use_gpu(opt) else "cpu")
+
+#     plan_padding_idx = 0
+#     plan_unk_idx = -1
+
+#     plan_criterion = onmt.modules.CopyGeneratorLoss(
+#         4, opt.copy_attn_force,
+#         unk_index=plan_unk_idx, ignore_index=plan_padding_idx
+#     )
+#     plan_loss_gen = model.plan_generator
+#     plan_compute = onmt.modules.CopyGeneratorLossCompute(
+#         plan_criterion, plan_loss_gen, plan_field.vocab, opt.copy_loss_by_seqlength,
+#         lambda_coverage=opt.lambda_coverage
+#     )
+
+#    # text generator
+#     out_padding_idx = tgt_field.vocab.stoi[tgt_field.pad_token]
+#     out_unk_idx = tgt_field.vocab.stoi[tgt_field.unk_token]
+    
+#     out_criterion = onmt.modules.CopyGeneratorLoss(
+#         len(tgt_field.vocab), opt.copy_attn_force,
+#         unk_index=out_unk_idx, ignore_index=out_padding_idx
+#     )
+
+#     # if opt.copy_attn:
+#     #     out_criterion = onmt.modules.CopyGeneratorLoss(
+#     #        len(tgt_field.vocab), opt.copy_attn_force,
+#     #         unk_index=out_unk_idx, ignore_index=out_padding_idx
+#     #     )
+
+#     # elif opt.label_smoothing > 0 and train:
+#     #     out_criterion = LabelSmoothingLoss(
+#     #         opt.label_smoothing, len(tgt_field.vocab), ignore_index=out_padding_idx
+#     #     )
+#     # elif isinstance(model.generator[-1], LogSparsemax):
+#     #     out_criterion = SparsemaxLoss(ignore_index=out_padding_idx, reduction='sum')
+#     # else:
+#     #     out_criterion = nn.NLLLoss(ignore_index=out_padding_idx, reduction='sum')
+
+#     # if the loss function operates on vectors of raw logits instead of
+#     # probabilities, only the first part of the generator needs to be
+#     # passed to the NMTLossCompute. At the moment, the only supported
+#     # loss function of this kind is the sparsemax loss.
+#     # use_raw_logits = isinstance(out_criterion, SparsemaxLoss)
+#     out_loss_gen = model.generator
+#     # if opt.copy_attn:
+#     out_compute = onmt.modules.CopyGeneratorLossCompute(
+#         out_criterion, out_loss_gen, tgt_field.vocab, opt.copy_loss_by_seqlength,
+#         lambda_coverage=opt.lambda_coverage
+#     )
+#     # else:
+#     #     out_compute = NMTLossCompute(
+#     #         out_criterion, out_loss_gen, lambda_coverage=opt.lambda_coverage,
+#     #         lambda_align=opt.lambda_align)
+
+#     plan_compute.to(device)
+#     out_compute.to(device)
+
+#     return plan_compute, out_compute
 
 
 

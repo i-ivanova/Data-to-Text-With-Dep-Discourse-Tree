@@ -174,6 +174,11 @@ class NMTPlanModel(nn.Module):
                 edus = tree_edus[i].unsqueeze(0)
                 adj_matrix = (left_adj, right_adj)
                 tree_loss += self.tree_decoder(edus, tree_graph, adj_matrix, root, rels)
+                pred_order, loss, uas, las = self.tree_decoder.decode(edus, tree_graph, tree)
+                print("PREDICTION ORDER: ", pred_order)
+                print("Loss: ", loss)
+                print("UAS: ", uas)
+                print("LAS: ", las)
 
         
         dec_out, attns = self.decoder(dec_in, memory_bank,

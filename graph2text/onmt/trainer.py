@@ -220,7 +220,7 @@ class Trainer(object):
         if valid_iter is None:
             logger.info('Start training loop without validation...')
         else:
-            valid_steps = 5000
+            valid_steps = 1
             logger.info('Start training loop and validate every %d steps...',
                         valid_steps)
 
@@ -444,7 +444,8 @@ class Trainer(object):
                 
                 # 3. Compute loss.
                 try:
-                    num_trees = plan.shape[0] 
+                    num_trees = plan.shape[0]
+                    
                     loss, batch_stats = self.train_loss_out._compute_loss(
                         batch,
                         dec_out,
