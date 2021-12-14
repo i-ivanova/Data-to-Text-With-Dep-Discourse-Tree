@@ -180,7 +180,7 @@ class NMTPlanModel(nn.Module):
                 # Decode the tree structure
                 msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
                 # Decode the EDU order from the tree
-                dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(root))
+                dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(pred_root))
                 print("ADJ MATRIX ", new_adj_matrix.shape)
                 flat_new_adj = torch.sum(new_adj_matrix, dim=2)
                 flat_gold_adj = torch.sum(torch.cat(adj_matrix, dim=2), dim=2)
