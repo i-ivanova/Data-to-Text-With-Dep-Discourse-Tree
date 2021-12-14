@@ -234,7 +234,7 @@ class DependencyTreeRelModel(nn.Module):
     def decode_mst(self, compat_matrix_full, root_scores):
         
         num_nodes = int(root_scores.shape[0])
-        beam_size = min(num_nodes, 3)
+        beam_size = min(num_nodes, 5)
         arcs = []
         
         compat_matrix, etype = th.max(compat_matrix_full, dim=2)
