@@ -245,22 +245,22 @@ class Trainer(object):
                                     .all_gather_list
                                     (normalization))
 
-            self._gradient_accumulation(
-                batches, normalization, total_stats,
-                report_stats)
+            # self._gradient_accumulation(
+            #     batches, normalization, total_stats,
+            #     report_stats)
 
-            if self.average_decay > 0 and i % self.average_every == 0:
-                self._update_average(step)
+            # if self.average_decay > 0 and i % self.average_every == 0:
+            #     self._update_average(step)
 
-            report_stats = self._maybe_report_training(
-                step, train_steps,
-                self.optim.learning_rate(),
-                report_stats)
+            # report_stats = self._maybe_report_training(
+            #     step, train_steps,
+            #     self.optim.learning_rate(),
+            #     report_stats)
 
-            if (self.model_saver is not None
-                and (save_checkpoint_steps != 0
-                     and step % save_checkpoint_steps == 0)):
-                self.model_saver.save(step, moving_average=self.moving_average)
+            # if (self.model_saver is not None
+            #     and (save_checkpoint_steps != 0
+            #          and step % save_checkpoint_steps == 0)):
+            #     self.model_saver.save(step, moving_average=self.moving_average)
            
             # skip validation for now, will do later for each saved model
             
