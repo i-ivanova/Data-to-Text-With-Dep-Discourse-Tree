@@ -174,12 +174,13 @@ class NMTPlanModel(nn.Module):
                 edus = tree_edus[i].unsqueeze(0)
                 adj_matrix = (left_adj, right_adj)
                 tree_loss += self.tree_decoder(edus, tree_graph, adj_matrix, root, rels)
-                
+                print(root)
                 compat_matrix_full = self.tree_decoder.get_compat_matrix(edus.squeeze(0))
                 root_scores = self.tree_decoder.root_clf(edus).view(edus.shape[0], -1)
                 # Decode the tree structure
                 msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
                 # Decode the EDU order from the tree
+                print("eTYPE: ", etype, "NodeNUM ", num_nodes)
                 dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(pred_root))
                 print("ADJ MATRIX ", new_adj_matrix.shape)
                 flat_new_adj = torch.sum(new_adj_matrix, dim=2)
