@@ -48,4 +48,5 @@ python graph2text/train.py \
                         -number_edge_types 13 \
                         -heads 8 \
 			--use_tree
-			--copy_attn
+			--copy_attn_force
+
