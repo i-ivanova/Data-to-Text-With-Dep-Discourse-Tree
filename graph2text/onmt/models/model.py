@@ -176,7 +176,7 @@ class NMTPlanModel(nn.Module):
                 tree_loss += self.tree_decoder(edus, tree_graph, adj_matrix, root, rels)
                 print(root)
                 compat_matrix_full = self.tree_decoder.get_compat_matrix(edus.squeeze(0))
-                root_scores = self.tree_decoder.root_clf(edus).view(edus.shape[0], -1)
+                root_scores = self.tree_decoder.root_clf(edus).view(-1, 1)
                 print("scores ", root_scores.shape, root_scores)
                 # Decode the tree structure
                 msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
