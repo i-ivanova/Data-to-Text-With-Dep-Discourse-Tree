@@ -1,0 +1,1000 @@
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 3 joint 0 evaluation 6 elaboration
+1 background -1 root 3 attribution 1 elaboration 3 elaboration 6 attribution 4 attribution 6 elaboration 7 elaboration 1 elaboration 11 attribution 9 cause-effect 10 attribution 12 attribution
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 elaboration 0 elaboration 6 elaboration 0 evaluation
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 4 elaboration 0 elaboration 6 enablement 9 elaboration 0 elaboration 9 elaboration 10 condition 0 elaboration 12 elaboration 17 elaboration 12 elaboration 15 elaboration 16 elaboration 17 elaboration 20 cause-effect 1 evaluation
+6 background 0 elaboration 6 background 2 elaboration 2 same-unit 6 background -1 root 6 progression 7 elaboration 8 elaboration 14 attribution 6 evaluation 11 elaboration 11 same-unit 13 joint
+4 background 0 enablement 0 enablement 4 enablement -1 root 4 enablement 4 manner-means 4 elaboration 7 joint 8 enablement 4 elaboration 10 manner-means 13 cause-effect 4 evaluation
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 0 elaboration 5 enablement 6 joint 0 elaboration 8 elaboration 8 elaboration 10 manner-means 11 joint 0 evaluation 13 elaboration 13 same-unit 15 enablement 13 elaboration
+2 background 0 enablement -1 root 2 elaboration 2 elaboration 8 manner-means 2 elaboration 8 manner-means 2 elaboration 2 elaboration 11 attribution 0 elaboration 11 manner-means 12 cause-effect 13 enablement 13 cause-effect
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 contrast 4 elaboration 4 elaboration 8 attribution 0 elaboration 0 elaboration 9 elaboration 9 same-unit 8 cause-effect
+1 contrast 3 contrast 1 elaboration 7 background 3 elaboration 0 cause-effect 5 contrast -1 root 7 enablement 8 manner-means 9 joint 7 evaluation
+17 background 0 enablement 1 elaboration 0 elaboration 0 enablement 4 manner-means 3 contrast 6 elaboration 6 contrast 7 temporal 9 attribution 6 elaboration 11 elaboration 11 elaboration 13 contrast 17 elaboration 17 background -1 root 17 background 18 joint 19 enablement 17 evaluation 21 manner-means
+3 background 0 enablement 3 same-unit 4 background -1 root 4 manner-means 4 elaboration 6 elaboration 7 elaboration 4 elaboration 9 attribution 10 attribution 11 attribution 12 manner-means 4 evaluation 14 enablement 14 elaboration 16 comparison
+4 contrast 0 joint 4 enablement 5 cause-effect 3 contrast 14 background -1 root 6 elaboration 6 elaboration 8 enablement 6 contrast 10 elaboration 11 joint 6 evaluation 13 attribution
+-1 root 0 elaboration 3 attribution 0 elaboration 3 elaboration 4 elaboration 7 explain 3 elaboration 7 elaboration 8 manner-means 9 elaboration 8 elaboration 11 manner-means 11 progression 9 background 2 attribution 15 attribution 16 background 16 joint 18 progression
+2 background 2 enablement -1 root 2 background 2 elaboration 4 manner-means 2 elaboration 6 manner-means 7 elaboration 2 evaluation 9 elaboration 10 elaboration 11 joint 10 joint 13 attribution
+-1 root 0 elaboration 3 contrast 4 contrast 5 background 0 elaboration 5 enablement 5 elaboration 7 elaboration 4 evaluation
+2 contrast 0 elaboration 3 contrast 6 background 3 temporal 4 joint -1 root 6 enablement 6 elaboration 8 background 6 evaluation 12 attribution 10 elaboration 12 enablement 13 elaboration 13 elaboration
+-1 root 0 manner-means 0 elaboration 2 joint 3 progression 6 manner-means 4 elaboration 6 elaboration 4 elaboration 8 joint 12 cause-effect 10 joint 0 evaluation
+1 background -1 root 1 elaboration 2 enablement 0 condition 4 elaboration 4 enablement 1 background 1 background 8 enablement 8 same-unit 10 elaboration 8 contrast 12 condition 1 elaboration 14 manner-means 15 elaboration 20 explain 17 comparison 20 manner-means 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 enablement 0 evaluation 4 progression 7 attribution 0 elaboration 7 joint
+-1 root 0 elaboration 0 elaboration 4 attribution 0 evaluation
+1 elaboration -1 root 1 elaboration 2 enablement 5 elaboration 2 elaboration 5 elaboration 5 elaboration 7 joint 5 elaboration 9 enablement 10 enablement 10 joint 10 enablement 5 evaluation
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 attribution 1 elaboration 5 elaboration 6 elaboration 9 attribution 10 progression 0 evaluation
+4 background 0 elaboration 4 background 4 background -1 root 4 elaboration 5 elaboration 6 enablement 4 evaluation 10 attribution 8 elaboration 10 joint 9 attribution 12 attribution
+1 elaboration 7 background 4 enablement 1 temporal 3 joint 4 elaboration 7 background -1 root 7 elaboration 7 elaboration 7 evaluation 10 elaboration 10 same-unit 7 evaluation 13 joint 14 comparison
+5 background 0 enablement 0 elaboration 2 same-unit 5 background -1 root 5 elaboration 6 joint 5 comparison 8 elaboration 5 elaboration
+-1 root 0 enablement 0 elaboration 2 elaboration 0 elaboration 0 elaboration 5 explain 0 evaluation
+-1 root 0 manner-means 0 elaboration 2 joint 3 temporal 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 explain 3 joint 4 progression 7 contrast 5 joint 7 elaboration 8 elaboration 9 elaboration 13 progression 11 progression 10 elaboration 15 progression 12 progression
+-1 root 0 enablement 0 elaboration 2 manner-means 6 elaboration 4 manner-means 7 elaboration 8 elaboration 2 elaboration 10 attribution 6 evaluation 12 manner-means 9 attribution 12 comparison 12 enablement
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 joint 0 elaboration 5 joint 7 temporal 10 attribution 0 evaluation
+3 background 0 elaboration 1 elaboration -1 root 3 enablement 4 elaboration 5 elaboration 1 elaboration 7 manner-means 7 joint 7 cause-effect 10 elaboration 11 elaboration 12 temporal 13 manner-means
+1 elaboration 5 background 1 temporal 0 elaboration 3 joint -1 root 5 elaboration 5 elaboration 5 elaboration 8 elaboration 5 evaluation 10 elaboration 11 explain 5 evaluation
+-1 root 0 manner-means 0 elaboration 2 enablement 3 background 2 elaboration 5 temporal 2 elaboration 7 enablement 10 attribution 0 evaluation
+-1 root 0 temporal 0 manner-means 4 elaboration 0 evaluation
+-1 root 0 elaboration 3 attribution 1 progression 5 manner-means 0 elaboration 5 progression 3 attribution 0 evaluation 8 elaboration 9 elaboration
+-1 root 0 background 1 elaboration 2 elaboration 3 joint 6 enablement 2 elaboration 6 enablement 9 attribution 2 evaluation 9 joint 12 cause-effect 10 progression
+9 background 0 contrast 1 elaboration 1 elaboration 25 manner-means 1 same-unit 7 cause-effect 9 elaboration 7 elaboration -1 root 11 attribution 9 progression 16 manner-means 11 elaboration 16 enablement 16 enablement 11 elaboration 16 manner-means 19 attribution 16 manner-means 16 manner-means 0 elaboration 21 elaboration 22 elaboration 1 same-unit 24 joint 25 manner-means 21 cause-effect 27 elaboration 28 elaboration 27 progression 30 elaboration 31 enablement
+-1 root 0 elaboration 3 attribution 0 joint 0 elaboration 4 condition 5 elaboration 0 elaboration 7 elaboration 7 elaboration 0 elaboration 10 enablement 15 progression 15 contrast 15 elaboration 3 elaboration 15 elaboration
+8 background 0 elaboration 0 same-unit 1 explain 0 elaboration 4 joint 5 cause-effect 6 elaboration -1 root 8 elaboration 11 enablement 18 manner-means 11 elaboration 12 elaboration 15 attribution 8 evaluation 15 elaboration 18 enablement 8 elaboration 18 elaboration 19 enablement 14 attribution 21 attribution
+5 background 0 enablement 0 elaboration 2 elaboration 0 elaboration -1 root 5 enablement 5 elaboration 5 elaboration 8 progression 9 attribution 10 attribution 10 condition 10 joint
+3 elaboration 0 explain 3 contrast 4 background -1 root 4 manner-means 5 elaboration 9 attribution 7 attribution 10 contrast 4 evaluation 4 evaluation 11 cause-effect
+-1 root 0 elaboration 0 elaboration 2 manner-means 3 elaboration 2 elaboration 5 enablement 6 joint 0 evaluation
+1 elaboration -1 root 1 elaboration 2 elaboration 1 elaboration 4 manner-means 5 elaboration 1 elaboration 7 enablement 4 elaboration 9 enablement 1 elaboration 11 manner-means 1 elaboration 13 joint 14 enablement 1 elaboration 16 manner-means 0 evaluation
+5 background 0 enablement 0 same-unit 2 joint 3 temporal -1 root 5 enablement 5 joint 7 manner-means 5 evaluation 9 elaboration 9 elaboration 11 elaboration 11 elaboration 13 elaboration 13 elaboration 15 elaboration
+-1 root 2 attribution 0 elaboration 0 elaboration 3 elaboration 3 elaboration 5 elaboration 5 progression 7 explain 5 elaboration 9 condition
+-1 root 0 manner-means 3 enablement 0 elaboration 0 elaboration 0 elaboration 7 elaboration 0 elaboration 7 elaboration 8 joint 7 elaboration 10 elaboration 11 elaboration 12 joint 15 attribution 0 evaluation
+5 background 0 enablement 0 elaboration 2 temporal 5 enablement 8 background 8 enablement 6 elaboration -1 root 8 manner-means 8 elaboration 10 enablement 11 enablement 8 evaluation 13 attribution
+-1 root 0 enablement 1 elaboration 0 elaboration 1 elaboration 0 evaluation 5 joint 6 elaboration
+3 background 0 elaboration 1 elaboration -1 root 3 enablement 4 manner-means 3 elaboration 6 elaboration 9 attribution 6 cause-effect 9 attribution 10 attribution 11 comparison
+-1 root 0 elaboration 0 elaboration 0 elaboration 5 cause-effect 7 cause-effect 8 elaboration 0 elaboration 7 attribution 8 elaboration 11 attribution 0 evaluation 11 joint 12 enablement 0 elaboration
+4 background 0 elaboration 0 same-unit 2 comparison -1 root 4 progression 5 elaboration
+1 elaboration 4 background 1 elaboration 2 elaboration -1 root 4 elaboration 9 manner-means 6 elaboration 9 attribution 4 evaluation 9 manner-means 10 elaboration 11 elaboration
+3 background 0 elaboration 3 background -1 root 3 elaboration 3 elaboration 5 elaboration 3 elaboration 7 enablement 3 elaboration 9 enablement 9 elaboration 9 evaluation 12 elaboration 12 elaboration 12 elaboration 15 elaboration 16 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 background 6 background 0 elaboration 6 enablement 0 elaboration 8 elaboration 17 attribution 10 attribution 13 temporal 14 elaboration 0 elaboration 14 elaboration 17 attribution 0 evaluation
+4 background 0 elaboration 0 elaboration 2 joint 9 background 4 elaboration 4 elaboration 9 elaboration 7 elaboration -1 root 9 manner-means 9 progression 9 background 11 enablement
+-1 root 0 elaboration 1 progression 2 progression 3 joint
+-1 root 0 manner-means 0 elaboration 2 elaboration 0 elaboration 4 joint 5 manner-means 6 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 6 manner-means 0 elaboration 6 temporal 0 evaluation 8 elaboration 9 background
+1 cause-effect 5 explain 0 elaboration 2 enablement 2 elaboration 7 progression 7 enablement 10 elaboration 7 enablement 7 cause-effect -1 root 10 enablement 11 elaboration 10 enablement
+-1 root 0 enablement 0 background 2 joint 0 elaboration 4 elaboration 7 attribution 0 elaboration 7 elaboration 8 elaboration 9 joint 8 elaboration 11 elaboration 11 elaboration 15 cause-effect 11 elaboration 14 elaboration 16 elaboration 16 elaboration 18 elaboration
+4 background 0 elaboration 4 attribution 4 attribution -1 root 4 elaboration 4 same-unit 8 elaboration 4 elaboration 8 attribution 4 elaboration 10 condition 8 elaboration 12 elaboration 13 elaboration 14 attribution 15 attribution
+-1 root 0 elaboration 3 condition 0 evaluation 3 elaboration 4 temporal 7 comparison 0 evaluation 7 elaboration 0 evaluation
+-1 root 0 elaboration 1 elaboration 1 elaboration 0 elaboration 4 joint 5 elaboration 6 enablement 7 elaboration 0 elaboration 9 elaboration 12 explain 9 elaboration 12 elaboration 13 contrast
+6 background 0 elaboration 1 enablement 5 elaboration 3 elaboration 6 background -1 root 6 enablement 9 attribution 6 elaboration 6 elaboration 10 elaboration 10 joint 10 manner-means 9 attribution 14 attribution 15 manner-means
+1 attribution -1 root 1 elaboration 1 condition 1 evaluation
+3 background 0 joint 1 elaboration -1 root 3 elaboration 3 elaboration 3 elaboration 6 elaboration 7 joint 3 elaboration 9 elaboration 14 elaboration 11 elaboration 14 attribution 3 evaluation
+-1 root 0 elaboration 1 elaboration 2 elaboration 5 attribution 0 elaboration 5 manner-means 0 elaboration 7 enablement 7 manner-means 7 temporal 13 cause-effect 11 enablement 21 elaboration 13 elaboration 16 joint 13 manner-means 16 elaboration 21 enablement 16 elaboration 19 elaboration 23 progression 21 enablement 0 elaboration 23 joint 24 manner-means 0 evaluation
+4 elaboration 0 elaboration 0 enablement 4 explain 6 background 6 manner-means -1 root 6 progression 7 explain 6 manner-means 9 cause-effect 10 enablement 10 progression 14 attribution 12 evaluation
+-1 root 0 joint 1 enablement 1 elaboration 3 elaboration 3 elaboration 1 elaboration 0 evaluation
+2 background 0 elaboration -1 root 2 elaboration 2 elaboration 0 elaboration 2 elaboration 6 cause-effect 6 elaboration 8 cause-effect 9 enablement 2 evaluation 13 elaboration 11 joint 13 elaboration 14 manner-means
+2 temporal 2 elaboration 5 background 2 elaboration 5 background -1 root 5 elaboration 8 attribution 5 elaboration 8 joint 11 attribution 5 evaluation 9 joint 14 enablement 5 elaboration 14 elaboration 15 cause-effect 16 enablement 21 joint 18 elaboration 19 elaboration 5 elaboration 21 joint 24 attribution 5 evaluation
+-1 root 0 progression 1 evaluation 2 elaboration 5 attribution 1 evaluation 5 joint 6 elaboration 7 elaboration
+2 background 0 elaboration -1 root 2 elaboration 3 enablement 3 enablement 5 joint 2 elaboration 2 evaluation 8 attribution
+6 background 0 elaboration 0 same-unit 2 enablement 0 manner-means 6 background -1 root 6 elaboration 6 background 6 elaboration 6 elaboration 6 elaboration 11 elaboration 12 elaboration 12 enablement 6 elaboration 15 enablement 6 elaboration 17 elaboration 18 elaboration 6 evaluation 20 enablement
+1 background -1 root 1 elaboration 2 elaboration 1 elaboration 4 manner-means 5 manner-means 4 elaboration 11 attribution 7 evaluation 13 joint 10 attribution 9 explain 12 joint
+-1 root 0 elaboration 0 enablement 2 elaboration 0 elaboration 4 elaboration 5 elaboration 9 elaboration 7 elaboration 0 elaboration 9 elaboration 12 attribution 0 evaluation
+13 background 0 elaboration 1 enablement 6 background 3 elaboration 6 explain 8 elaboration 6 enablement 10 attribution 10 attribution 0 elaboration 10 explain 11 elaboration -1 root 13 joint 13 evaluation
+5 background 0 enablement 0 elaboration 2 elaboration 3 elaboration -1 root 5 elaboration 6 elaboration 7 joint 5 progression 9 enablement 9 joint 11 elaboration
+-1 root 0 elaboration 0 elaboration 2 manner-means 5 temporal 0 elaboration 5 cause-effect 0 elaboration 9 attribution 0 elaboration 9 joint 10 elaboration 9 joint 12 joint
+2 enablement 0 cause-effect 5 background 2 elaboration 2 same-unit -1 root 5 elaboration 6 manner-means 5 enablement 11 elaboration 5 elaboration 10 elaboration 11 elaboration 11 elaboration 11 elaboration 11 cause-effect 15 manner-means 16 elaboration 17 joint 18 elaboration
+-1 root 0 elaboration 3 elaboration 0 elaboration 3 elaboration 3 same-unit 5 enablement 3 elaboration 5 enablement 7 evaluation 9 attribution 0 elaboration 11 elaboration 10 attribution 13 attribution 14 elaboration
+1 background -1 root 1 background 2 elaboration 1 elaboration 4 same-unit 5 progression 6 elaboration 1 evaluation 8 attribution 9 elaboration
+-1 root 0 manner-means 0 progression 0 elaboration 3 elaboration 7 elaboration 7 temporal 0 elaboration 7 temporal 10 background 12 elaboration 12 manner-means 7 elaboration 12 elaboration 13 enablement 13 joint 13 enablement 12 elaboration 17 background 17 comparison 19 elaboration 23 elaboration 21 same-unit 7 evaluation
+1 background -1 root 1 elaboration 2 enablement 1 elaboration 6 attribution 0 evaluation
+-1 root 0 background 1 elaboration 0 elaboration 3 elaboration 4 enablement 7 comparison 12 attribution 7 attribution 8 elaboration 8 elaboration 0 evaluation 11 attribution 12 attribution 11 attribution 14 enablement
+2 background 0 elaboration -1 root 2 enablement 2 elaboration 4 elaboration 5 enablement 2 elaboration 7 joint 2 elaboration 9 manner-means 2 evaluation
+9 background 0 elaboration 1 enablement 0 same-unit 9 background 4 explain 4 cause-effect 5 elaboration 9 enablement -1 root 9 enablement 9 elaboration 11 elaboration 12 elaboration 12 condition 12 elaboration 15 elaboration 9 elaboration
+7 background 0 comparison 3 contrast 0 elaboration 3 contrast 4 elaboration 4 enablement 8 background -1 root 8 joint 9 temporal 8 elaboration 8 progression 12 elaboration
+-1 root 0 elaboration 1 elaboration 1 elaboration 3 enablement 1 elaboration 5 joint 6 temporal 6 elaboration 1 elaboration 9 elaboration 10 joint 11 enablement 12 enablement 9 elaboration 14 elaboration 14 evaluation 16 elaboration
+-1 root 0 elaboration 1 manner-means 0 elaboration 0 elaboration 0 elaboration 0 elaboration 6 manner-means 7 elaboration 0 elaboration 9 manner-means 10 elaboration
+2 background 0 elaboration -1 root 2 elaboration 3 enablement 4 elaboration 3 evaluation 8 attribution 6 cause-effect 8 comparison
+-1 root 0 elaboration 0 elaboration 4 condition 0 background 4 elaboration 7 contrast 0 elaboration 7 enablement 7 elaboration 9 elaboration 0 elaboration 13 attribution 0 elaboration 13 elaboration 13 same-unit 0 elaboration 0 evaluation 17 manner-means 18 elaboration
+5 background 0 cause-effect 5 background 2 contrast 3 joint -1 root 5 elaboration 6 enablement 9 manner-means 6 elaboration 9 progression 9 progression 11 elaboration 11 elaboration 13 elaboration 6 evaluation 15 elaboration
+-1 root 0 background 0 elaboration 2 enablement 5 progression 0 evaluation 5 joint 6 elaboration 5 attribution 8 attribution 9 comparison
+-1 root 0 enablement 0 elaboration 2 manner-means 2 enablement 0 elaboration 5 joint 0 elaboration 7 joint 8 enablement 0 elaboration 10 elaboration 10 joint 15 cause-effect 13 elaboration 0 evaluation 17 attribution 15 elaboration 17 joint 18 enablement
+3 background 0 elaboration 0 elaboration -1 root 3 elaboration 3 elaboration 5 joint 6 elaboration 7 elaboration
+3 cause-effect 0 enablement 4 contrast 2 cause-effect 5 attribution -1 root 5 progression 6 elaboration 6 elaboration 5 elaboration 9 elaboration 9 same-unit 13 attribution 4 evaluation
+-1 root 0 elaboration 1 elaboration 1 elaboration 0 elaboration 4 manner-means 0 elaboration 6 attribution 7 attribution 8 enablement 11 elaboration 12 temporal 0 elaboration
+-1 root 0 background 1 manner-means 2 elaboration 3 joint 0 elaboration 5 manner-means 5 elaboration 9 background 0 elaboration 11 attribution 0 evaluation 18 joint 12 temporal 0 elaboration 14 manner-means 17 elaboration 0 evaluation 17 elaboration 18 joint
+-1 root 0 enablement 1 elaboration 0 elaboration 3 elaboration 4 elaboration 3 progression 6 cause-effect 6 cause-effect 8 elaboration 9 manner-means 10 elaboration
+-1 root 0 elaboration 0 evaluation 2 elaboration 0 elaboration 4 joint 2 elaboration 0 evaluation 7 elaboration
+2 joint 0 elaboration 5 background 2 joint 2 contrast -1 root 5 manner-means 6 elaboration 7 joint 8 enablement 9 joint 13 cause-effect 11 elaboration 0 evaluation
+-1 root 0 elaboration 1 joint 2 attribution 3 elaboration 3 same-unit 0 elaboration 6 elaboration 7 temporal 6 joint
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 0 elaboration 5 manner-means 0 elaboration 7 joint 0 evaluation 9 elaboration 9 cause-effect
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 joint 0 elaboration 7 attribution 5 progression 7 enablement 8 elaboration 7 attribution 10 attribution 11 comparison
+5 elaboration 0 elaboration 1 elaboration 2 elaboration 5 contrast 6 cause-effect 9 background 6 joint 9 enablement -1 root 9 joint 10 enablement 11 elaboration 14 contrast 12 comparison 14 temporal 13 attribution 16 attribution 17 elaboration 17 attribution 17 attribution
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 joint 4 enablement 0 elaboration 6 elaboration 0 evaluation 8 elaboration 13 temporal 10 elaboration 11 joint 0 evaluation
+2 contrast 0 enablement 3 background -1 root 3 elaboration 4 manner-means 3 elaboration 6 joint 7 enablement 16 attribution 9 attribution 10 elaboration 13 joint 10 elaboration 13 temporal 16 attribution 3 evaluation 16 joint 17 contrast
+-1 root 0 elaboration 0 elaboration 0 elaboration
+1 cause-effect 8 explain 0 elaboration -1 root 3 elaboration 4 comparison 5 elaboration 8 comparison 3 evaluation 8 contrast 9 elaboration
+-1 root 0 elaboration 0 same-unit 0 elaboration 3 elaboration 4 manner-means 5 background 0 elaboration 7 enablement 7 elaboration 9 background 0 elaboration 11 manner-means 12 elaboration 15 attribution 16 attribution 0 evaluation 16 temporal
+-1 root 0 elaboration 1 enablement 1 manner-means 3 manner-means 0 elaboration 5 joint 8 comparison 0 elaboration 13 attribution 9 attribution 10 elaboration 13 attribution 0 evaluation 13 joint 14 joint 15 temporal
+3 background 0 joint 1 temporal -1 root 3 elaboration 4 elaboration 3 elaboration 6 elaboration 7 elaboration 10 condition 11 attribution 3 elaboration 11 elaboration
+-1 root 0 manner-means 0 elaboration 2 elaboration 3 elaboration 6 cause-effect 0 elaboration 6 enablement 7 elaboration 8 joint 9 enablement 0 evaluation 11 manner-means 11 same-unit 13 elaboration 14 elaboration 14 manner-means 14 same-unit 0 evaluation 18 comparison
+1 elaboration 5 background 1 elaboration 1 elaboration 3 joint -1 root 5 background 5 elaboration 7 elaboration 7 same-unit 9 joint
+5 background 0 elaboration 0 elaboration 6 background 3 elaboration 6 background -1 root 6 enablement 6 elaboration 8 cause-effect 9 enablement 9 evaluation 11 attribution
+6 contrast 0 manner-means 0 same-unit 0 contrast 3 background 4 elaboration 8 background 6 enablement -1 root 8 manner-means 8 elaboration 12 joint 8 elaboration 12 manner-means 13 elaboration 16 attribution 19 attribution 16 condition 17 enablement 8 evaluation
+-1 root 0 elaboration 1 elaboration 2 joint 1 elaboration 4 cause-effect 5 joint 4 cause-effect 7 enablement
+-1 root 0 elaboration 0 enablement 4 attribution 0 elaboration 4 elaboration 4 same-unit 8 manner-means 3 evaluation 8 contrast
+5 background 0 contrast 5 background 2 elaboration 5 background -1 root 5 elaboration 6 enablement 6 elaboration 10 enablement 5 evaluation 10 attribution 11 attribution
+6 background 0 joint 0 elaboration 2 elaboration 12 joint 6 background -1 root 6 enablement 7 elaboration 6 elaboration 9 manner-means 6 elaboration 11 progression 12 joint
+-1 root 0 enablement 0 elaboration 2 elaboration 0 elaboration 4 elaboration 4 joint 6 elaboration 6 same-unit
+2 background 0 elaboration -1 root 2 background 2 elaboration 4 elaboration 7 attribution 2 evaluation 7 manner-means
+1 background -1 root 1 elaboration 1 background 1 elaboration 4 elaboration 5 enablement 9 cause-effect 7 enablement 1 elaboration 9 elaboration 1 elaboration 11 enablement
+-1 root 0 elaboration 0 elaboration 2 elaboration
+9 background 0 elaboration 0 elaboration 2 elaboration 3 elaboration 2 elaboration 9 background 6 elaboration 7 enablement -1 root 9 elaboration 10 elaboration 13 elaboration 10 elaboration 13 elaboration 10 evaluation
+4 background 0 temporal 0 contrast 2 elaboration -1 root 4 elaboration 5 elaboration 6 joint 9 progression 7 progression 9 attribution 10 attribution
+-1 root 0 elaboration 1 joint 2 elaboration 0 elaboration 4 manner-means 0 elaboration 6 enablement 7 elaboration 10 cause-effect 0 elaboration 0 elaboration 11 manner-means 12 elaboration 0 evaluation
+-1 root 0 elaboration 1 elaboration 1 same-unit 0 elaboration 4 manner-means 5 joint 6 enablement 4 elaboration 8 elaboration 9 enablement 12 attribution 0 evaluation 12 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 0 elaboration 5 elaboration 5 elaboration 0 elaboration 8 manner-means 0 elaboration 10 elaboration 8 evaluation 12 elaboration
+4 background 0 manner-means 1 temporal 4 background -1 root 4 elaboration 7 enablement 4 elaboration 7 enablement 7 manner-means 11 attribution 4 evaluation
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 elaboration 0 elaboration 5 enablement 6 manner-means 0 elaboration 8 elaboration 11 elaboration 9 condition 11 elaboration
+-1 root 0 elaboration 4 enablement 4 contrast 0 elaboration 4 manner-means 4 elaboration 6 explain 12 elaboration 8 elaboration 14 elaboration 6 explain 13 elaboration 11 enablement 13 elaboration 14 elaboration 15 elaboration 18 cause-effect 15 elaboration 18 elaboration
+5 background 0 elaboration 0 enablement 0 elaboration 3 enablement -1 root 5 elaboration 6 elaboration 5 elaboration 8 contrast 5 elaboration 10 progression 11 manner-means 12 elaboration 10 elaboration 14 background 14 evaluation 16 elaboration
+2 elaboration 7 condition 5 same-unit 2 elaboration 3 elaboration 10 same-unit 7 elaboration 2 contrast 7 elaboration 12 same-unit 9 joint 10 elaboration -1 root 12 elaboration 12 elaboration 17 elaboration 15 manner-means 12 elaboration 17 elaboration 15 manner-means 12 evaluation 12 evaluation 21 elaboration 21 explain
+3 contrast 0 contrast 1 contrast 5 background 5 enablement -1 root 5 elaboration 6 enablement 6 background 6 enablement 5 elaboration 10 elaboration 10 elaboration 12 enablement 13 elaboration 16 attribution 5 evaluation 13 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 6 attribution 0 evaluation 6 progression
+6 background 6 attribution 0 elaboration 6 same-unit 6 contrast 6 attribution -1 root 6 elaboration 13 enablement 10 manner-means 6 elaboration 10 elaboration 14 elaboration 10 elaboration 13 enablement 14 elaboration 15 elaboration 16 cause-effect 19 attribution 17 progression
+-1 root 0 elaboration 3 attribution 0 elaboration 0 elaboration
+4 background 0 enablement 0 elaboration 9 manner-means -1 root 4 elaboration 4 elaboration 9 manner-means 9 joint 4 elaboration 9 enablement 9 manner-means 11 elaboration 9 cause-effect 11 elaboration 16 attribution 4 evaluation 16 elaboration
+6 cause-effect 0 enablement 1 joint 6 elaboration 3 explain 4 elaboration -1 root 0 manner-means 7 elaboration 7 same-unit 6 elaboration 10 condition 11 elaboration 6 evaluation 13 joint
+6 background 0 elaboration 0 elaboration 0 elaboration 3 enablement 0 elaboration -1 root 6 elaboration 7 joint 8 joint 6 elaboration 8 joint 6 elaboration 12 elaboration 17 comparison 14 elaboration 6 elaboration 16 manner-means 17 background
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 manner-means 4 elaboration 7 cause-effect 0 elaboration 0 elaboration 8 progression 9 elaboration 10 manner-means 7 evaluation 12 progression
+-1 root 0 elaboration 0 elaboration 0 joint 3 enablement 3 joint 0 evaluation 6 same-unit 9 attribution 7 elaboration 9 elaboration 9 same-unit 11 elaboration 9 attribution 13 attribution 14 comparison
+1 background -1 root 1 elaboration 4 attribution 1 elaboration 4 joint 1 evaluation 6 elaboration 7 joint 8 manner-means 9 manner-means
+-1 root 0 enablement 0 elaboration 2 elaboration 3 elaboration 8 manner-means 8 enablement 6 elaboration 0 elaboration 8 enablement 11 condition 8 elaboration 13 attribution 11 cause-effect 0 joint 14 elaboration 14 elaboration 14 joint 17 enablement 20 progression 17 joint
+-1 root 0 elaboration 0 elaboration 2 manner-means 0 elaboration 4 elaboration 0 elaboration 6 joint 0 elaboration 8 enablement 0 evaluation 10 cause-effect
+2 background 0 elaboration -1 root 2 elaboration 3 joint 4 enablement 2 elaboration 6 elaboration 7 enablement 8 elaboration 2 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 elaboration 4 same-unit 5 joint
+-1 root 0 enablement 0 elaboration 0 elaboration 0 elaboration 4 elaboration 5 elaboration 9 temporal 6 condition 6 joint 9 condition 12 attribution 4 evaluation 12 progression 13 joint 14 elaboration
+-1 root 0 enablement 1 elaboration 0 elaboration 3 manner-means 0 elaboration 5 evaluation 6 elaboration 9 attribution 6 elaboration 9 elaboration 9 same-unit 11 elaboration
+-1 root 0 elaboration 1 enablement 0 elaboration 6 manner-means 4 enablement 0 elaboration 6 joint 7 joint 0 elaboration 9 joint
+7 background 0 elaboration 0 same-unit 4 contrast 5 contrast 0 elaboration 5 enablement -1 root 7 manner-means 11 background 11 attribution 7 elaboration 11 elaboration 15 elaboration 13 elaboration 7 elaboration 15 cause-effect 18 attribution 7 evaluation 18 manner-means 19 elaboration
+2 background 0 elaboration -1 root 4 elaboration 2 elaboration 4 elaboration 4 joint 2 evaluation
+-1 root 0 elaboration 3 attribution 0 elaboration 3 contrast 0 elaboration 5 enablement 6 enablement 12 progression 8 background 9 elaboration 10 enablement 5 elaboration 12 elaboration 13 enablement
+2 background 0 elaboration -1 root 2 progression 5 attribution 2 elaboration 5 joint 2 elaboration 9 attribution 7 joint 9 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 0 elaboration 4 joint 1 elaboration 6 same-unit 4 elaboration 8 elaboration 8 elaboration 10 elaboration 11 enablement 0 evaluation 13 elaboration 14 elaboration 13 joint
+-1 root 0 enablement 0 elaboration 0 elaboration 3 elaboration 3 joint
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 3 same-unit 0 elaboration 6 manner-means 7 elaboration 8 elaboration 11 enablement 0 elaboration 11 elaboration 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 manner-means 5 elaboration 9 cause-effect 9 joint 4 progression 9 manner-means 12 attribution 0 evaluation 12 elaboration
+3 background 0 same-unit 1 enablement -1 root 3 progression 6 condition 4 elaboration 3 evaluation
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 joint 5 elaboration 0 elaboration 7 elaboration 7 elaboration 0 evaluation 10 joint
+2 cause-effect 0 enablement 4 elaboration 2 enablement 6 background 4 elaboration -1 root 6 cause-effect 6 evaluation 6 evaluation
+1 elaboration 4 background 1 elaboration 4 background -1 root 4 enablement 4 elaboration 6 enablement 6 joint 11 manner-means 4 elaboration 10 manner-means 11 manner-means 11 elaboration 13 joint 4 elaboration 15 enablement 4 evaluation 17 cause-effect 18 attribution
+-1 root 0 elaboration 0 elaboration 2 manner-means 3 condition 0 elaboration 5 elaboration 6 comparison 0 evaluation 8 elaboration
+2 elaboration 22 background 1 elaboration 2 elaboration 22 manner-means 4 joint 5 elaboration 5 same-unit 7 joint -1 root 9 elaboration 10 enablement 13 joint 19 elaboration 13 elaboration 14 elaboration 17 enablement 9 evaluation 17 enablement 28 elaboration 0 same-unit 22 elaboration 9 elaboration 22 enablement 5 elaboration 5 contrast 5 elaboration 9 evaluation 0 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 0 elaboration 4 enablement 0 elaboration 6 elaboration 0 evaluation 8 elaboration 9 elaboration
+1 elaboration 2 background 13 background 0 elaboration 3 explain 9 cause-effect 5 elaboration 6 elaboration 5 same-unit 13 background 6 elaboration 13 progression 11 joint -1 root 13 elaboration 16 attribution 13 evaluation
+-1 root 0 enablement 0 manner-means 2 elaboration 0 evaluation 4 comparison 4 joint 4 elaboration
+-1 root 3 condition 1 elaboration 0 elaboration 3 elaboration 7 temporal 3 elaboration 3 elaboration 7 elaboration 8 elaboration 8 attribution 10 attribution 16 progression 14 elaboration 16 temporal 14 elaboration 0 evaluation 16 cause-effect
+-1 root 0 elaboration 1 elaboration 1 elaboration 3 elaboration 4 manner-means 4 elaboration 6 elaboration 9 background 0 elaboration 9 enablement 10 manner-means 11 elaboration 9 elaboration 13 elaboration 14 background 0 evaluation
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 4 elaboration 1 elaboration 6 elaboration 9 attribution 1 evaluation
+4 background 0 elaboration 0 explain 0 same-unit 7 background 4 explain 7 background -1 root 7 elaboration 8 joint 9 enablement 12 attribution 7 evaluation
+-1 root 0 elaboration 0 elaboration 2 contrast 3 contrast 4 temporal 5 elaboration 6 manner-means 7 cause-effect 10 enablement 0 elaboration 10 enablement 11 elaboration 10 elaboration 15 background 13 joint 15 elaboration 10 enablement 10 elaboration 10 evaluation 19 progression 20 cause-effect
+-1 root 0 background 0 elaboration 2 elaboration 2 contrast 0 elaboration 5 manner-means 8 elaboration 0 elaboration 8 elaboration 8 elaboration 10 elaboration 0 evaluation 12 explain
+4 background 0 elaboration 0 elaboration 4 background -1 root 4 elaboration 4 elaboration 4 elaboration 7 elaboration 7 elaboration 9 condition 10 cause-effect 4 evaluation 12 manner-means 15 attribution 7 evaluation 15 elaboration 15 same-unit 17 progression 18 enablement
+3 background 0 elaboration 3 attribution -1 root 3 attribution 3 elaboration 5 elaboration 5 elaboration 7 elaboration 12 elaboration 12 elaboration 3 elaboration 14 elaboration 15 elaboration 11 progression 14 elaboration 15 elaboration 16 temporal 15 elaboration
+-1 root 0 elaboration 1 enablement 1 manner-means 5 condition 0 elaboration 5 elaboration 0 evaluation 7 enablement 7 explain 9 comparison
+-1 root 0 enablement 0 elaboration 0 background 3 enablement 3 manner-means 5 elaboration 8 joint 3 cause-effect 8 manner-means 8 condition 10 cause-effect 11 elaboration 15 manner-means 15 manner-means 11 explain 13 cause-effect
+-1 root 0 elaboration 1 elaboration 4 cause-effect 0 evaluation 6 joint 4 progression 6 elaboration
+1 elaboration -1 root 1 elaboration 1 elaboration 1 elaboration 4 contrast 1 elaboration 6 elaboration 7 elaboration 12 elaboration 9 elaboration 12 elaboration 14 elaboration 12 elaboration 15 elaboration 1 elaboration 15 elaboration
+-1 root 2 elaboration 0 elaboration 2 elaboration 0 elaboration 4 temporal 5 enablement 8 background 0 elaboration 8 manner-means 11 attribution 0 evaluation 11 temporal
+3 background 0 elaboration 3 background -1 root 3 elaboration 3 evaluation 5 elaboration 6 attribution 7 attribution 8 manner-means
+1 contrast 2 contrast 3 background -1 root 3 enablement 3 elaboration 5 elaboration 6 elaboration 5 joint 8 enablement 6 elaboration 8 cause-effect 11 enablement
+-1 root 0 manner-means 0 contrast 2 elaboration 3 elaboration 2 contrast 0 elaboration 6 elaboration 6 joint 8 enablement 12 cause-effect 10 manner-means 0 evaluation 12 enablement 13 elaboration
+5 manner-means 0 elaboration 1 elaboration 1 enablement 5 enablement -1 root 5 enablement 5 elaboration 9 explain 5 elaboration 9 manner-means 5 evaluation 11 progression 12 elaboration
+6 background 0 elaboration 0 elaboration 2 joint 3 elaboration 0 elaboration -1 root 6 elaboration 7 elaboration 8 enablement 9 elaboration 10 background
+1 contrast 2 background -1 root 2 enablement 3 elaboration 2 elaboration 5 manner-means 2 evaluation 7 joint 8 enablement
+3 background 0 enablement 3 contrast -1 root 3 elaboration 4 manner-means 5 joint 3 elaboration 7 attribution 13 progression 9 elaboration 10 elaboration 9 joint 3 elaboration 4 joint 14 elaboration
+3 background 0 elaboration 1 manner-means -1 root 3 enablement 3 elaboration 5 condition 3 elaboration 7 elaboration 8 enablement 11 attribution 3 evaluation 11 explain
+-1 root 0 elaboration 0 elaboration 0 elaboration 0 elaboration 4 contrast 5 comparison 8 elaboration 12 enablement 8 elaboration 9 elaboration 7 elaboration 0 elaboration 12 elaboration 12 joint
+-1 root 0 manner-means 1 elaboration 4 contrast 0 elaboration 4 progression 5 manner-means 6 joint 7 joint 0 evaluation 9 elaboration 9 cause-effect
+-1 root 2 explain 0 elaboration 0 elaboration 3 elaboration 6 joint 3 elaboration 6 elaboration 7 joint 8 enablement 9 attribution 10 attribution 15 manner-means 15 manner-means 13 elaboration 0 evaluation
+-1 root 0 elaboration 0 elaboration 6 elaboration 0 elaboration 4 elaboration 5 elaboration 6 elaboration 0 evaluation 8 elaboration 9 manner-means 10 elaboration
+5 background 0 contrast 1 elaboration 2 enablement 5 background -1 root 5 enablement 8 manner-means 5 elaboration 8 manner-means 5 elaboration 10 joint 13 cause-effect 14 elaboration 15 elaboration 8 manner-means 17 attribution 13 elaboration 5 evaluation 18 elaboration
+3 contrast 0 elaboration 0 same-unit 7 background 3 joint 4 elaboration 7 attribution -1 root 7 background 7 same-unit 11 elaboration 9 enablement 11 elaboration
+-1 root 0 enablement 1 elaboration 0 elaboration 3 elaboration 0 elaboration 5 elaboration 8 explain 5 elaboration 0 elaboration 11 joint 0 elaboration 11 manner-means 12 manner-means 15 attribution 0 evaluation 15 progression 16 joint
+1 contrast 3 cause-effect 1 cause-effect 4 elaboration -1 root 4 manner-means 5 elaboration 6 enablement 4 elaboration 8 contrast 9 elaboration 9 contrast 11 progression 12 joint 16 attribution 14 attribution 12 joint
+2 elaboration 0 condition 5 background 0 elaboration 3 elaboration -1 root 5 elaboration 6 elaboration 7 enablement 5 elaboration 9 elaboration 10 elaboration 5 elaboration 12 progression 13 elaboration 12 elaboration 15 manner-means 16 joint 12 elaboration 18 joint
+8 background 2 joint 0 joint 2 elaboration 0 elaboration 4 same-unit 5 joint 8 background -1 root 8 progression 9 elaboration 10 cause-effect
+3 background 0 contrast 1 enablement -1 root 3 elaboration 3 elaboration 3 evaluation
+2 background 0 contrast -1 root 2 elaboration 5 manner-means 2 elaboration 5 elaboration 9 enablement 7 elaboration 2 elaboration 9 manner-means 2 evaluation 11 joint 11 enablement
+5 background 0 elaboration 1 manner-means 2 elaboration 5 elaboration 6 background -1 root 6 progression 6 elaboration 8 elaboration 8 evaluation 10 manner-means
+-1 root 0 elaboration 3 elaboration 0 elaboration 3 elaboration 7 joint 7 attribution 0 elaboration 7 elaboration 7 elaboration 11 attribution 9 cause-effect 11 joint 12 same-unit 12 joint 0 evaluation
+-1 root 0 elaboration 1 enablement 0 elaboration 3 joint 0 elaboration 7 attribution 0 evaluation 7 elaboration 8 joint
+3 background 0 elaboration 3 attribution -1 root 3 enablement 3 background 3 evaluation 6 explain 7 enablement 8 background 11 attribution 9 elaboration 11 elaboration
+-1 root 0 enablement 0 elaboration 2 manner-means 3 elaboration 0 evaluation 7 elaboration 5 elaboration 3 elaboration 11 progression 9 manner-means 5 elaboration
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 elaboration 4 manner-means 7 attribution 3 evaluation
+-1 root 0 elaboration 1 elaboration 0 elaboration 0 elaboration 4 elaboration 0 elaboration 0 evaluation 7 temporal 0 evaluation 9 elaboration
+-1 root 0 elaboration 1 enablement 0 elaboration 3 joint 4 elaboration 0 elaboration 6 elaboration 6 background 0 elaboration 9 manner-means 0 elaboration 11 manner-means 12 elaboration 17 attribution 14 attribution 15 comparison 9 temporal
+4 background 0 elaboration 1 manner-means 2 temporal 11 background 4 elaboration 0 attribution 6 attribution 7 elaboration 11 cause-effect 9 manner-means -1 root 11 joint 12 elaboration 15 attribution 11 evaluation 15 elaboration 16 condition 12 joint 11 progression 19 elaboration 19 elaboration 21 enablement
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 6 enablement 0 elaboration 6 elaboration 7 enablement 8 manner-means 0 elaboration 10 enablement 11 elaboration 10 progression 13 condition 16 attribution 0 evaluation
+2 background 0 elaboration -1 root 2 elaboration 3 elaboration 6 background 7 progression 8 progression 2 evaluation
+5 background 0 elaboration 0 same-unit 5 background 5 background -1 root 5 elaboration 6 elaboration 7 elaboration 8 joint 9 elaboration 5 elaboration 11 elaboration 5 elaboration 13 elaboration 14 manner-means 17 contrast 5 elaboration 17 joint
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 joint 6 contrast 7 contrast 4 joint
+3 background 0 elaboration 1 enablement -1 root 3 elaboration 6 manner-means 3 evaluation 6 elaboration
+3 background 0 elaboration 4 elaboration -1 root 3 elaboration 4 elaboration 5 joint 3 elaboration 7 elaboration 8 manner-means 11 condition 7 elaboration 11 enablement 14 cause-effect 7 evaluation 14 elaboration
+-1 root 0 elaboration 0 same-unit 2 enablement 0 elaboration 4 elaboration 7 enablement 4 elaboration 7 manner-means 0 elaboration
+-1 root 0 elaboration 1 temporal 1 elaboration 3 elaboration 0 elaboration 5 joint 6 joint 7 enablement 0 elaboration 9 elaboration 10 elaboration 11 joint 14 enablement 12 elaboration 14 evaluation 15 elaboration
+-1 root 0 elaboration 0 elaboration 2 joint 3 joint
+5 background 0 elaboration 6 background 2 enablement 3 background 6 background -1 root 6 background 7 elaboration 10 progression 6 elaboration 10 enablement 11 elaboration 10 progression 13 joint 14 enablement
+7 background 0 elaboration 9 background 2 same-unit 3 enablement 4 elaboration 5 elaboration 9 background 9 attribution -1 root 9 elaboration 7 elaboration 11 enablement 11 manner-means 13 elaboration 13 cause-effect
+4 elaboration 0 elaboration 1 elaboration 4 enablement 7 background 4 elaboration 4 elaboration -1 root 7 elaboration 8 elaboration 7 elaboration 10 manner-means 10 elaboration 12 enablement 7 evaluation 14 attribution
+1 elaboration -1 root 1 elaboration 1 elaboration 1 elaboration 1 elaboration 5 elaboration 6 elaboration 6 elaboration 1 elaboration 9 elaboration 0 evaluation 11 attribution 14 elaboration 12 evaluation 14 elaboration
+1 background -1 root 1 elaboration 2 manner-means 3 elaboration
+5 background 0 contrast 1 enablement 4 contrast 5 elaboration -1 root 5 elaboration 8 attribution 5 elaboration 8 contrast 9 contrast 9 evaluation 11 elaboration
+-1 root 0 manner-means 0 elaboration 2 elaboration 3 joint 4 elaboration 0 manner-means 6 elaboration 7 elaboration 0 elaboration 9 enablement 9 elaboration 11 cause-effect 12 elaboration 12 joint 9 evaluation 17 background 9 evaluation 17 manner-means
+2 contrast 0 enablement 5 contrast 2 elaboration 2 same-unit 7 contrast 5 attribution 12 background 7 joint 8 elaboration 7 contrast 10 enablement -1 root 15 enablement 15 condition 17 manner-means 12 enablement 16 joint 17 enablement 20 attribution 12 evaluation 20 elaboration 21 elaboration
+-1 root 0 elaboration 0 background 0 elaboration 3 elaboration 3 joint 14 attribution 0 evaluation 7 elaboration 8 joint 9 joint 10 joint 11 joint 7 evaluation 13 attribution 14 elaboration
+-1 root 0 elaboration 3 contrast 0 elaboration 3 elaboration 0 elaboration 5 elaboration 5 joint 7 elaboration 8 joint 11 enablement 8 cause-effect 11 enablement
+6 background 0 elaboration 3 contrast 5 contrast 3 cause-effect 6 background -1 root 6 elaboration 6 evaluation 8 joint 9 elaboration
+-1 root 0 attribution 0 elaboration 2 manner-means 0 elaboration 4 elaboration 0 evaluation 6 explain 10 progression 10 attribution 4 evaluation
+2 background 0 elaboration -1 root 2 elaboration 3 enablement 2 elaboration 5 elaboration 6 enablement 9 attribution 2 evaluation 9 joint
+-1 root 0 background 0 elaboration 4 elaboration 0 elaboration 4 elaboration 5 elaboration 8 attribution 0 elaboration 8 elaboration 13 temporal 10 temporal 8 attribution 12 attribution 0 evaluation
+-1 root 0 elaboration 1 enablement 0 elaboration 0 elaboration 4 manner-means 0 elaboration 6 manner-means 7 joint 0 evaluation 7 manner-means
+-1 root 0 elaboration
+1 elaboration -1 root 1 elaboration 1 elaboration 3 joint 4 enablement 5 elaboration 6 contrast 1 elaboration 8 elaboration 8 same-unit 12 attribution 15 elaboration 16 joint 13 elaboration 13 progression 6 comparison
+1 elaboration 12 background 1 manner-means 1 joint 8 contrast 12 background 5 joint 6 elaboration 5 contrast 8 explain 9 joint 12 background -1 root 12 elaboration 13 joint 12 elaboration 15 elaboration 18 enablement 15 elaboration 18 enablement 18 joint 20 enablement 23 attribution 12 evaluation
+5 background 0 elaboration 1 joint 2 elaboration 5 enablement -1 root 5 elaboration 5 elaboration 7 joint 11 cause-effect 9 joint 5 evaluation
+-1 root 0 manner-means 0 joint 0 elaboration 5 elaboration 0 elaboration 0 manner-means 9 elaboration 9 enablement 0 elaboration 9 elaboration 9 elaboration 9 contrast 14 attribution 0 evaluation
+2 background 2 background -1 root 2 elaboration 3 elaboration 3 evaluation 5 elaboration 2 evaluation
+4 background 0 enablement 0 same-unit 2 contrast -1 root 4 progression 5 elaboration 6 elaboration 4 elaboration 8 elaboration 9 manner-means 8 elaboration 13 elaboration 9 manner-means 13 joint 4 elaboration 15 joint 16 elaboration 17 elaboration 4 evaluation 19 manner-means
+-1 root 0 background 3 condition 0 elaboration 3 progression 4 progression 5 elaboration 5 manner-means 4 progression 8 evaluation 9 joint
+-1 root 0 temporal 1 joint 4 attribution 0 elaboration 6 comparison 4 elaboration 3 attribution 7 attribution
+1 background -1 root 1 background 2 elaboration 1 elaboration 4 progression 10 cause-effect 6 elaboration 11 condition 5 elaboration 11 manner-means 9 elaboration 14 manner-means 12 elaboration 11 elaboration 12 elaboration
+-1 root 0 elaboration 3 attribution 0 elaboration 3 elaboration 3 elaboration 5 elaboration 0 elaboration 7 joint 8 elaboration 9 cause-effect 3 elaboration 11 elaboration 12 explain
+5 background 0 elaboration 1 enablement 0 same-unit 3 explain -1 root 5 elaboration 6 elaboration 9 attribution 5 elaboration 9 joint 5 elaboration 11 manner-means 14 attribution 5 evaluation 14 enablement 15 temporal
+-1 root 0 elaboration 1 enablement 1 progression 3 elaboration 1 elaboration 5 elaboration 5 elaboration 5 elaboration 8 elaboration 12 joint 10 joint 1 elaboration 12 elaboration 12 elaboration 14 cause-effect 0 evaluation
+3 background 0 elaboration 0 elaboration -1 root 3 elaboration 3 elaboration 5 joint 6 elaboration 3 evaluation 8 attribution
+-1 root 0 elaboration 1 background 4 attribution 0 elaboration 4 elaboration 0 elaboration 6 manner-means 7 cause-effect 8 cause-effect 9 elaboration 10 joint
+-1 root 0 elaboration 1 joint 0 elaboration 3 temporal 0 elaboration 5 elaboration 6 joint 7 elaboration 8 joint 11 attribution 0 evaluation 11 joint 12 joint
+5 background 2 contrast 7 background 2 contrast 3 joint 7 background 7 attribution -1 root 7 enablement 8 elaboration 11 attribution 12 joint 7 elaboration 12 manner-means 13 elaboration 16 elaboration 7 elaboration 16 elaboration 17 elaboration 18 elaboration 19 elaboration 22 progression 7 evaluation
+-1 root 0 elaboration 1 joint 2 elaboration 0 elaboration 0 evaluation
+-1 root 0 elaboration 0 same-unit 0 elaboration 0 elaboration 4 manner-means 5 elaboration 5 elaboration 0 evaluation 8 enablement
+-1 root 0 elaboration 1 elaboration 2 enablement 0 attribution 1 elaboration 5 elaboration 6 joint 0 elaboration 8 elaboration 12 cause-effect 12 attribution 0 elaboration 12 elaboration 15 attribution 12 attribution 14 attribution
+3 cause-effect 0 joint 1 cause-effect 8 background 3 joint 4 elaboration 4 elaboration 6 enablement -1 root 8 enablement 9 elaboration 8 elaboration 11 enablement 11 joint 13 elaboration 16 attribution 8 evaluation 16 elaboration 16 joint
+-1 root 0 joint 1 elaboration 2 enablement 0 elaboration 4 joint 4 elaboration 6 elaboration 6 manner-means 13 attribution 9 attribution 10 joint 13 enablement 0 evaluation
+4 background 2 contrast 4 contrast 2 contrast 5 background -1 root 5 elaboration 5 elaboration 5 elaboration 8 temporal 9 enablement 5 elaboration 11 elaboration 11 elaboration 11 elaboration 16 attribution 5 evaluation
+-1 root 0 elaboration 1 contrast 2 elaboration 3 enablement 3 elaboration 5 elaboration 8 progression 9 manner-means 0 evaluation 9 manner-means 10 manner-means 10 elaboration 12 elaboration 13 joint 10 manner-means
+-1 root 0 elaboration 0 elaboration 2 enablement 5 elaboration 0 elaboration 5 enablement 0 elaboration 7 elaboration 8 manner-means 0 evaluation 10 elaboration
+2 background 0 elaboration -1 root 2 enablement 2 progression 4 elaboration 4 enablement 4 joint 7 manner-means 10 attribution 0 evaluation 10 condition
+2 elaboration 0 explain 5 background 2 enablement 2 joint 6 background -1 root 6 elaboration 6 elaboration 8 elaboration 11 attribution 6 progression 11 manner-means 14 manner-means 6 evaluation 14 temporal 15 elaboration
+-1 root 0 elaboration 1 joint 2 elaboration 0 manner-means 6 cause-effect 4 elaboration 6 cause-effect 7 manner-means 0 elaboration 9 elaboration 10 elaboration 11 joint 12 elaboration 9 elaboration 14 elaboration 15 enablement 16 contrast
+3 background 3 same-unit 3 attribution 8 attribution 3 elaboration 3 same-unit 3 elaboration 8 attribution 10 background 10 background -1 root 10 joint 11 elaboration 12 elaboration 13 elaboration 14 condition 15 joint 19 contrast 17 contrast 10 evaluation 19 enablement 11 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 0 elaboration 5 enablement 0 elaboration 7 background 11 manner-means 11 attribution 0 evaluation
+6 background 0 elaboration 0 same-unit 0 elaboration 3 attribution 6 condition -1 root 6 elaboration 6 elaboration 8 manner-means 9 elaboration 9 same-unit 9 evaluation 12 same-unit 13 contrast 14 contrast 15 contrast
+-1 root 0 enablement 0 background 2 joint 3 elaboration 4 joint 7 enablement 0 evaluation 7 manner-means 7 temporal 9 elaboration 9 contrast 11 joint
+16 background 0 elaboration 4 enablement 0 elaboration 7 contrast 4 enablement 7 elaboration 3 contrast 7 elaboration 8 elaboration 9 enablement 12 attribution 7 elaboration 16 enablement 13 contrast 16 enablement -1 root 16 enablement 16 elaboration 18 elaboration 16 manner-means 22 cause-effect 16 evaluation 22 enablement 22 evaluation 24 elaboration 0 elaboration 4 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 3 elaboration 0 elaboration 0 evaluation 7 elaboration 8 elaboration
+9 background 0 elaboration 1 enablement 4 condition 0 elaboration 4 elaboration 5 elaboration 8 background 9 background -1 root 9 progression 10 elaboration 13 temporal 11 elaboration 13 joint 14 joint 9 evaluation 16 elaboration
+11 background 0 enablement 1 enablement 0 elaboration 5 temporal 7 contrast 5 manner-means 11 background 7 manner-means 11 background 11 attribution -1 root 11 elaboration 14 elaboration 11 elaboration 14 elaboration 14 enablement 16 elaboration 14 progression 18 elaboration 19 contrast 18 evaluation
+3 background 0 contrast 0 elaboration -1 root 3 elaboration 3 evaluation 5 attribution 6 comparison
+11 background 0 elaboration 1 manner-means 1 enablement 0 elaboration 4 joint 7 cause-effect 5 progression 11 background 8 enablement 9 cause-effect 12 background -1 root 12 enablement 15 attribution 12 evaluation 15 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 temporal 0 elaboration 8 manner-means 8 attribution 0 evaluation
+1 elaboration 3 elaboration 1 elaboration 4 contrast 6 condition 8 condition 11 background 6 manner-means 3 contrast 8 elaboration 11 background -1 root 11 manner-means 12 background 11 enablement 16 elaboration 11 elaboration 16 elaboration 11 evaluation 18 enablement 18 cause-effect
+4 background 0 elaboration 0 contrast 2 elaboration -1 root 4 same-unit 4 elaboration 6 elaboration 7 elaboration 8 elaboration 4 elaboration 10 elaboration 11 joint 12 enablement 12 joint 4 evaluation 15 elaboration 18 elaboration 19 elaboration 16 elaboration 17 elaboration 20 elaboration 21 temporal 4 elaboration 23 explain
+1 elaboration 4 contrast 1 enablement 5 elaboration 5 contrast 7 contrast 8 elaboration 6 contrast -1 root 8 elaboration 9 comparison 10 comparison 8 elaboration 12 elaboration 8 evaluation 12 elaboration 14 elaboration 14 same-unit 17 enablement
+-1 root 0 elaboration 1 joint 0 elaboration 3 elaboration 4 manner-means 5 elaboration 3 elaboration 7 elaboration 0 elaboration 9 condition 10 same-unit 11 elaboration 15 attribution 15 attribution 0 evaluation
+3 background 0 elaboration 1 elaboration 4 background -1 root 6 attribution 4 progression 6 elaboration 7 manner-means 4 contrast 9 joint 13 progression 6 attribution 12 attribution
+-1 root 0 enablement 0 elaboration 5 elaboration 5 progression 0 background 5 elaboration 6 explain 7 elaboration 7 same-unit 0 elaboration 10 elaboration 11 elaboration 12 elaboration 12 temporal 5 evaluation 15 cause-effect 16 elaboration 17 attribution
+2 elaboration 0 elaboration 4 background 2 elaboration -1 root 4 progression 4 elaboration 6 elaboration 4 manner-means 8 elaboration 8 cause-effect 10 elaboration
+1 attribution 2 elaboration 4 background 2 explain -1 root 6 manner-means 4 elaboration 6 joint 7 enablement 4 evaluation 9 elaboration 10 enablement
+-1 root 0 elaboration 1 elaboration 1 elaboration 0 evaluation 6 attribution 4 elaboration 6 elaboration 9 joint 6 background 6 elaboration
+5 background 2 contrast 0 elaboration 2 elaboration 5 enablement -1 root 5 background 8 attribution 5 evaluation 8 elaboration 9 comparison
+3 background 0 temporal 1 joint -1 root 3 elaboration 4 progression 5 elaboration 8 manner-means 5 elaboration 8 elaboration 9 elaboration 12 attribution 8 evaluation 12 elaboration 13 manner-means 14 elaboration
+1 elaboration 3 background 1 elaboration -1 root 3 manner-means 3 elaboration 5 manner-means 6 enablement 7 elaboration 3 evaluation 9 joint 3 evaluation 11 elaboration 12 joint
+7 background 0 enablement 1 elaboration 4 enablement 0 elaboration 4 elaboration 5 elaboration -1 root 7 enablement 7 elaboration 9 elaboration 9 elaboration 7 evaluation 12 attribution 13 joint
+-1 root 0 elaboration 1 manner-means 0 elaboration 0 elaboration 4 background 4 enablement 0 evaluation 7 manner-means 8 elaboration 8 elaboration 12 attribution 7 elaboration 12 progression
+18 background 0 elaboration 1 enablement 4 attribution 0 attribution 4 condition 4 elaboration 4 attribution 7 elaboration 8 elaboration 9 explain 9 elaboration 15 elaboration 18 elaboration 13 elaboration 14 elaboration 15 elaboration 15 elaboration -1 root 18 progression 4 attribution 20 attribution 21 enablement 4 attribution 23 joint
+1 elaboration 3 background 1 elaboration 5 background 3 elaboration -1 root 5 elaboration 6 elaboration 6 elaboration 5 evaluation 5 evaluation 10 elaboration
+8 background 0 elaboration 0 elaboration 2 elaboration 5 attribution 2 elaboration 5 elaboration 5 joint -1 root 8 elaboration 9 elaboration 8 manner-means 11 elaboration 12 joint 8 evaluation 14 elaboration 14 elaboration 16 explain 17 elaboration 17 same-unit
+3 contrast 0 contrast 1 contrast 4 background -1 root 4 elaboration 5 joint 6 elaboration 7 manner-means 4 evaluation 9 elaboration 10 temporal
+6 background 0 elaboration 0 elaboration 2 enablement 2 temporal 4 cause-effect -1 root 6 elaboration 6 elaboration 8 elaboration 6 evaluation 10 elaboration 10 elaboration 12 manner-means
+-1 root 0 enablement 1 elaboration 2 elaboration 0 evaluation 4 manner-means
+1 background -1 root 1 elaboration 2 manner-means 1 background 1 elaboration 5 manner-means 8 elaboration 10 contrast 8 elaboration 1 elaboration 1 elaboration 13 cause-effect 1 evaluation 16 elaboration 1 evaluation 15 attribution 16 elaboration 17 temporal
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 4 joint 1 elaboration 6 enablement 1 elaboration 8 joint 11 attribution 8 evaluation 13 condition 8 evaluation 13 comparison 13 joint
+-1 root 0 elaboration 1 background 4 condition 1 elaboration 4 enablement 4 elaboration 9 manner-means 9 enablement 0 elaboration 9 elaboration 9 elaboration 11 enablement 12 elaboration
+2 elaboration 0 enablement 4 background 2 elaboration -1 root 4 manner-means 4 enablement 5 manner-means 4 elaboration 4 elaboration 9 temporal 9 temporal 9 progression 12 elaboration 13 elaboration 14 elaboration 4 evaluation 16 contrast 17 elaboration 18 joint 19 manner-means
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 joint
+1 background -1 root 1 elaboration 2 background 1 elaboration 4 joint 1 evaluation
+4 elaboration 0 elaboration 0 contrast 2 comparison 7 background 4 elaboration 5 joint -1 root 7 enablement 10 attribution 7 evaluation
+4 contrast 0 elaboration 0 enablement 12 temporal 7 background 4 same-unit 4 elaboration -1 root 7 elaboration 7 elaboration 9 progression 7 elaboration 11 joint 12 enablement 13 manner-means
+-1 root 0 enablement 0 elaboration 2 elaboration 3 elaboration 3 joint 5 elaboration 6 joint 7 contrast 13 attribution 9 attribution 2 evaluation 11 elaboration 11 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 temporal 0 elaboration 6 manner-means 7 joint 0 evaluation 9 joint
+8 background 0 elaboration 1 temporal 1 elaboration 3 enablement 3 contrast 5 contrast 6 enablement -1 root 8 elaboration 9 enablement 13 elaboration 11 comparison 8 evaluation 13 elaboration 13 elaboration
+1 contrast 4 background 1 joint 2 progression -1 root 4 elaboration 4 same-unit 9 elaboration 9 elaboration 4 elaboration 9 elaboration 9 elaboration 11 enablement 11 cause-effect 17 elaboration 14 elaboration 14 elaboration 13 cause-effect 17 elaboration
+-1 root 0 manner-means 1 enablement 1 background 1 manner-means 0 elaboration 5 elaboration 5 joint 7 enablement 8 joint 11 attribution 0 evaluation
+1 elaboration 9 background 1 elaboration 4 elaboration 0 elaboration 1 elaboration 9 background 6 enablement 1 elaboration -1 root 9 manner-means 10 joint 9 evaluation 12 elaboration
+2 background 2 attribution -1 root 2 elaboration 2 elaboration 4 enablement 2 elaboration 2 elaboration 7 elaboration 8 enablement 9 manner-means 10 elaboration 8 evaluation 12 enablement 15 manner-means 2 evaluation 15 elaboration 15 same-unit 14 cause-effect
+7 background 0 elaboration 6 temporal 2 enablement 5 joint 0 elaboration 7 background -1 root 7 elaboration 8 joint 7 evaluation 10 joint 11 elaboration
+-1 root 0 joint 1 joint 2 enablement 5 attribution 0 evaluation 5 elaboration 1 joint
+2 background 0 elaboration 7 background 2 elaboration 3 explain 4 elaboration 4 enablement -1 root 7 elaboration 8 contrast 7 elaboration 10 joint 11 elaboration 20 elaboration 13 elaboration 14 elaboration 14 joint 16 same-unit 17 joint 18 temporal 7 evaluation
+2 contrast 0 enablement 5 background 2 elaboration 5 attribution -1 root 5 elaboration 5 elaboration 7 elaboration 11 elaboration 9 joint 7 elaboration 13 attribution 11 elaboration 13 attribution 16 manner-means 18 manner-means 18 enablement 5 evaluation 18 progression 19 enablement
+5 background 0 elaboration 1 same-unit 2 same-unit 5 background -1 root 5 manner-means 6 elaboration 7 elaboration 5 elaboration 9 progression 10 elaboration 11 elaboration 12 elaboration 15 contrast 13 comparison 14 contrast 14 joint
+10 background 0 elaboration 1 temporal 2 cause-effect 3 enablement 6 enablement 10 elaboration 6 enablement 7 elaboration 1 elaboration -1 root 10 elaboration 10 elaboration 10 elaboration 13 background 14 elaboration 13 cause-effect 16 manner-means 16 evaluation
+-1 root 0 elaboration 1 elaboration 1 enablement 1 elaboration 1 elaboration 7 elaboration 0 elaboration 7 elaboration 8 manner-means 9 elaboration 12 attribution 0 elaboration 12 contrast 13 enablement 14 elaboration 19 elaboration 16 elaboration 19 same-unit 7 elaboration 19 elaboration 19 same-unit 0 evaluation
+3 background 0 elaboration 1 contrast -1 root 3 elaboration 3 elaboration
+-1 root 0 background 0 elaboration 2 enablement 3 joint 0 elaboration 5 elaboration 0 elaboration 7 enablement 10 attribution 0 evaluation 10 condition
+3 background 0 enablement 7 background 2 elaboration 3 enablement 7 manner-means 7 attribution -1 root 7 elaboration 8 joint 9 elaboration
+1 background -1 root 1 elaboration 2 temporal 1 evaluation 4 attribution
+-1 root 0 elaboration 10 background 0 elaboration 5 elaboration 3 elaboration 5 elaboration 5 contrast 7 joint 8 enablement 0 elaboration 10 elaboration 11 elaboration 12 elaboration 10 evaluation 14 same-unit
+-1 root 0 enablement 0 evaluation 2 joint
+1 background -1 root 1 background 1 elaboration 3 manner-means 4 elaboration 7 enablement 3 elaboration 7 enablement 7 elaboration 1 elaboration 10 joint 13 attribution 1 evaluation
+2 background 2 contrast -1 root 2 progression 3 temporal 3 elaboration 5 elaboration 2 evaluation 7 comparison 8 elaboration
+-1 root 0 background 3 condition 0 elaboration 3 elaboration 4 joint 3 elaboration 6 manner-means 0 elaboration 8 enablement 12 joint 8 elaboration 11 explain 12 joint 8 manner-means 14 attribution 15 attribution 16 background
+3 attribution 0 background 1 elaboration -1 root 0 elaboration 7 elaboration 5 elaboration 0 elaboration
+-1 root 0 manner-means 0 enablement 2 elaboration 0 elaboration 4 elaboration 5 enablement 0 condition 7 manner-means 0 elaboration 11 background 0 elaboration 11 manner-means 11 elaboration 11 manner-means 16 progression 17 joint 14 elaboration
+-1 root 0 manner-means 0 manner-means 0 elaboration 3 elaboration 4 manner-means 10 contrast 3 explain 7 elaboration 7 same-unit 9 progression 10 contrast 0 elaboration 12 elaboration 13 joint 16 attribution 0 evaluation
+1 elaboration 2 elaboration 4 background -1 root 3 elaboration 4 background 4 elaboration 6 manner-means 7 elaboration 8 joint 12 elaboration 12 attribution 3 evaluation 12 elaboration
+-1 root 0 elaboration 0 elaboration 2 enablement 2 elaboration 4 manner-means 0 elaboration 6 elaboration 10 enablement 2 enablement 9 joint 10 elaboration 13 condition 11 elaboration 13 enablement 14 temporal 17 attribution 0 evaluation 17 joint 18 elaboration 18 comparison 18 elaboration
+-1 root 0 background 0 elaboration 2 elaboration 2 joint 0 elaboration 5 elaboration 5 elaboration 7 elaboration 5 evaluation 9 manner-means 9 joint 11 elaboration 11 cause-effect
+-1 root 0 elaboration 1 joint 0 background 3 elaboration 8 joint 0 elaboration 8 elaboration 6 joint 8 elaboration 12 manner-means 10 elaboration 0 elaboration 12 elaboration 13 elaboration 13 elaboration 17 attribution 0 evaluation 17 condition 18 manner-means
+-1 root 0 elaboration 1 manner-means 4 elaboration 0 elaboration 6 elaboration 0 elaboration 6 elaboration 7 elaboration 8 elaboration 3 elaboration 10 manner-means 10 evaluation 12 elaboration 13 attribution 14 joint 14 attribution 16 attribution 17 contrast
+2 background 2 background -1 root 2 elaboration 2 elaboration 2 elaboration 8 same-unit 6 elaboration 2 elaboration 2 elaboration 8 enablement 8 elaboration 13 attribution 14 attribution 2 evaluation 14 elaboration 15 manner-means 14 joint 17 explain 18 elaboration
+-1 root 0 contrast 1 elaboration 1 same-unit 0 elaboration 4 elaboration 4 same-unit 8 attribution 0 evaluation 8 contrast 9 elaboration 4 same-unit
+1 background -1 root 1 enablement 2 elaboration 3 elaboration 1 elaboration 7 comparison 1 evaluation 7 cause-effect
+2 contrast 0 contrast 11 background 2 cause-effect 3 cause-effect 9 background 5 elaboration 6 elaboration 7 temporal 0 elaboration 9 elaboration 12 attribution -1 root 12 attribution 13 elaboration 14 enablement 19 contrast 19 manner-means 13 attribution 13 evaluation 19 joint 20 temporal 20 enablement
+4 elaboration 0 enablement 1 enablement 4 condition 7 contrast 4 enablement 7 contrast 11 background 7 elaboration 7 cause-effect 9 condition -1 root 11 elaboration 12 elaboration 13 elaboration 11 elaboration 15 elaboration 16 manner-means 15 explain 18 attribution
+1 background -1 root 1 enablement 2 elaboration 1 elaboration 6 attribution 1 elaboration 6 condition 1 elaboration 8 enablement 1 elaboration 10 elaboration 10 elaboration 10 elaboration 15 cause-effect 0 manner-means 15 elaboration
+-1 root 0 manner-means 0 joint 4 contrast 2 progression 6 enablement 0 elaboration 6 background 6 elaboration 8 manner-means 8 cause-effect
+8 background 0 manner-means 0 elaboration 2 elaboration 2 joint 4 attribution 8 background 8 enablement -1 root 8 progression 9 elaboration 9 enablement 13 attribution 8 evaluation 13 joint
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 progression 6 attribution 0 evaluation 6 condition
+-1 root 0 elaboration 4 manner-means 2 enablement 0 elaboration 4 manner-means 4 condition 6 elaboration 0 evaluation 8 manner-means 9 elaboration 8 joint 11 elaboration 8 same-unit
+-1 root 0 manner-means 1 elaboration 2 contrast 0 elaboration 6 elaboration 4 elaboration 6 manner-means 7 elaboration 10 elaboration 6 elaboration 10 manner-means 10 temporal 20 elaboration 13 elaboration 14 elaboration 14 contrast 16 temporal 0 elaboration 18 elaboration 0 elaboration 20 elaboration 21 joint 22 elaboration
+-1 root 0 background 0 elaboration 2 elaboration 3 elaboration 4 elaboration 12 attribution 0 evaluation 7 progression 10 attribution 8 joint 10 attribution 9 joint
+-1 root 0 elaboration 1 elaboration 1 enablement 3 elaboration 0 elaboration 5 elaboration 6 elaboration 7 elaboration 8 elaboration 11 evaluation 8 background 11 background
+-1 root 0 elaboration 1 joint 0 elaboration 0 elaboration 4 joint 5 elaboration 5 elaboration 7 elaboration 5 elaboration 3 elaboration 10 elaboration 10 elaboration 10 elaboration 10 evaluation
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 background 5 elaboration 0 elaboration 0 elaboration 0 elaboration 11 attribution 9 elaboration 11 explain 12 elaboration 13 elaboration 14 elaboration 18 elaboration 16 elaboration 12 elaboration 13 elaboration
+1 background -1 root 1 enablement 1 elaboration 3 joint 4 elaboration 7 attribution 3 evaluation 7 joint 8 temporal 1 elaboration 10 elaboration 10 elaboration
+3 background 0 joint 1 explain -1 root 3 elaboration 3 evaluation 5 cause-effect 6 elaboration
+-1 root 0 temporal 1 elaboration 5 joint 5 attribution 0 elaboration 5 joint 5 attribution 5 attribution 8 joint 9 elaboration 13 enablement 13 enablement 0 elaboration 13 elaboration 14 elaboration 14 elaboration
+-1 root 0 elaboration 1 joint 0 elaboration 3 manner-means 4 elaboration 0 evaluation
+2 contrast 0 elaboration 4 contrast 8 background 7 contrast 4 contrast 5 same-unit 3 contrast -1 root 8 elaboration 9 background 12 elaboration 8 elaboration 12 elaboration 15 elaboration 8 elaboration 17 elaboration 15 joint 20 elaboration 8 evaluation 19 elaboration 20 elaboration
+1 elaboration 2 elaboration -1 root 2 elaboration 3 elaboration 4 elaboration 5 joint 3 elaboration 7 elaboration 10 attribution 3 elaboration 10 elaboration 11 elaboration 12 elaboration 12 same-unit 12 elaboration
+-1 root 0 manner-means 0 joint 0 elaboration 3 manner-means 6 attribution 0 elaboration 6 elaboration 11 manner-means 11 manner-means 11 attribution 0 elaboration 11 manner-means 11 enablement 11 joint 14 elaboration
+-1 root 0 elaboration 0 elaboration 2 enablement 0 elaboration 0 same-unit 2 manner-means 0 elaboration 0 elaboration 8 elaboration 0 evaluation 10 joint
+1 background -1 root 1 elaboration 1 elaboration 3 temporal 6 contrast 7 contrast 1 elaboration 7 enablement 1 elaboration 9 elaboration 12 attribution 10 explain 12 elaboration 13 elaboration 14 enablement 15 elaboration
+3 background 3 elaboration 1 elaboration 5 background 3 condition -1 root 5 elaboration 5 elaboration 7 joint 8 elaboration 5 evaluation 12 attribution 5 evaluation 12 comparison
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 enablement 4 elaboration 6 elaboration 9 enablement 6 elaboration 9 enablement 9 elaboration 11 enablement 12 elaboration 6 evaluation 14 elaboration
+7 background 0 progression 1 elaboration 2 enablement 1 elaboration 4 enablement 7 joint 9 background 7 elaboration -1 root 9 enablement 10 temporal 9 elaboration 12 enablement 10 cause-effect
+-1 root 0 elaboration 0 same-unit 2 background 0 elaboration 4 elaboration 4 joint
+-1 root 0 background 0 same-unit 4 condition 0 elaboration 0 elaboration 5 elaboration 6 enablement 4 elaboration 8 condition 9 manner-means 9 same-unit 11 temporal
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 0 elaboration 5 elaboration 6 joint 4 elaboration 8 elaboration 9 manner-means 4 elaboration 11 enablement 12 joint 0 evaluation 14 attribution 15 manner-means
+-1 root 0 background 0 elaboration 2 enablement 0 elaboration 4 elaboration 0 elaboration 0 elaboration 7 enablement 10 attribution 0 evaluation
+2 background 0 same-unit -1 root 2 elaboration 3 manner-means 6 attribution 3 elaboration 3 elaboration 7 elaboration 10 attribution 2 evaluation 2 evaluation 11 enablement
+12 background 0 elaboration 1 elaboration 1 elaboration 3 enablement 3 background 3 elaboration 6 elaboration 7 elaboration 8 manner-means 8 joint 10 elaboration -1 root 12 progression 13 progression 14 elaboration 15 elaboration 16 elaboration 12 evaluation
+-1 root 0 elaboration 1 enablement 2 temporal 0 evaluation 4 attribution 0 elaboration 0 evaluation 7 contrast 11 condition 11 condition 8 contrast 11 comparison
+1 elaboration 4 background 1 elaboration 1 same-unit -1 root 4 elaboration 4 elaboration 6 background 7 elaboration 8 enablement 9 elaboration 4 evaluation
+6 background 0 elaboration 0 condition 4 elaboration 6 background 4 enablement -1 root 6 background 6 elaboration 10 condition 8 elaboration 10 elaboration 10 condition 10 elaboration 10 elaboration 10 elaboration 15 attribution 16 attribution 17 condition 21 condition 19 elaboration 6 evaluation 21 manner-means
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 evaluation 6 attribution 0 evaluation
+-1 root 0 enablement 1 elaboration 2 elaboration 3 elaboration 6 attribution 7 progression 9 manner-means 9 enablement 0 evaluation 9 manner-means
+8 background 0 elaboration 0 elaboration 2 elaboration 2 same-unit 6 attribution 2 cause-effect 6 elaboration -1 root 8 progression 9 elaboration
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 elaboration 3 same-unit 5 enablement 0 evaluation 7 elaboration 8 same-unit 8 comparison
+-1 root 0 elaboration 3 contrast 4 attribution 0 evaluation 2 contrast 5 background 5 contrast 7 elaboration 8 cause-effect
+4 background 0 joint 1 elaboration 2 background 5 background -1 root 5 elaboration 5 elaboration 5 elaboration 8 elaboration 9 elaboration 5 elaboration 11 elaboration 12 elaboration
+13 background 0 manner-means 4 elaboration 4 elaboration 1 elaboration 4 elaboration 4 elaboration 6 enablement 9 attribution 0 elaboration 9 elaboration 10 elaboration 10 elaboration -1 root
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 elaboration 3 same-unit 3 elaboration 8 joint 0 elaboration 8 contrast 0 elaboration 10 progression 11 elaboration 0 elaboration 13 enablement 14 elaboration
+8 background 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 manner-means 7 contrast 8 background -1 root 8 elaboration 9 elaboration 10 joint 8 elaboration 12 elaboration 15 temporal 12 elaboration 15 manner-means 8 elaboration 16 manner-means 20 cause-effect 2 elaboration
+-1 root 0 elaboration 1 manner-means 2 elaboration 7 manner-means 7 condition 7 attribution 0 evaluation 7 manner-means 8 manner-means 9 elaboration 6 evaluation 11 cause-effect 12 elaboration 13 joint 12 progression 15 elaboration
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 enablement 4 elaboration 3 evaluation 6 manner-means 9 attribution 6 progression
+3 elaboration 0 elaboration 0 same-unit 6 contrast 3 manner-means 4 manner-means 8 contrast 6 same-unit 9 background -1 root 9 manner-means 9 enablement 11 elaboration 9 elaboration 13 manner-means 14 elaboration 15 manner-means 9 evaluation 17 elaboration 17 elaboration 21 enablement 9 evaluation
+-1 root 0 elaboration 3 condition 0 elaboration 3 elaboration 3 joint 0 evaluation 0 elaboration 7 elaboration
+4 background 0 same-unit 0 enablement 0 elaboration -1 root 4 elaboration 5 manner-means 6 elaboration 4 elaboration 8 condition 8 condition 4 evaluation 14 enablement 12 elaboration 11 joint
+-1 root 0 background 0 elaboration 2 background 3 background 0 evaluation 5 manner-means
+4 contrast 0 elaboration 0 explain 4 enablement 6 contrast 4 enablement 7 background -1 root 7 elaboration 8 elaboration 11 attribution 7 elaboration 11 condition 7 elaboration 13 elaboration 13 joint 11 attribution 16 attribution 17 joint 18 manner-means 19 contrast 19 manner-means
+-1 root 0 elaboration 1 elaboration 0 same-unit 0 background 0 elaboration 7 elaboration 0 elaboration 7 elaboration 7 joint 7 elaboration 9 temporal 11 cause-effect 12 enablement
+3 contrast 3 contrast 1 joint 4 background -1 root 4 elaboration
+3 background -1 root 3 attribution 1 elaboration 3 attribution 3 attribution 5 elaboration 5 same-unit 5 elaboration 1 evaluation 9 joint
+1 contrast 2 background -1 root 2 manner-means 3 background 2 elaboration 7 attribution 2 evaluation
+-1 root 2 elaboration 0 elaboration 2 elaboration 2 elaboration 4 manner-means 5 elaboration 13 contrast 2 comparison 8 elaboration 7 explain 12 attribution 7 comparison 8 contrast 11 attribution 14 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 0 elaboration 4 elaboration 5 elaboration 3 cause-effect
+13 background 2 enablement 4 elaboration 2 elaboration 0 elaboration 4 temporal 7 condition 4 elaboration 7 enablement 8 condition 11 attribution 13 contrast 4 temporal 14 background -1 root 14 elaboration 15 enablement 14 elaboration 17 elaboration 20 attribution 14 evaluation 20 joint
+-1 root 0 manner-means 0 elaboration 2 manner-means 5 manner-means 0 elaboration 2 enablement 6 attribution 5 manner-means 0 elaboration 9 elaboration 12 manner-means 0 elaboration 12 manner-means 13 elaboration 16 explain 0 evaluation
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 elaboration 4 elaboration 0 elaboration 6 enablement 7 enablement 0 evaluation 11 attribution 9 cause-effect
+-1 root 0 elaboration 1 enablement 5 manner-means 5 cause-effect 1 elaboration 5 enablement 8 attribution 0 evaluation 8 elaboration
+8 background 0 elaboration 0 elaboration 0 elaboration 3 enablement 0 elaboration 5 condition 6 elaboration -1 root 8 elaboration 9 elaboration 12 contrast 8 contrast 12 joint 13 condition 14 elaboration 8 evaluation 16 elaboration
+-1 root 0 elaboration 3 temporal 0 elaboration 3 joint 4 enablement 3 contrast 6 elaboration 0 elaboration 8 joint 9 cause-effect 10 joint 14 attribution 12 attribution 15 elaboration 0 evaluation 15 manner-means 13 elaboration 17 enablement
+3 background 0 manner-means 0 same-unit -1 root 5 enablement 3 elaboration 5 enablement 6 joint 9 manner-means 3 evaluation
+1 background -1 root 1 enablement 6 elaboration 1 elaboration 4 elaboration 5 joint 6 elaboration 9 attribution 11 condition 11 condition 4 evaluation 11 elaboration
+4 background 0 elaboration 1 joint 2 elaboration -1 root 4 elaboration 5 attribution 6 same-unit 7 contrast 4 elaboration 4 elaboration 10 manner-means 11 background 14 enablement 4 elaboration 14 elaboration 15 elaboration 19 manner-means 19 attribution 20 attribution 14 manner-means 19 attribution
+3 contrast 0 elaboration 3 contrast 5 background 3 elaboration -1 root 5 elaboration 6 manner-means 6 joint 8 elaboration 6 manner-means 5 progression 11 enablement 12 elaboration 5 evaluation 14 attribution
+-1 root 0 elaboration 1 enablement 0 elaboration 1 cause-effect 4 progression 0 elaboration 8 elaboration 0 elaboration 8 enablement 0 evaluation 10 elaboration 11 elaboration
+4 background 0 elaboration 1 elaboration 2 enablement -1 root 4 elaboration 4 elaboration
+1 contrast 3 elaboration 3 elaboration 10 background 3 elaboration 4 enablement 4 joint 6 elaboration 7 enablement 10 attribution -1 root 10 joint 11 elaboration 10 evaluation 15 attribution 13 elaboration
+-1 root 0 joint 1 elaboration 2 elaboration 0 elaboration 4 joint 9 attribution 6 attribution 7 manner-means 0 evaluation
+-1 root 0 elaboration 0 elaboration 4 attribution 0 elaboration 0 elaboration 5 elaboration 0 elaboration 7 elaboration 8 manner-means 9 evaluation 10 enablement
+4 background 0 elaboration 1 elaboration 4 contrast -1 root 4 elaboration 4 elaboration 6 elaboration 6 joint 8 joint 4 evaluation 10 comparison 11 elaboration 12 joint 13 enablement 14 elaboration 4 evaluation 16 joint
+8 background 0 elaboration 0 same-unit 0 elaboration 0 elaboration 4 elaboration 8 background 6 contrast -1 root 8 elaboration 11 enablement 8 elaboration 11 elaboration 11 elaboration 11 elaboration 14 elaboration 15 temporal 16 elaboration 11 evaluation 14 elaboration 19 elaboration 19 elaboration 23 explain 24 attribution 11 evaluation
+-1 root 0 elaboration 1 elaboration 1 same-unit 0 elaboration 0 elaboration 5 manner-means 0 elaboration 7 elaboration 10 manner-means 0 elaboration 10 enablement 13 elaboration 0 elaboration 10 enablement 0 evaluation
+-1 root 0 manner-means 1 elaboration 0 elaboration 0 elaboration 4 elaboration 7 elaboration 0 elaboration 7 elaboration 0 elaboration 9 elaboration 9 elaboration 11 progression 14 progression 12 joint
+1 contrast 4 contrast 1 elaboration 1 elaboration 6 elaboration 4 elaboration 8 progression 6 elaboration 9 background -1 root 9 elaboration 10 joint 9 evaluation 12 elaboration 12 explain
+-1 root 0 enablement 0 elaboration 2 enablement 5 cause-effect 0 elaboration 5 progression 8 attribution 6 progression 8 elaboration 9 comparison 0 evaluation 11 explain 12 cause-effect 12 same-unit
+1 background -1 root 1 elaboration 1 elaboration 3 elaboration 1 elaboration 5 enablement 6 contrast 7 elaboration 1 evaluation 9 manner-means
+-1 root 0 manner-means 1 elaboration 2 joint 3 enablement 0 elaboration 5 elaboration 10 attribution 0 evaluation 8 elaboration 8 elaboration 10 enablement
+7 elaboration 0 elaboration 1 temporal 2 elaboration 0 elaboration 0 elaboration 5 enablement 12 background 7 condition 8 elaboration 7 elaboration 10 joint -1 root 12 background 13 elaboration 12 evaluation
+1 background -1 root 1 elaboration 1 evaluation
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 enablement 0 elaboration 5 enablement 6 elaboration 7 elaboration 8 background 0 evaluation 10 elaboration 11 elaboration 12 manner-means 10 same-unit
+5 background 2 cause-effect 0 elaboration 2 enablement 2 elaboration -1 root 5 elaboration 6 enablement 6 condition 6 evaluation 6 enablement 10 joint
+4 background 0 elaboration 1 elaboration 1 same-unit -1 root 4 elaboration 10 manner-means 6 elaboration 4 elaboration 8 condition 4 elaboration 4 elaboration 11 manner-means 1 elaboration 1 elaboration 4 elaboration 6 evaluation 16 joint 0 elaboration
+-1 root 0 background 0 elaboration 0 elaboration 3 enablement 3 joint 0 elaboration 3 manner-means 3 enablement 0 evaluation
+-1 root 0 enablement 0 background 2 elaboration 0 elaboration 0 elaboration 5 elaboration 0 elaboration 7 manner-means 8 elaboration 8 elaboration 5 elaboration 11 joint 14 attribution 0 evaluation
+2 elaboration 0 elaboration 4 elaboration 2 manner-means 5 cause-effect 6 evaluation -1 root 6 manner-means 6 cause-effect 8 elaboration
+-1 root 0 enablement 0 elaboration 2 enablement 3 elaboration 6 attribution 0 evaluation 6 joint
+1 background -1 root 1 elaboration 4 attribution 1 evaluation 4 elaboration 4 progression 6 condition 9 attribution 1 elaboration 9 elaboration 1 evaluation 11 progression 12 elaboration 13 elaboration 1 elaboration 15 elaboration 16 elaboration
+-1 root 0 background 0 same-unit 0 elaboration 3 enablement 0 elaboration 5 elaboration 8 manner-means 0 elaboration 10 attribution 0 evaluation 13 comparison 11 elaboration 0 evaluation
+-1 root 0 background 0 elaboration 2 elaboration 0 elaboration 4 elaboration 7 background 2 elaboration 7 elaboration 7 elaboration 7 elaboration 8 attribution 11 attribution 12 background 12 condition 11 attribution
+3 background 0 elaboration 3 attribution -1 root 3 enablement 4 elaboration 3 elaboration 6 elaboration 7 enablement 3 elaboration 9 elaboration 10 joint 11 joint 12 enablement 3 evaluation
+-1 root 0 elaboration 1 elaboration 1 background 3 elaboration 4 temporal 4 condition 4 progression 7 condition 10 cause-effect 11 elaboration 13 enablement 11 elaboration 0 evaluation 13 elaboration 14 manner-means 15 elaboration
+-1 root 0 elaboration 0 elaboration 2 background 0 elaboration 0 evaluation 5 attribution 6 joint 7 explain
+1 elaboration 2 background -1 root 2 elaboration 2 elaboration 4 joint 5 elaboration 2 evaluation 7 attribution 8 elaboration 8 elaboration
+2 background 0 elaboration -1 root 2 elaboration 2 elaboration 8 manner-means 5 joint 5 elaboration 2 elaboration 8 enablement 2 elaboration 10 elaboration 2 evaluation
+6 background 2 attribution 0 elaboration 2 contrast 2 contrast 4 contrast -1 root 6 elaboration 7 elaboration 6 condition 6 elaboration 10 elaboration 6 elaboration 12 enablement
+2 background 0 contrast -1 root 2 elaboration 3 elaboration 2 progression 2 elaboration 6 joint 2 evaluation
+-1 root 0 elaboration 0 elaboration 0 elaboration 2 elaboration 0 elaboration 7 enablement 0 elaboration 0 elaboration 8 elaboration 8 elaboration 12 attribution 0 evaluation 12 manner-means 12 joint
+1 attribution 6 background 1 elaboration 1 same-unit 3 joint 6 enablement -1 root 6 elaboration 7 elaboration 8 elaboration 8 elaboration 10 joint 14 contrast 14 manner-means 6 elaboration 14 joint 1 attribution 16 attribution 19 elaboration 20 elaboration 17 explain 20 elaboration 6 elaboration 6 elaboration 23 enablement
+4 contrast 0 elaboration 14 background 4 attribution 2 contrast 4 elaboration 5 elaboration 4 cause-effect 7 elaboration 10 contrast 14 elaboration 10 elaboration 13 attribution 10 cause-effect -1 root 14 elaboration 17 attribution 14 elaboration 19 condition 14 elaboration 19 elaboration 20 elaboration 14 evaluation 22 enablement 22 joint
+4 background 0 elaboration 1 elaboration 2 temporal -1 root 4 elaboration 5 joint 6 elaboration 9 manner-means 4 elaboration 9 elaboration 9 enablement 9 joint 12 enablement
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 elaboration 4 enablement 5 joint 8 attribution 9 attribution 6 temporal
+1 background -1 root 3 attribution 1 elaboration 3 joint 4 background 1 elaboration 6 enablement 7 elaboration 1 evaluation 9 enablement
+9 background 0 enablement 0 elaboration 0 elaboration 0 contrast 9 background 5 joint 6 condition 9 enablement -1 root 9 cause-effect 9 elaboration 11 elaboration 15 joint 12 enablement 14 elaboration 15 enablement 18 elaboration 15 joint 18 elaboration 18 same-unit 22 attribution 9 evaluation 22 joint 23 temporal
+3 contrast 0 enablement 0 enablement 5 contrast 3 cause-effect 6 background -1 root 6 progression 7 elaboration 8 elaboration 6 progression 10 enablement 10 progression 12 elaboration 15 attribution 12 evaluation 15 joint
+4 background 2 temporal 4 background 4 enablement -1 root 4 elaboration 4 elaboration 4 elaboration 7 elaboration 4 evaluation
+-1 root 0 enablement 6 explain 2 elaboration 2 cause-effect 4 cause-effect 0 elaboration 0 elaboration 7 background 8 manner-means 11 attribution 12 manner-means 0 evaluation 12 joint
+-1 root 0 elaboration 0 elaboration 2 joint 0 elaboration 4 elaboration 0 elaboration
+1 background -1 root 1 elaboration 2 background 3 elaboration 1 elaboration 5 elaboration 6 elaboration 6 elaboration 8 elaboration 11 cause-effect 1 elaboration 11 joint
+-1 root 0 manner-means 0 elaboration 2 manner-means 3 elaboration 0 elaboration 8 cause-effect 6 elaboration 10 manner-means 13 manner-means 0 elaboration 10 enablement 10 same-unit 0 evaluation 13 manner-means 13 joint
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 4 elaboration 4 evaluation 6 comparison 1 elaboration 8 elaboration 8 elaboration 10 joint 11 comparison
+-1 root 0 elaboration 1 enablement 5 temporal 5 enablement 0 elaboration 5 enablement 8 attribution 10 temporal 10 temporal 0 elaboration 10 elaboration 10 same-unit 15 elaboration 8 attribution 14 attribution 15 elaboration
+-1 root 0 enablement 0 condition 0 elaboration 0 elaboration 4 joint 5 enablement 0 elaboration 7 manner-means 8 background 7 elaboration 12 attribution 10 elaboration 12 attribution 13 attribution 18 elaboration 15 background 10 evaluation 17 cause-effect 18 elaboration 18 cause-effect
+4 background 4 background 1 elaboration 4 background -1 root 4 elaboration 4 background 4 elaboration 7 contrast 4 elaboration 9 manner-means 14 elaboration 11 elaboration 4 elaboration 13 manner-means 14 elaboration 13 joint 16 enablement 19 contrast 4 evaluation 19 manner-means 19 condition 21 elaboration 4 evaluation
+1 condition 3 background 1 elaboration -1 root 3 enablement 3 elaboration 3 elaboration 6 elaboration 3 elaboration 8 joint 11 comparison 3 elaboration 11 elaboration 11 manner-means 3 elaboration 14 enablement
+-1 root 0 manner-means 1 elaboration 1 elaboration 3 elaboration 0 evaluation 5 attribution 3 elaboration
+3 background 0 enablement 3 condition -1 root 3 elaboration 3 elaboration 3 elaboration 6 elaboration 9 progression 5 joint 9 elaboration 10 elaboration 8 evaluation 8 progression
+3 background 0 elaboration 3 background -1 root 3 enablement 3 elaboration 5 elaboration 5 joint 3 evaluation 8 elaboration 8 same-unit
+-1 root 0 elaboration 0 evaluation 2 elaboration 2 same-unit 6 attribution 0 elaboration
+-1 root 0 elaboration 1 elaboration 1 cause-effect 3 elaboration 4 elaboration 0 evaluation
+4 background 0 elaboration 1 same-unit 4 enablement -1 root 4 elaboration 5 enablement 6 elaboration 4 elaboration 8 elaboration 9 elaboration 4 progression 11 cause-effect 12 enablement 15 progression 11 joint
+1 attribution 3 cause-effect 1 temporal -1 root 3 elaboration 4 elaboration 1 attribution 6 attribution 7 joint 7 elaboration 3 elaboration 10 elaboration 11 manner-means 10 elaboration 10 elaboration 14 elaboration
+3 background 0 elaboration 0 elaboration -1 root 3 elaboration 3 elaboration 5 elaboration 9 manner-means 3 elaboration 8 manner-means 9 elaboration 13 temporal 13 attribution 3 evaluation 13 elaboration 13 comparison
+6 background 0 enablement 6 background 2 joint 3 attribution 4 attribution -1 root 6 elaboration 9 condition 6 elaboration 9 cause-effect 10 attribution 11 attribution 12 cause-effect 6 evaluation
+6 background 0 same-unit 1 enablement 4 attribution 0 elaboration 4 elaboration -1 root 6 elaboration 6 elaboration 8 enablement 8 progression 10 joint 11 contrast 12 elaboration 6 elaboration 14 elaboration 14 elaboration 16 elaboration 16 joint 18 attribution 19 attribution
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 enablement 0 elaboration 5 enablement 6 enablement 7 elaboration 8 manner-means 0 elaboration 10 elaboration 10 elaboration 12 elaboration
+-1 root 0 elaboration 3 progression 0 evaluation
+1 background -1 root 1 background 1 elaboration 3 elaboration 3 enablement 5 joint 6 enablement 1 elaboration 3 elaboration 9 elaboration 9 same-unit 3 elaboration 12 enablement 13 elaboration 3 elaboration 12 enablement 16 elaboration 17 joint 12 enablement 19 elaboration 20 progression 21 enablement 0 evaluation 23 elaboration 23 joint
+5 background 0 elaboration 0 elaboration 5 background 0 elaboration 7 background 7 attribution -1 root 7 explain 8 elaboration 9 contrast 15 attribution 11 attribution 12 manner-means 15 attribution 7 elaboration 15 elaboration 15 joint 17 enablement 18 elaboration 21 attribution 6 evaluation 20 progression
+2 contrast 2 contrast 5 background 2 elaboration 5 background -1 root 5 elaboration 6 elaboration 7 joint 5 elaboration 9 elaboration 10 elaboration 9 elaboration 14 elaboration 5 elaboration 14 elaboration 17 attribution 5 evaluation 17 cause-effect
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 same-unit 2 joint 5 elaboration 0 elaboration 7 enablement 0 elaboration 9 elaboration 9 joint 9 same-unit 12 progression 13 progression 14 elaboration 15 elaboration
+1 contrast 2 contrast 4 background 2 elaboration -1 root 4 elaboration 5 elaboration 6 joint 7 joint 5 elaboration 9 elaboration 10 elaboration
+-1 root 0 elaboration 1 elaboration 2 joint 3 enablement 0 evaluation 3 elaboration 6 contrast 0 elaboration 8 elaboration 8 elaboration 12 contrast 5 evaluation 12 elaboration
+-1 root 0 joint 1 elaboration 2 elaboration
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 elaboration 0 evaluation 5 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 enablement 2 elaboration 0 elaboration 9 attribution 7 attribution 0 evaluation
+1 elaboration -1 root 1 elaboration 2 explain 5 attribution 1 elaboration 5 elaboration 8 contrast 1 evaluation
+-1 root 0 elaboration 1 manner-means 5 elaboration 0 elaboration 4 manner-means 5 elaboration 0 elaboration 7 elaboration 8 enablement 9 enablement 10 condition 0 elaboration 12 elaboration 13 condition 12 elaboration 15 elaboration 2 manner-means
+5 background 0 contrast 0 elaboration 2 elaboration 2 elaboration -1 root 5 elaboration 6 elaboration 5 elaboration 8 joint 9 manner-means 12 enablement 5 elaboration 12 manner-means 13 joint 12 evaluation 15 elaboration 15 cause-effect
+-1 root 0 background 0 elaboration 2 elaboration 2 same-unit 6 progression 2 condition 0 elaboration 0 elaboration 8 elaboration 9 joint 10 elaboration 11 elaboration 12 elaboration 13 joint 14 attribution 0 evaluation 16 manner-means
+5 background 2 joint 5 background 2 explain 6 enablement -1 root 5 elaboration 6 elaboration 7 enablement 6 elaboration 9 manner-means 12 enablement 6 elaboration 12 enablement 6 evaluation
+-1 root 0 elaboration 0 attribution 2 attribution 0 elaboration 4 elaboration 5 elaboration 6 temporal
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 evaluation 6 attribution 4 evaluation 6 joint 7 elaboration 7 same-unit
+1 contrast 3 contrast 3 contrast 4 contrast 6 background 3 progression -1 root 6 elaboration 7 manner-means 6 elaboration 9 enablement 12 attribution 6 evaluation
+2 elaboration 0 elaboration 5 contrast 2 contrast 3 enablement 7 contrast 5 elaboration 8 background -1 root 8 elaboration 9 joint 10 elaboration
+2 elaboration 0 enablement 5 background 2 elaboration 2 same-unit -1 root 5 joint 6 elaboration 6 elaboration 8 manner-means 9 elaboration 8 joint 11 elaboration 12 background 12 elaboration 6 evaluation 15 elaboration 16 elaboration 15 same-unit
+-1 root 0 background 1 elaboration 2 enablement 0 elaboration 4 elaboration 5 elaboration 8 attribution 9 elaboration 10 progression 0 elaboration 12 attribution 9 progression 12 enablement
+5 background 0 joint 0 elaboration 2 same-unit 3 joint -1 root 5 manner-means 6 manner-means 7 cause-effect 8 joint 8 progression 10 joint
+2 elaboration 0 manner-means 4 same-unit 2 background 6 same-unit 4 enablement 12 background 0 manner-means 7 contrast 8 same-unit 9 joint 12 enablement -1 root 12 elaboration 13 contrast 14 elaboration 15 enablement 12 elaboration 17 evaluation 18 joint 21 cause-effect 18 joint
+-1 root 0 elaboration 1 elaboration 2 joint 0 elaboration 0 elaboration 5 joint 0 elaboration 7 manner-means 10 attribution 7 progression 10 enablement 14 cause-effect 10 elaboration 13 cause-effect 14 enablement 15 elaboration 14 manner-means 14 enablement 15 elaboration 14 evaluation 20 elaboration 20 same-unit
+5 background 0 elaboration 0 elaboration 2 elaboration 3 joint -1 root 5 elaboration 6 elaboration 7 background 7 enablement 9 elaboration 13 cause-effect 13 explain 14 cause-effect 5 elaboration 14 elaboration 15 joint 16 manner-means 14 evaluation 18 background 18 same-unit
+3 attribution 0 enablement 3 background -1 root 3 elaboration 4 enablement 4 elaboration 8 progression 3 elaboration 8 joint 8 elaboration 10 elaboration 10 same-unit 12 elaboration
+-1 root 0 elaboration 1 contrast 2 background 0 elaboration 4 joint 0 elaboration 6 elaboration 6 same-unit 0 evaluation
+1 contrast 2 contrast 6 temporal -1 root 3 attribution 6 explain 4 attribution 6 elaboration 7 joint 10 attribution 6 elaboration 10 enablement 10 joint 12 elaboration 12 elaboration 14 joint 9 attribution 16 attribution 17 elaboration 18 joint 21 attribution 23 attribution 23 manner-means 9 attribution 23 temporal
+-1 root 0 elaboration 1 elaboration 4 contrast 0 elaboration 4 elaboration 7 enablement 0 elaboration 7 elaboration 8 joint 9 elaboration 13 elaboration 11 comparison 0 evaluation 13 elaboration
+10 background 0 elaboration 1 elaboration 1 elaboration 3 manner-means 1 elaboration 7 enablement 10 elaboration 7 elaboration 7 same-unit -1 root 10 elaboration 11 background 14 same-unit 10 evaluation 14 manner-means
+-1 root 0 elaboration 1 joint 4 manner-means 0 elaboration 4 manner-means 4 manner-means 6 elaboration 7 elaboration 6 same-unit 11 comparison 0 elaboration 11 joint 0 evaluation 13 elaboration
+15 background 0 enablement 1 enablement 4 elaboration 0 elaboration 4 elaboration 4 elaboration 6 elaboration 6 same-unit 8 elaboration 11 enablement 15 background 11 elaboration 12 elaboration 13 background -1 root 15 enablement 15 elaboration 20 elaboration 20 enablement 15 evaluation 20 elaboration
+-1 root 0 manner-means 1 elaboration 4 explain 0 elaboration 4 manner-means 0 elaboration 6 joint 6 elaboration 8 background 9 elaboration 10 elaboration 8 elaboration 12 enablement 12 progression 14 manner-means 15 elaboration 18 attribution 0 evaluation
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 elaboration 3 elaboration 3 manner-means 5 temporal 7 elaboration 8 comparison 9 elaboration 10 same-unit 10 manner-means
+-1 root 0 enablement 0 manner-means 0 elaboration 3 temporal 0 elaboration 5 same-unit 0 evaluation 7 attribution 8 attribution 9 attribution 10 manner-means 10 same-unit 12 elaboration
+-1 root 0 elaboration 1 enablement 1 elaboration 3 joint 4 joint 5 elaboration 3 elaboration 4 joint 8 temporal 0 elaboration 10 enablement 13 attribution 10 enablement 13 elaboration 17 condition 13 attribution 13 attribution 13 elaboration 18 elaboration 19 elaboration 20 attribution 0 evaluation 22 attribution 5 contrast 8 explain
+-1 root 0 elaboration 0 elaboration 2 joint 3 elaboration 0 elaboration 5 joint 6 elaboration 0 elaboration
+3 elaboration 0 enablement 4 background 4 background -1 root 4 progression 5 enablement 4 elaboration 7 elaboration 4 elaboration 9 elaboration 10 elaboration 4 evaluation
+2 background 0 enablement 4 background 5 elaboration -1 root 4 elaboration 5 elaboration 4 elaboration 4 elaboration 8 manner-means 8 manner-means 10 progression 11 elaboration 16 attribution 13 attribution 14 manner-means 4 evaluation
+-1 root 0 elaboration 0 elaboration 4 elaboration 0 elaboration 4 enablement 0 joint 4 condition 7 evaluation 8 elaboration 9 elaboration
+1 elaboration -1 root 1 elaboration 2 elaboration 3 attribution 1 elaboration 5 elaboration 6 enablement 9 attribution 5 elaboration 5 progression 10 joint 11 enablement 1 evaluation 13 progression 14 joint
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 manner-means 4 manner-means 0 elaboration 4 elaboration 9 cause-effect 10 joint 0 evaluation 10 contrast 10 explain
+2 background 2 attribution -1 root 2 manner-means 3 manner-means 2 elaboration 5 enablement 8 progression 9 cause-effect 2 evaluation
+-1 root 0 elaboration 0 elaboration 2 manner-means 3 elaboration 4 joint 5 elaboration 2 evaluation 7 progression 12 enablement 0 elaboration 10 condition 15 progression 12 elaboration 15 attribution 2 evaluation
+-1 root 0 enablement 0 elaboration 2 elaboration 6 elaboration 0 elaboration 5 progression 6 elaboration 5 progression 8 elaboration 8 elaboration 8 same-unit 13 contrast 9 comparison
+1 background 2 background -1 root 2 elaboration 2 elaboration 4 enablement 4 elaboration 10 enablement 10 progression 10 enablement 2 elaboration 10 elaboration 11 elaboration 14 attribution 1 evaluation
+1 background -1 root 1 elaboration 2 elaboration 5 joint 1 elaboration 5 enablement 9 comparison 7 cause-effect 1 evaluation 9 elaboration 8 cause-effect
+-1 root 0 elaboration 0 elaboration 2 enablement 2 elaboration 2 joint 0 elaboration 6 joint 7 elaboration 8 manner-means 0 evaluation 10 attribution 11 joint 12 comparison
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 enablement 4 manner-means 0 elaboration 7 explain 8 elaboration 9 temporal 10 temporal 10 elaboration 14 cause-effect 16 manner-means 14 joint 0 evaluation
+2 contrast 2 contrast 3 background -1 root 3 elaboration 3 evaluation 5 comparison
+3 background 0 manner-means 0 same-unit 5 background 3 elaboration -1 root 5 joint 6 elaboration 5 evaluation
+-1 root 0 elaboration 3 manner-means 0 elaboration 0 elaboration 0 elaboration 5 temporal 8 temporal 0 elaboration 8 cause-effect 9 elaboration 9 elaboration 8 explain 0 elaboration 13 attribution 14 background 15 elaboration 16 evaluation 17 elaboration 18 manner-means
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 0 elaboration
+-1 root 0 enablement 0 elaboration 2 elaboration 3 elaboration 3 elaboration 3 elaboration 6 manner-means 0 elaboration 8 elaboration 9 elaboration
+6 background 0 elaboration 1 contrast 2 explain 2 contrast 4 background -1 root 6 elaboration 6 contrast 8 contrast 9 contrast 10 manner-means 11 elaboration 12 elaboration 12 evaluation 14 cause-effect
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 elaboration 7 background 0 elaboration 7 elaboration 7 elaboration 9 elaboration 0 elaboration
+-1 root 0 elaboration 0 elaboration 2 enablement 5 attribution 0 evaluation
+2 contrast 2 contrast 5 background 2 joint 3 joint -1 root 5 background 5 elaboration 7 elaboration 10 attribution 8 elaboration 10 manner-means 9 attribution 12 attribution 13 elaboration
+5 elaboration 0 elaboration 1 enablement 2 elaboration 3 joint 9 background 5 elaboration 6 enablement 9 condition 11 background 11 background -1 root 11 elaboration 11 joint 12 manner-means 11 elaboration 15 enablement 15 joint 17 enablement 11 elaboration 21 attribution 11 elaboration 21 temporal 19 joint 25 attribution 11 evaluation
+7 background 0 elaboration 1 enablement 2 elaboration 3 elaboration -1 root 7 background 5 elaboration 7 joint 7 elaboration 9 elaboration 10 elaboration 11 joint 14 joint 15 elaboration 9 elaboration 15 manner-means 15 joint 7 evaluation
+3 background 0 manner-means 1 elaboration -1 root 3 elaboration 6 elaboration 3 elaboration 6 elaboration 7 joint 8 enablement 9 elaboration 12 temporal 3 elaboration 12 elaboration 12 elaboration 14 same-unit 14 joint
+-1 root 0 elaboration 0 enablement 2 elaboration 3 elaboration 0 elaboration 3 elaboration 0 elaboration 7 progression 8 elaboration 8 same-unit 12 attribution 0 evaluation
+6 background 0 contrast 6 background 2 background 2 same-unit 4 enablement -1 root 6 elaboration 7 elaboration 6 elaboration 6 evaluation 10 same-unit
+-1 root 0 elaboration 0 elaboration 4 contrast 2 contrast 4 contrast 5 elaboration 0 elaboration 7 explain 8 cause-effect 0 evaluation
+5 elaboration 0 background 0 same-unit 0 elaboration 15 joint 4 elaboration 5 elaboration -1 root 7 enablement 7 elaboration 9 manner-means 9 joint 11 manner-means 7 evaluation 13 attribution 14 joint
+-1 root 0 elaboration 0 elaboration 2 enablement 3 elaboration 0 elaboration 5 temporal 8 elaboration 0 evaluation 8 elaboration
+4 background 0 elaboration 4 background 4 background -1 root 4 elaboration 4 joint 6 elaboration 6 elaboration 8 enablement 6 elaboration 10 joint 4 evaluation 12 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 1 elaboration 0 elaboration 7 attribution 0 evaluation 0 elaboration 8 elaboration
+1 background -1 root 1 elaboration 1 elaboration 3 manner-means 1 elaboration 1 elaboration 6 elaboration 5 evaluation 8 manner-means
+5 background 2 same-unit 0 elaboration 2 elaboration 5 background -1 root 5 progression 6 enablement 11 elaboration 8 joint 11 manner-means 5 elaboration 11 elaboration 11 elaboration 15 attribution 11 elaboration 15 progression 16 elaboration 16 enablement 16 elaboration 21 attribution 5 evaluation
+3 background 0 elaboration 0 same-unit -1 root 3 elaboration 7 manner-means 7 manner-means 3 elaboration 7 manner-means 3 elaboration 9 elaboration 9 same-unit 16 comparison 12 elaboration 13 enablement 16 explain 11 same-unit 16 temporal 17 elaboration
+1 cause-effect 2 explain -1 root 2 temporal 2 condition 2 temporal 5 joint 2 background 7 elaboration 7 elaboration 9 elaboration 12 elaboration 9 condition 12 progression 13 cause-effect 14 elaboration 15 elaboration 14 progression 17 progression 18 elaboration 19 joint
+-1 root 0 manner-means 0 elaboration 4 elaboration 0 elaboration 4 attribution 5 elaboration
+-1 root 0 background 0 elaboration 2 joint 3 manner-means 0 elaboration 5 joint 0 evaluation 7 elaboration 7 elaboration 0 evaluation 10 elaboration 11 elaboration 11 elaboration
+5 background 0 contrast 0 elaboration 2 elaboration 5 enablement -1 root 5 enablement 6 enablement 5 elaboration 8 manner-means 9 elaboration 5 elaboration 11 enablement 5 elaboration 13 enablement 13 elaboration 15 joint 16 enablement 13 evaluation 13 background 13 evaluation 20 elaboration 21 enablement
+-1 root 0 elaboration 1 enablement 2 elaboration 0 progression 4 progression
+3 background 0 elaboration 4 attribution 2 elaboration 18 joint 9 background 5 enablement 9 elaboration 9 enablement -1 root 9 elaboration 9 background 13 attribution 9 elaboration 13 elaboration 13 elaboration 15 elaboration 15 elaboration 15 progression 18 joint
+1 background -1 root 1 elaboration 1 elaboration 5 enablement 1 elaboration 5 enablement 6 joint 7 joint 5 enablement 1 elaboration 10 elaboration 11 enablement 1 elaboration
+-1 root 0 manner-means 1 elaboration 0 elaboration 3 enablement 7 joint 3 elaboration 6 joint 7 enablement 10 attribution 0 evaluation
+1 background -1 root 1 manner-means 0 attribution 3 attribution 1 elaboration 5 enablement 4 elaboration 7 elaboration 8 contrast 1 evaluation 10 joint
+-1 root 0 elaboration 0 elaboration 4 attribution 0 elaboration 0 elaboration 5 elaboration 4 attribution 0 evaluation 8 elaboration 11 elaboration 2 elaboration 11 elaboration
+-1 root 0 enablement 0 elaboration 2 elaboration 0 elaboration 8 elaboration 5 elaboration 6 elaboration 4 elaboration 8 elaboration 8 same-unit 10 enablement 8 same-unit 14 attribution 12 evaluation 14 elaboration 15 joint 16 elaboration 14 same-unit
+4 enablement 0 elaboration 1 enablement 4 elaboration 7 background 4 elaboration 4 manner-means -1 root 7 elaboration 8 elaboration 7 elaboration 10 same-unit 11 temporal 14 attribution 7 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 joint 0 elaboration 9 manner-means 6 elaboration 9 attribution 0 evaluation
+-1 root 0 attribution 1 attribution 1 elaboration 3 attribution 3 elaboration 3 same-unit 11 cause-effect 11 enablement 11 enablement 9 elaboration 1 elaboration 14 explain 14 attribution 1 evaluation 14 elaboration
+12 background 3 elaboration 8 joint 5 condition 3 elaboration 2 elaboration 5 manner-means 5 temporal 12 background 8 joint 9 manner-means 12 background -1 root 12 enablement 13 manner-means 12 elaboration 15 elaboration 16 elaboration 17 cause-effect
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 0 elaboration 5 elaboration 9 temporal 7 enablement 0 elaboration 9 elaboration
+-1 root 0 elaboration 0 elaboration 2 joint 0 elaboration 4 elaboration 4 elaboration 8 cause-effect 4 elaboration 8 elaboration 9 cause-effect 10 enablement
+6 background 0 elaboration 0 cause-effect 5 cause-effect 3 joint 6 background -1 root 6 evaluation 7 elaboration
+-1 root 0 joint 0 elaboration 2 joint 3 elaboration 0 progression
+4 background 0 elaboration 4 background 4 background -1 root 4 elaboration 5 enablement 5 elaboration 7 joint 10 attribution 4 elaboration 4 elaboration 13 attribution 4 elaboration 13 joint 14 cause-effect 15 elaboration
+-1 root 0 elaboration 1 elaboration 5 joint 1 elaboration 4 joint 5 elaboration 12 attribution 7 attribution 8 joint 9 enablement 12 attribution 1 evaluation
+9 background 0 enablement 0 elaboration 2 joint 3 cause-effect 6 cause-effect 9 elaboration 6 enablement -1 root 8 progression
+2 background 0 elaboration 3 background -1 root 3 enablement 4 joint 5 enablement 8 elaboration 3 elaboration 8 elaboration 9 manner-means 3 elaboration 11 background 11 enablement 3 evaluation 14 enablement 15 elaboration 16 joint
+2 same-unit 0 elaboration 4 background 4 attribution -1 root 4 elaboration 7 enablement 4 elaboration 9 attribution 4 evaluation
+2 background 0 temporal 3 elaboration -1 root 3 elaboration 4 elaboration 3 elaboration 6 enablement 6 joint 8 background
+5 background 0 enablement 0 same-unit 2 contrast 3 elaboration -1 root 5 elaboration 5 progression 5 evaluation 8 joint 9 attribution 10 manner-means 15 evaluation 12 elaboration 15 enablement 5 elaboration 15 elaboration
+8 background 0 elaboration 1 elaboration 2 elaboration 3 joint 6 enablement 0 elaboration 6 contrast -1 root 8 elaboration 8 elaboration 10 elaboration 10 elaboration 10 elaboration 13 background 10 elaboration 8 elaboration 16 manner-means 17 elaboration 8 evaluation 19 joint
+3 background 0 elaboration -1 root 2 elaboration 3 elaboration 3 elaboration 3 elaboration 6 manner-means 6 progression 8 progression 9 elaboration 9 elaboration 11 enablement 8 evaluation 13 elaboration 14 attribution 15 attribution 16 elaboration 16 same-unit 18 manner-means
+-1 root 0 joint 0 elaboration 2 enablement 1 joint 4 manner-means 0 manner-means 6 elaboration 6 elaboration 8 elaboration 9 joint
+-1 root 2 attribution 0 elaboration 0 progression
+5 background 0 elaboration 3 progression 0 elaboration 3 condition 6 background -1 root 6 elaboration 6 elaboration 8 contrast 9 manner-means 10 enablement 6 evaluation 12 joint 13 elaboration 12 progression 15 elaboration 15 elaboration
+3 enablement 0 elaboration 1 manner-means 5 background 3 elaboration -1 root 5 elaboration 6 elaboration 5 elaboration 8 elaboration 11 manner-means 5 evaluation
+-1 root 2 condition 0 elaboration 2 enablement 3 elaboration 4 enablement 0 elaboration 4 temporal 10 cause-effect 10 background 0 elaboration 10 elaboration 11 enablement 11 progression 13 elaboration 10 evaluation 15 background 15 same-unit
+9 background 0 enablement 1 elaboration 1 elaboration 6 elaboration 6 attribution 10 background 6 elaboration 6 elaboration 10 background -1 root 12 elaboration 10 elaboration 12 elaboration 15 enablement 12 progression 15 enablement 15 joint 17 manner-means
+1 attribution 8 background 1 elaboration 2 enablement 1 same-unit 1 elaboration 5 elaboration 8 enablement -1 root 8 elaboration 8 elaboration 10 elaboration 13 attribution 8 evaluation 13 joint 8 evaluation
+2 elaboration 0 background 6 background 2 elaboration 3 enablement 3 enablement -1 root 6 elaboration 7 enablement 6 evaluation 9 joint 9 enablement 9 cause-effect
+1 contrast 3 same-unit 1 elaboration 8 background 1 elaboration 1 same-unit 5 manner-means 1 elaboration -1 root 8 elaboration 9 elaboration 9 enablement 8 elaboration 12 elaboration 13 elaboration 12 cause-effect 15 attribution 16 attribution 15 elaboration 18 elaboration 19 same-unit
+-1 root 0 manner-means 0 elaboration 0 elaboration 5 explain 2 elaboration 5 contrast 6 elaboration 0 elaboration 8 elaboration 0 elaboration 0 evaluation 11 manner-means
+2 cause-effect 5 temporal 1 elaboration 2 cause-effect 7 cause-effect 4 cause-effect 5 joint -1 root 7 elaboration 7 enablement 9 manner-means 12 attribution 7 evaluation
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 temporal 0 elaboration 0 elaboration 8 elaboration 0 elaboration 8 joint 0 evaluation 10 manner-means
+-1 root 0 manner-means 0 elaboration 2 elaboration 2 joint 0 elaboration 5 enablement 8 attribution 9 manner-means 0 evaluation 9 joint
+4 background 0 elaboration 0 elaboration 2 temporal -1 root 4 elaboration 4 elaboration 6 joint 7 elaboration 8 elaboration 8 cause-effect 12 enablement 4 elaboration 12 background 15 explain 4 evaluation 4 evaluation
+-1 root 0 elaboration 0 elaboration 2 enablement 3 temporal 0 elaboration 5 elaboration 0 elaboration 7 joint 8 elaboration 8 elaboration 7 elaboration
+-1 root 0 elaboration 1 manner-means 0 elaboration 3 elaboration 0 evaluation
+1 elaboration 3 background 1 elaboration -1 root 3 enablement 3 elaboration 5 manner-means 3 elaboration 7 contrast 14 attribution 9 attribution 3 evaluation 11 progression 12 elaboration 15 attribution 12 progression 15 elaboration
+-1 root 0 elaboration 3 attribution 0 manner-means 5 manner-means 0 elaboration 0 elaboration 6 elaboration 10 elaboration 10 attribution 3 elaboration 10 elaboration 15 attribution 12 attribution 13 joint 25 progression 15 elaboration 16 elaboration 17 elaboration 17 elaboration 17 joint 16 attribution 5 evaluation 22 manner-means 23 enablement 22 attribution 25 elaboration
+-1 root 0 elaboration 1 temporal 2 enablement 0 background 6 elaboration 4 cause-effect 6 elaboration 4 elaboration 8 attribution 9 attribution 10 progression
+8 background 0 elaboration 1 elaboration 5 background 3 elaboration 9 background 5 elaboration 6 joint 9 background -1 root 9 elaboration 12 manner-means 9 elaboration 12 enablement 9 evaluation 14 elaboration 15 enablement 16 joint 9 evaluation
+1 elaboration -1 root 1 elaboration 1 joint 3 elaboration 4 condition 7 contrast 1 elaboration 12 cause-effect 12 enablement 8 cause-effect 12 cause-effect 0 elaboration 12 enablement 12 elaboration 14 joint 12 evaluation 16 elaboration 17 elaboration
+1 background -1 root 1 elaboration 1 elaboration 1 enablement 6 elaboration 1 elaboration 6 elaboration 1 elaboration 8 joint 1 elaboration 10 elaboration 11 cause-effect 12 progression 13 elaboration
+-1 root 0 enablement 0 elaboration 0 elaboration 3 elaboration 6 elaboration 0 elaboration 6 elaboration 7 elaboration 10 attribution 11 condition 7 elaboration 11 explain 12 elaboration
+6 background 0 elaboration 1 elaboration 1 same-unit 1 enablement 4 elaboration -1 root 6 elaboration 7 elaboration 8 joint 9 enablement 6 elaboration 11 cause-effect 12 temporal 15 elaboration 16 attribution 12 temporal 16 condition 14 joint 6 evaluation 19 cause-effect 20 manner-means
+-1 root 0 enablement 1 manner-means 0 elaboration 0 evaluation 2 elaboration
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 enablement 4 elaboration 0 evaluation
+-1 root 0 elaboration 1 elaboration 0 enablement 5 attribution 0 elaboration 5 elaboration 5 temporal 0 elaboration 8 joint 0 elaboration 10 elaboration
+-1 root 0 enablement 0 background 2 contrast 3 joint 0 elaboration 5 elaboration 5 elaboration 7 same-unit 5 elaboration 9 manner-means 10 enablement 11 elaboration
+1 elaboration 2 joint 6 background 2 cause-effect 3 elaboration 4 comparison -1 root 6 elaboration 7 enablement 6 elaboration 9 enablement 6 evaluation 11 elaboration 11 elaboration 11 same-unit 14 same-unit
+5 background 0 enablement 0 elaboration 2 background 5 background -1 root 5 enablement 5 joint 5 enablement 5 enablement
+2 background 0 elaboration -1 root 2 elaboration 3 manner-means 4 elaboration 2 elaboration 8 attribution 10 joint 10 manner-means 6 manner-means 10 elaboration 11 joint 2 elaboration 13 elaboration
+6 contrast 4 contrast 1 elaboration 2 enablement 0 contrast 1 elaboration 7 background -1 root 7 joint 8 enablement 4 contrast 10 elaboration 10 same-unit 12 elaboration 7 manner-means 14 elaboration 15 manner-means 14 evaluation 17 joint
+4 background 0 background 0 same-unit 0 elaboration -1 root 4 elaboration 7 attribution 4 elaboration 7 progression 4 elaboration 9 enablement 4 evaluation 11 joint 12 enablement
+-1 root 0 elaboration 1 enablement 0 background 5 manner-means 0 elaboration 5 condition 8 enablement 0 elaboration 8 enablement 11 attribution 0 evaluation
+7 contrast 0 elaboration 1 joint 2 elaboration 2 elaboration 4 joint 7 contrast 11 contrast 7 contrast 7 contrast 9 enablement 12 background -1 root 12 elaboration 12 evaluation 14 elaboration 15 enablement
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 same-unit 2 elaboration 0 elaboration 6 elaboration 9 elaboration 0 elaboration 9 enablement 13 elaboration 13 attribution 9 elaboration 13 manner-means 0 elaboration 15 elaboration 16 contrast 16 joint 20 attribution 0 evaluation 20 elaboration
+-1 root 0 background 0 elaboration 2 elaboration 0 elaboration 4 enablement 0 evaluation
+9 background 0 joint 1 elaboration 1 elaboration 3 temporal 4 joint 7 contrast 9 elaboration 7 elaboration -1 root 9 joint
+4 background 0 elaboration 3 cause-effect 0 elaboration -1 root 4 enablement 4 elaboration 6 elaboration 7 enablement 6 elaboration 9 enablement 4 evaluation
+-1 root 0 enablement 1 elaboration 0 elaboration 3 elaboration 4 joint 5 joint 3 elaboration 7 elaboration 7 elaboration
+4 background 0 elaboration 0 elaboration 2 cause-effect -1 root 4 enablement 4 manner-means 6 enablement 7 enablement 8 elaboration 9 joint 6 cause-effect 11 cause-effect 12 elaboration 4 evaluation 14 joint 15 manner-means
+2 elaboration 0 elaboration 8 background 2 elaboration 2 elaboration 2 elaboration 5 enablement 8 background -1 root 8 elaboration 9 condition 8 elaboration 11 elaboration
+-1 root 0 elaboration 0 same-unit 0 elaboration 3 elaboration 0 elaboration 5 elaboration 6 elaboration 9 comparison 0 evaluation 9 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 same-unit 4 elaboration 0 elaboration 6 enablement 10 elaboration 10 attribution 0 elaboration 10 elaboration 10 evaluation 12 comparison 12 elaboration 14 elaboration
+4 background 0 enablement 4 background 2 joint -1 root 4 enablement 5 manner-means 4 elaboration 7 manner-means 4 elaboration 9 manner-means 10 temporal 10 joint 12 joint 4 elaboration 14 manner-means 19 elaboration 16 elaboration 17 elaboration 22 joint 19 elaboration 14 manner-means 21 cause-effect 22 manner-means 22 elaboration 24 joint
+-1 root 0 contrast 1 contrast 0 elaboration 5 attribution 0 elaboration 5 elaboration 6 elaboration 0 elaboration 8 enablement 9 cause-effect 10 manner-means 9 elaboration
+4 elaboration 0 enablement 3 joint 4 contrast 5 background -1 root 5 enablement 5 elaboration 5 elaboration 8 elaboration 8 progression 12 attribution 5 evaluation 14 manner-means 12 elaboration 14 elaboration
+-1 root 0 elaboration 0 evaluation 2 elaboration 3 elaboration
+2 background 0 elaboration -1 root 2 elaboration 2 contrast 4 elaboration 2 elaboration 6 elaboration 6 elaboration 6 temporal 2 elaboration 10 enablement 11 background 10 elaboration 13 enablement 14 elaboration 19 attribution 2 evaluation 17 elaboration 17 joint 17 elaboration 19 temporal
+-1 root 2 temporal 0 elaboration 2 temporal 3 enablement 0 elaboration 5 enablement 6 comparison
+3 contrast 0 elaboration 3 enablement 5 background 3 temporal -1 root 5 background 5 enablement 5 elaboration 8 elaboration 8 elaboration 10 background 8 elaboration 12 joint 13 elaboration 5 evaluation 17 attribution 15 enablement
+1 elaboration 12 background 1 elaboration 1 same-unit 3 elaboration 8 manner-means 8 elaboration 8 elaboration 0 elaboration 8 elaboration 8 elaboration 10 elaboration -1 root 12 enablement
+5 background 0 explain 1 elaboration 1 elaboration 0 elaboration -1 root 5 elaboration 5 elaboration 7 manner-means 10 elaboration 8 elaboration 9 elaboration 7 elaboration 9 elaboration 9 elaboration 14 elaboration 7 elaboration 16 manner-means 7 evaluation 18 joint
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 0 elaboration 0 elaboration 6 elaboration 7 joint 0 elaboration 9 same-unit
+-1 root 0 elaboration 1 elaboration 2 manner-means 3 elaboration 0 elaboration 7 elaboration 5 elaboration 7 elaboration 7 same-unit 9 elaboration 0 elaboration 11 manner-means 12 elaboration 0 elaboration 14 joint 12 manner-means 19 attribution 17 progression 0 evaluation
+6 background 0 elaboration 4 joint 6 background 3 joint 4 enablement -1 root 6 enablement 9 temporal 6 evaluation 9 manner-means
+4 elaboration 0 elaboration 0 elaboration 0 same-unit 6 background 4 elaboration 7 attribution -1 root 7 enablement 7 elaboration 9 joint 10 contrast 13 elaboration 7 elaboration 13 enablement 12 elaboration 15 enablement 7 evaluation 17 attribution
+1 attribution -1 root 1 manner-means 1 elaboration 3 enablement 1 attribution 1 elaboration 6 enablement 3 evaluation 8 comparison 9 elaboration 8 elaboration 11 elaboration 11 elaboration 16 explain 14 manner-means 17 attribution 1 elaboration 17 elaboration
+-1 root 0 elaboration 1 elaboration 2 joint 1 elaboration 4 elaboration 1 evaluation 6 elaboration 6 same-unit 8 elaboration
+-1 root 0 same-unit 1 elaboration 0 elaboration 3 elaboration 3 elaboration 3 elaboration 6 elaboration 9 elaboration 0 elaboration 9 elaboration 9 elaboration 11 elaboration 12 explain
+20 background 0 elaboration 5 elaboration 4 condition 0 elaboration 4 elaboration 5 elaboration 0 elaboration 7 contrast 10 temporal 7 contrast 10 elaboration 10 background 10 same-unit 13 elaboration 20 elaboration 18 temporal 16 elaboration 20 elaboration 18 condition -1 root 20 elaboration 21 elaboration
+-1 root 0 elaboration 3 manner-means 0 elaboration 0 elaboration 7 elaboration 5 same-unit 0 elaboration 7 enablement 8 elaboration 12 elaboration 10 temporal 0 elaboration 12 elaboration 12 evaluation 14 elaboration 15 elaboration 16 joint 0 summary
+-1 root 0 elaboration 1 enablement 4 attribution 0 evaluation 4 temporal 0 elaboration 6 elaboration 6 elaboration 6 joint 9 condition
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 elaboration 5 elaboration 0 evaluation 7 comparison 8 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 manner-means 7 cause-effect 2 evaluation
+3 background 0 elaboration 0 same-unit -1 root 3 enablement 3 manner-means 7 attribution 3 evaluation 6 attribution 8 attribution 9 elaboration
+-1 root 0 enablement 0 elaboration 2 manner-means 5 elaboration 0 elaboration 5 manner-means 5 elaboration 7 joint 8 elaboration 5 background 10 elaboration 11 progression 12 manner-means 15 attribution 0 evaluation 15 comparison
+1 background -1 root 1 elaboration 1 elaboration 3 background 1 elaboration 5 elaboration 9 enablement 9 attribution 1 evaluation 9 elaboration
+-1 root 0 elaboration 0 elaboration 2 enablement
+4 elaboration 7 elaboration 1 elaboration 2 elaboration 1 elaboration 7 contrast 7 same-unit 9 background 7 elaboration -1 root 9 joint 10 cause-effect 11 attribution 12 attribution 13 elaboration 13 same-unit
+-1 root 0 elaboration 0 elaboration 2 enablement 3 elaboration 0 elaboration 5 elaboration 6 temporal 9 cause-effect 5 evaluation 9 elaboration 9 progression 11 elaboration
+7 background 0 elaboration 1 joint 0 elaboration 3 elaboration 3 same-unit 7 comparison 8 contrast -1 root 8 elaboration 9 explain
+1 attribution 8 background 1 manner-means 1 background 3 contrast 4 elaboration 5 elaboration 6 elaboration -1 root 8 manner-means 9 elaboration 12 background 9 elaboration 12 enablement 1 evaluation 14 attribution 15 progression 16 enablement 19 cause-effect 16 temporal
+3 background 0 joint 3 attribution -1 root 3 elaboration 3 same-unit 7 contrast 3 elaboration 7 manner-means 8 elaboration 9 elaboration
+-1 root 0 elaboration 0 elaboration 0 manner-means 0 elaboration 4 cause-effect 5 comparison 6 elaboration 7 manner-means 0 elaboration 9 elaboration 0 elaboration
+2 elaboration 17 condition 1 elaboration 0 elaboration 3 explain -1 root 5 joint 6 elaboration 7 contrast 5 joint 9 cause-effect 9 elaboration 13 enablement 11 progression 13 enablement 13 joint 13 enablement 13 cause-effect 17 elaboration 18 joint
+-1 root 0 progression 0 elaboration 2 elaboration 0 elaboration 4 elaboration 0 elaboration 6 joint 7 enablement 10 cause-effect 12 explain 12 temporal 0 evaluation
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 elaboration 7 elaboration 5 joint 0 evaluation 7 manner-means 0 elaboration 9 manner-means 9 same-unit
+3 background 0 elaboration 1 elaboration 5 contrast 3 elaboration 18 contrast 1 elaboration 6 elaboration 7 condition -1 root 9 elaboration 10 joint 9 elaboration 12 elaboration 13 cause-effect 14 attribution 15 attribution 16 elaboration 17 contrast
+6 background 0 elaboration 1 elaboration 1 elaboration 6 background 6 manner-means -1 root 6 elaboration 7 elaboration 8 elaboration 6 elaboration 10 manner-means 6 elaboration 14 attribution 6 evaluation
+-1 root 0 elaboration 1 enablement 1 joint 1 enablement 0 elaboration 5 background 0 evaluation 7 manner-means
+3 background 0 elaboration 0 same-unit -1 root 3 enablement 3 background 3 elaboration 6 enablement 7 enablement 6 manner-means 9 manner-means 9 enablement 13 attribution 16 same-unit 13 enablement 13 enablement 3 evaluation 16 manner-means 16 same-unit 16 elaboration 19 elaboration
+4 background 0 contrast 1 enablement 1 temporal 5 background -1 root 5 manner-means 5 evaluation 7 comparison 8 elaboration
+1 contrast 2 contrast -1 root 2 elaboration 3 temporal 4 elaboration 3 elaboration 6 elaboration 7 elaboration 7 elaboration 12 cause-effect 10 elaboration 2 evaluation 12 elaboration 15 attribution 13 elaboration
+3 background 0 enablement 0 contrast -1 root 3 elaboration 3 elaboration 5 elaboration 5 evaluation 7 elaboration 7 joint 9 cause-effect 10 joint
+-1 root 0 elaboration
+1 temporal 2 background -1 root 2 elaboration 3 manner-means 2 progression 5 enablement 5 elaboration 5 same-unit
+1 elaboration 3 same-unit 1 elaboration 8 background 3 same-unit 4 elaboration 4 same-unit 4 joint -1 root 8 elaboration 9 elaboration 9 elaboration 8 evaluation 12 elaboration
+6 background 0 elaboration 1 elaboration 0 elaboration 1 elaboration 4 elaboration -1 root 6 manner-means 7 elaboration 6 evaluation 9 elaboration 6 evaluation
+3 contrast 0 elaboration 1 elaboration 9 background 9 background 4 elaboration 5 elaboration 6 elaboration 9 background -1 root 9 joint 10 elaboration 11 joint 9 evaluation
+-1 root 0 elaboration 3 manner-means 0 elaboration 3 enablement 0 elaboration
+1 contrast 2 contrast 8 background 2 elaboration 2 same-unit 6 contrast 8 elaboration 6 joint -1 root 10 attribution 8 elaboration 10 elaboration 10 same-unit
+1 attribution -1 root 1 enablement 1 elaboration 1 elaboration 4 elaboration 4 manner-means 4 same-unit 9 contrast 1 elaboration 11 attribution 1 evaluation
+1 contrast 6 background 1 contrast 2 background 2 elaboration 4 elaboration 7 background -1 root 7 elaboration 8 enablement 7 progression 10 elaboration 13 cause-effect 7 elaboration 13 elaboration
+4 background 0 enablement 4 background 2 joint -1 root 4 elaboration 4 elaboration 8 cause-effect 4 elaboration 8 enablement 4 elaboration 10 elaboration 11 elaboration 8 enablement 13 same-unit 13 elaboration 4 elaboration
+7 background 0 elaboration 0 elaboration 2 joint 3 joint 4 manner-means 7 elaboration -1 root 7 elaboration 8 elaboration 8 elaboration 10 joint 11 elaboration 12 manner-means 13 elaboration 16 attribution 7 evaluation 16 elaboration 17 joint 20 attribution 7 evaluation 20 manner-means 7 elaboration 22 joint
+1 elaboration 2 contrast 5 background 2 contrast 5 background -1 root 5 enablement 5 elaboration 7 elaboration 10 attribution 5 evaluation
+3 background 0 temporal 1 elaboration -1 root 3 enablement 3 elaboration 5 enablement 6 elaboration 9 attribution 3 evaluation 9 manner-means 9 same-unit
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 4 enablement 4 elaboration 6 background 7 elaboration 6 elaboration 9 joint 4 evaluation
+-1 root 0 enablement 0 elaboration 2 elaboration 0 elaboration 4 manner-means 0 evaluation 6 manner-means 6 background 10 cause-effect 11 cause-effect 6 joint
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 manner-means 3 cause-effect 0 elaboration 3 evaluation 7 progression 8 background
+1 background -1 root 1 manner-means 1 contrast 3 enablement 1 elaboration 7 attribution 1 evaluation 7 elaboration 7 same-unit
+-1 root 2 condition 0 elaboration 2 manner-means 2 manner-means 4 progression 5 joint 6 same-unit 7 enablement 0 evaluation 9 elaboration 10 comparison 0 evaluation
+1 background -1 root 1 elaboration 1 elaboration 3 elaboration 1 elaboration 5 elaboration 6 joint 9 attribution 1 evaluation 9 comparison
+-1 root 0 elaboration 1 enablement 0 elaboration 3 evaluation 4 joint 5 elaboration 6 joint
+1 background 3 progression 1 elaboration -1 root 3 enablement 4 elaboration 3 elaboration 6 enablement 0 evaluation 8 comparison
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 elaboration 0 evaluation 6 enablement 7 temporal
+2 enablement 5 background 1 explain 2 enablement 5 attribution -1 root 5 same-unit 5 manner-means 10 manner-means 8 enablement 7 joint 10 manner-means 11 elaboration
+-1 root 0 manner-means 1 elaboration 0 elaboration 3 elaboration 3 same-unit 5 enablement 3 elaboration 7 manner-means 8 cause-effect 11 comparison 9 elaboration 11 manner-means 12 elaboration
+-1 root 2 manner-means 0 contrast 2 manner-means 2 elaboration 6 attribution 0 evaluation
+-1 root 0 elaboration 1 elaboration 2 enablement 1 elaboration 4 elaboration 5 background 8 condition 4 elaboration 4 elaboration 11 attribution 1 evaluation 11 joint 12 elaboration 13 elaboration
+-1 root 0 elaboration 0 contrast 2 manner-means 5 elaboration 0 elaboration 5 elaboration 6 enablement 7 elaboration 0 elaboration 9 elaboration 9 elaboration 9 joint 15 cause-effect 13 elaboration 9 evaluation
+-1 root 0 elaboration 1 elaboration 1 same-unit 0 elaboration 6 elaboration 4 elaboration 6 elaboration 6 elaboration 8 enablement
+-1 root 0 enablement 0 same-unit 0 elaboration 3 manner-means 0 elaboration 5 temporal 0 elaboration 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 6 background 4 elaboration 6 elaboration 7 elaboration 6 elaboration 11 attribution 0 evaluation
+-1 root 2 contrast 0 elaboration 0 elaboration 3 elaboration 4 joint 3 elaboration 8 comparison 0 elaboration 8 elaboration 9 explain
+1 background -1 root 1 enablement 2 joint 1 elaboration 4 elaboration 1 evaluation 8 manner-means 1 evaluation 8 elaboration
+-1 root 0 elaboration 4 enablement 5 elaboration 5 attribution 0 elaboration 5 elaboration 0 elaboration 7 elaboration 7 contrast 9 attribution 10 attribution 11 elaboration 12 temporal 11 same-unit 17 progression 15 elaboration 0 evaluation
+4 background 0 enablement 9 cause-effect 4 contrast 10 background 4 elaboration 5 manner-means 4 elaboration 7 contrast 10 background -1 root 10 elaboration 11 manner-means 12 manner-means 10 elaboration 14 elaboration 15 enablement 14 elaboration 17 background 17 same-unit 19 enablement 22 manner-means 10 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 elaboration 4 joint 7 attribution 0 evaluation 0 elaboration
+6 background 0 elaboration 1 enablement 6 explain 3 cause-effect 4 elaboration 7 background -1 root 7 manner-means 7 progression 11 attribution 7 elaboration 11 elaboration 7 evaluation 13 joint 14 elaboration
+-1 root 0 elaboration 1 joint 2 contrast 0 evaluation 4 elaboration 4 joint 6 elaboration 0 evaluation 8 enablement 9 elaboration 8 elaboration 0 evaluation
+4 background 0 elaboration 0 joint 0 same-unit -1 root 4 elaboration 5 joint 8 attribution 4 elaboration 8 contrast 9 joint 9 joint 11 manner-means 11 evaluation 13 elaboration
+-1 root 0 elaboration 1 enablement 5 background 5 attribution 0 elaboration 5 elaboration 6 elaboration 6 elaboration 5 attribution 9 attribution
+5 background 0 contrast 1 elaboration 5 background 3 cause-effect -1 root 5 elaboration 5 elaboration 7 elaboration 8 enablement 9 manner-means 5 elaboration 14 enablement 14 attribution 5 elaboration 14 enablement 15 elaboration 5 elaboration
+3 contrast 0 elaboration 3 same-unit 7 background 3 elaboration 4 elaboration 7 attribution -1 root 7 elaboration 8 elaboration 8 elaboration 10 contrast 13 attribution 15 temporal 15 temporal 7 evaluation 17 manner-means 15 explain
+2 contrast 2 attribution -1 root 2 attribution 2 attribution 4 elaboration 9 manner-means 6 manner-means 9 attribution 3 attribution
+1 temporal 4 background 1 enablement 1 elaboration -1 root 7 elaboration 7 joint 4 elaboration 7 elaboration 8 elaboration 7 evaluation 10 enablement 11 elaboration 12 elaboration 12 elaboration
+3 background 0 elaboration 0 elaboration -1 root 3 elaboration 6 elaboration 4 elaboration 6 elaboration 6 joint 3 evaluation
+3 background 0 enablement 0 joint -1 root 3 elaboration 4 elaboration 4 same-unit 6 joint 4 attribution 8 attribution 3 elaboration 12 attribution 10 joint 12 elaboration 12 same-unit 17 elaboration 4 elaboration 16 attribution 3 evaluation 18 joint
+1 same-unit 6 background 1 elaboration 1 background 1 same-unit 4 elaboration -1 root 8 background 6 elaboration 8 elaboration 9 enablement 6 joint 11 manner-means 12 enablement 6 evaluation 14 attribution 15 joint 15 explain 17 comparison
+2 background 0 elaboration -1 root 2 elaboration 2 background 4 enablement 8 elaboration 6 elaboration 2 elaboration 8 elaboration 8 elaboration 10 elaboration 2 elaboration 12 attribution 13 contrast 13 attribution 15 attribution 16 enablement 17 manner-means 22 contrast 19 enablement 13 attribution 21 attribution 22 elaboration 22 same-unit
+-1 root 0 elaboration 1 elaboration 4 attribution 0 elaboration 4 elaboration 3 evaluation 6 elaboration 0 elaboration 8 enablement 9 enablement
+3 background 0 elaboration 1 condition 4 background -1 root 4 enablement 5 temporal 4 elaboration 7 joint 8 elaboration 4 elaboration 10 manner-means 11 elaboration 12 elaboration 11 elaboration 17 enablement 17 enablement 10 elaboration 11 background 20 enablement 4 evaluation 20 enablement 21 enablement
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 enablement 3 progression 9 contrast 6 comparison 7 background 0 evaluation 9 attribution 10 comparison 11 background 12 elaboration 15 enablement 0 elaboration 15 enablement 16 elaboration
+-1 root 2 attribution 0 elaboration 2 progression 3 elaboration 4 enablement 0 elaboration 6 elaboration 7 elaboration 8 elaboration 6 elaboration 10 enablement
+-1 root 0 elaboration 0 contrast 2 elaboration 2 joint 4 elaboration 5 temporal 0 evaluation
+-1 root 0 elaboration 1 elaboration 1 same-unit 0 elaboration 0 elaboration 5 elaboration 6 joint 0 elaboration 8 elaboration 0 evaluation
+-1 root 0 elaboration 1 elaboration 4 elaboration 0 elaboration 6 manner-means 4 elaboration 6 elaboration 6 same-unit 8 joint 9 enablement 0 elaboration 13 attribution 0 evaluation 1 elaboration 13 joint
+-1 root 0 contrast 1 elaboration 2 elaboration 5 enablement 0 elaboration 5 enablement 5 enablement 5 elaboration 5 elaboration 5 enablement 12 enablement 0 elaboration 12 enablement 0 elaboration 14 elaboration 15 enablement 16 joint 15 enablement 0 elaboration 0 elaboration 20 enablement 25 attribution 22 attribution 23 elaboration 17 comparison
+-1 root 0 elaboration 1 enablement 2 elaboration 3 elaboration 6 manner-means 1 elaboration 6 joint 7 background
+-1 root 0 elaboration 1 elaboration 2 elaboration 0 elaboration 4 elaboration 4 progression 8 attribution 0 elaboration 8 elaboration 9 background 0 evaluation 11 enablement
+8 background 0 elaboration 1 attribution 0 elaboration 3 manner-means 4 elaboration 2 elaboration 6 elaboration -1 root 8 elaboration 9 elaboration 8 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 4 manner-means 5 elaboration 6 enablement 6 elaboration 8 enablement 6 progression 10 elaboration
+1 background -1 root 1 progression 2 elaboration 5 elaboration 2 progression 5 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 5 elaboration 6 joint 0 elaboration 6 enablement 0 elaboration 8 enablement 0 elaboration 10 cause-effect 11 elaboration 14 enablement 0 elaboration 14 enablement 17 explain 18 elaboration 19 elaboration 4 joint 0 evaluation
+4 background 0 elaboration 1 temporal 4 enablement -1 root 4 elaboration 4 elaboration 6 enablement 6 joint 8 manner-means 11 contrast 12 cause-effect 9 cause-effect 16 joint 15 enablement 16 elaboration 12 elaboration 16 joint 17 elaboration 18 elaboration 19 elaboration
+-1 root 0 temporal 0 elaboration 2 elaboration 3 elaboration 4 enablement
+-1 root 0 background 0 elaboration 2 elaboration 3 condition 0 elaboration 5 comparison 6 elaboration 9 attribution 0 evaluation 9 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 attribution 4 elaboration 4 manner-means 4 attribution 4 elaboration 14 elaboration 12 attribution 12 attribution 0 evaluation 12 attribution 13 temporal 14 elaboration 14 elaboration 12 joint
+4 background 0 joint 1 elaboration 2 elaboration -1 root 4 elaboration 7 same-unit 8 enablement 1 elaboration
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 joint 4 elaboration 3 contrast 6 contrast 7 elaboration 0 evaluation
+4 background 0 enablement 3 joint 1 joint -1 root 4 elaboration 5 elaboration 6 elaboration 4 elaboration 8 condition 4 elaboration 10 manner-means 10 elaboration 12 progression 13 elaboration 13 elaboration
+3 elaboration 0 background 0 same-unit 5 background 0 enablement 7 background 5 elaboration -1 root 7 elaboration 10 attribution 7 evaluation 10 manner-means 7 evaluation 12 manner-means 12 explain
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 4 enablement 1 elaboration 6 enablement 7 elaboration 10 cause-effect 1 evaluation 10 elaboration 11 elaboration 14 same-unit 1 evaluation 14 comparison
+3 elaboration 0 elaboration 0 same-unit 5 background 0 same-unit -1 root 5 enablement 6 elaboration 5 elaboration 8 manner-means 9 elaboration 10 elaboration 5 elaboration 12 same-unit 13 joint 5 evaluation 15 joint 16 elaboration
+-1 root 0 elaboration 1 elaboration 1 elaboration 3 elaboration 7 elaboration 2 elaboration 0 elaboration 9 enablement 0 elaboration 9 elaboration 9 enablement
+2 same-unit 0 elaboration 5 background 0 elaboration 3 joint -1 root 5 elaboration 8 attribution 5 evaluation 8 contrast 9 contrast 8 progression 11 elaboration 8 attribution 13 attribution
+1 background -1 root 1 elaboration 5 manner-means 5 manner-means 1 evaluation 5 manner-means 1 evaluation 7 elaboration
+1 elaboration 4 background 0 same-unit 2 enablement 5 elaboration 11 background 5 cause-effect 6 elaboration 5 elaboration 8 enablement 11 enablement -1 root 11 elaboration 11 elaboration 13 enablement 16 explain 11 elaboration 16 enablement 16 manner-means 16 progression 19 cause-effect 20 elaboration 20 elaboration 24 cause-effect 19 evaluation
+-1 root 0 elaboration 1 enablement 0 elaboration 5 attribution 0 elaboration 7 manner-means 0 elaboration 7 elaboration 4 attribution 9 attribution 10 elaboration
+-1 root 0 elaboration 1 attribution 2 elaboration 3 elaboration
+-1 root 0 elaboration 1 elaboration 2 cause-effect 2 cause-effect 0 elaboration 5 elaboration 6 joint 7 manner-means 8 elaboration 11 attribution 13 manner-means 13 manner-means 0 elaboration 15 attribution 13 elaboration 15 condition 15 elaboration 0 elaboration 18 manner-means 19 joint 18 manner-means 18 evaluation 22 elaboration
+2 background 0 elaboration -1 root 2 elaboration 3 manner-means 4 elaboration 4 elaboration 2 elaboration 2 elaboration 8 background
+-1 root 0 elaboration 1 elaboration 0 elaboration 5 enablement 0 elaboration 5 background 0 elaboration 7 enablement 8 elaboration 0 elaboration 10 manner-means 10 same-unit 10 manner-means
+2 background 0 cause-effect 3 background -1 root 3 enablement 3 background 5 elaboration 6 enablement 7 elaboration 8 enablement 6 elaboration 10 enablement 3 elaboration 12 elaboration 13 elaboration 12 elaboration 15 enablement 16 elaboration 20 cause-effect 18 enablement 17 elaboration 20 joint 21 elaboration 21 joint 23 joint 2 evaluation 25 same-unit 25 joint
+5 background 0 elaboration 1 elaboration 1 manner-means 5 background -1 root 5 elaboration 6 elaboration 5 elaboration 8 explain 5 evaluation 10 elaboration 11 elaboration 14 explain 5 evaluation 11 elaboration
+-1 root 0 elaboration 1 manner-means 2 elaboration 5 contrast 0 elaboration 5 manner-means 5 comparison 7 elaboration 5 same-unit 11 elaboration 9 contrast 11 elaboration
+2 elaboration 0 contrast 4 contrast 2 elaboration 5 contrast 6 elaboration 12 background 6 elaboration 7 contrast 8 contrast 9 explain 10 elaboration -1 root 12 elaboration 13 elaboration
+-1 root 0 elaboration 1 contrast 0 elaboration 3 elaboration 4 elaboration 0 elaboration 6 elaboration 7 manner-means 0 evaluation
+5 background 0 elaboration 3 cause-effect 4 background 5 background -1 root 5 enablement 6 elaboration 5 elaboration 5 elaboration 9 temporal 5 elaboration 11 same-unit 12 enablement 12 elaboration 5 elaboration 15 enablement
+1 contrast 6 elaboration 1 temporal 6 elaboration 6 elaboration 4 cause-effect 10 background 6 elaboration 6 elaboration 8 elaboration -1 root 10 background 10 contrast 12 elaboration 10 elaboration 14 manner-means 15 enablement 10 evaluation 17 elaboration 18 elaboration 21 progression 10 evaluation
+-1 root 0 enablement 0 elaboration 2 elaboration 2 enablement 6 attribution 0 evaluation
+4 elaboration 0 elaboration 3 explain 0 elaboration 5 elaboration 7 contrast 7 contrast 11 background 7 elaboration 7 same-unit 11 background -1 root 11 elaboration 12 elaboration 15 elaboration 11 elaboration 15 elaboration 11 elaboration 17 enablement
+2 background 0 elaboration -1 root 2 elaboration 3 elaboration 4 joint 2 elaboration 6 enablement 6 manner-means 8 joint 11 attribution 15 contrast 13 contrast 15 contrast 13 elaboration 2 elaboration 15 attribution 15 summary
+-1 root 0 elaboration 1 elaboration 0 elaboration 5 attribution 3 elaboration 5 elaboration 0 elaboration 7 progression 8 elaboration 9 explain 10 elaboration 0 elaboration 12 elaboration
+1 elaboration 11 background 0 elaboration 2 elaboration 3 elaboration 3 manner-means 8 temporal 6 temporal 2 elaboration 8 elaboration 11 enablement -1 root 11 elaboration 12 elaboration 11 evaluation 14 attribution 15 temporal
+-1 root 0 elaboration 1 enablement 0 elaboration 1 enablement 0 elaboration 5 enablement 5 contrast 7 elaboration 8 condition 11 attribution 0 evaluation 11 joint 12 elaboration 16 manner-means 14 elaboration 0 evaluation 16 enablement 16 elaboration
+5 background 0 manner-means 0 same-unit 2 manner-means 0 joint -1 root 5 elaboration 6 joint 5 elaboration 8 elaboration 9 enablement 13 elaboration 11 elaboration 14 joint 15 elaboration 5 evaluation 15 temporal
+1 contrast 2 contrast 3 background -1 root 3 elaboration 6 joint 7 contrast 8 contrast 3 elaboration 8 manner-means 11 attribution 3 elaboration 11 manner-means 3 elaboration 3 evaluation
+-1 root 0 elaboration 0 elaboration 2 manner-means 3 elaboration 0 elaboration 5 background 0 evaluation 7 elaboration 0 elaboration 11 attribution 9 progression 11 attribution 10 attribution 13 enablement 14 elaboration
+-1 root 0 elaboration 1 enablement 1 condition 0 elaboration 4 enablement 0 evaluation 6 temporal
+2 enablement 0 elaboration 4 background 4 background -1 root 4 elaboration 4 elaboration 6 progression 7 manner-means 7 progression 9 elaboration 9 same-unit 7 elaboration 12 joint 16 cause-effect 12 manner-means 15 same-unit 16 joint
+-1 root 0 background 1 elaboration 2 elaboration 0 elaboration 4 manner-means 4 manner-means 8 manner-means 4 elaboration 8 cause-effect 8 elaboration 10 elaboration 11 cause-effect 12 enablement 13 elaboration 0 evaluation 15 elaboration 15 same-unit
+5 background 0 temporal 1 elaboration 1 cause-effect 3 cause-effect -1 root 5 elaboration 8 enablement 5 elaboration 8 elaboration 8 elaboration 8 same-unit 11 joint 5 elaboration 5 elaboration 14 enablement 17 background 5 elaboration 17 elaboration 17 same-unit 19 progression
+3 background 3 background 1 manner-means -1 root 3 elaboration 3 elaboration 5 elaboration 6 elaboration 3 evaluation 3 evaluation 9 elaboration
+4 background 0 enablement 0 contrast 2 temporal 5 background -1 root 5 elaboration 6 enablement 5 evaluation 8 attribution 9 joint 10 condition
+-1 root 0 evaluation 1 progression 2 cause-effect 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 joint 6 cause-effect 0 elaboration 6 enablement 6 cause-effect 8 elaboration
+7 background 0 elaboration 1 elaboration 2 background 0 elaboration 4 elaboration 4 contrast -1 root 7 elaboration 8 background 9 joint 7 evaluation 11 elaboration
+-1 root 0 enablement 1 joint 1 elaboration 3 joint 1 elaboration 5 enablement 6 elaboration 13 attribution 8 elaboration 9 progression 13 elaboration 13 attribution 0 evaluation 13 elaboration
+-1 root 0 elaboration 0 elaboration 2 joint 3 background 3 elaboration 7 enablement 0 elaboration 0 evaluation 8 elaboration 9 elaboration 0 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 2 elaboration 5 background 0 evaluation 7 elaboration 7 elaboration 11 attribution 0 evaluation 11 joint
+-1 root 0 manner-means 0 elaboration 2 elaboration 5 contrast 0 elaboration 5 enablement 0 elaboration 0 elaboration 8 elaboration 9 elaboration 10 joint 11 temporal 8 cause-effect 13 cause-effect 14 elaboration
+10 background 0 condition 1 elaboration 2 elaboration 3 joint 4 contrast 5 contrast 6 elaboration 10 cause-effect 10 enablement -1 root 12 elaboration 10 joint 12 elaboration 13 enablement
+1 elaboration 5 elaboration 1 enablement 9 background 3 elaboration 4 contrast 5 manner-means 9 background 9 background -1 root 9 enablement 9 elaboration 11 joint
+-1 root 0 enablement 1 elaboration 0 elaboration 3 elaboration 3 elaboration 8 enablement 8 enablement 9 elaboration 10 elaboration 5 joint 10 enablement 3 evaluation 12 elaboration
+-1 root 0 elaboration 1 background 0 elaboration 3 elaboration 4 elaboration 5 elaboration 0 elaboration 0 elaboration 8 elaboration 7 elaboration 10 joint 13 explain 0 evaluation
+3 background 0 manner-means 0 same-unit -1 root 3 manner-means 3 progression 3 elaboration 6 joint 3 elaboration 8 elaboration 9 elaboration 3 evaluation 11 joint
+1 elaboration 5 background 1 elaboration 2 joint 1 elaboration -1 root 5 elaboration 5 elaboration 7 manner-means 10 manner-means 11 elaboration 5 evaluation 11 attribution 12 joint 13 enablement 14 elaboration
+2 background 0 elaboration -1 root 2 elaboration 5 joint 2 progression 5 joint 6 elaboration 10 manner-means 8 manner-means 12 elaboration 8 manner-means 2 evaluation 12 attribution 13 joint
+-1 root 0 elaboration 1 elaboration 0 enablement 0 elaboration 7 manner-means 0 elaboration 6 background 7 manner-means 0 elaboration 9 manner-means 6 progression 11 elaboration 11 same-unit 13 enablement
+1 background -1 root 1 elaboration 2 enablement 1 elaboration 4 enablement 4 elaboration 6 elaboration
+-1 root 0 manner-means 3 elaboration 0 background 3 background 4 same-unit 11 enablement 11 contrast 0 elaboration 8 manner-means 9 elaboration 8 contrast 11 enablement 14 cause-effect 15 background 0 elaboration 15 elaboration 16 elaboration 19 cause-effect 0 elaboration 19 joint 19 manner-means 18 evaluation 22 elaboration
+3 background 0 contrast 1 enablement -1 root 3 enablement 4 cause-effect 3 evaluation 6 manner-means 6 contrast
+1 elaboration -1 root 1 elaboration 1 elaboration 3 elaboration 1 elaboration 5 enablement 5 joint 7 manner-means 10 cause-effect 13 condition 10 elaboration 1 evaluation 12 attribution 13 elaboration 13 same-unit 15 comparison 16 elaboration
+5 background 0 elaboration 0 elaboration 6 elaboration 3 condition 6 elaboration -1 root 6 elaboration 6 elaboration 8 elaboration 6 evaluation 10 temporal
+3 background 0 elaboration 1 joint -1 root 3 temporal 6 enablement 3 elaboration 6 elaboration 3 elaboration 8 enablement 3 evaluation 10 manner-means 10 elaboration 11 cause-effect 13 elaboration
+6 background 0 elaboration 4 explain 2 joint 0 elaboration 4 elaboration -1 root 6 elaboration 7 elaboration 6 cause-effect
+12 background 0 elaboration 1 background 2 joint 3 enablement 1 contrast 5 elaboration 5 elaboration 9 cause-effect 12 cause-effect 9 elaboration 9 same-unit -1 root 12 elaboration 13 elaboration 16 enablement 13 elaboration 16 enablement 13 elaboration 16 enablement 19 enablement 22 attribution 23 attribution 13 evaluation
+11 background 0 enablement 7 contrast 2 elaboration 2 elaboration 4 enablement 4 enablement 8 cause-effect 11 background 8 enablement 11 background -1 root 11 elaboration 12 manner-means 13 elaboration 11 elaboration 15 elaboration 16 manner-means 11 elaboration 18 elaboration 18 elaboration 20 elaboration 20 elaboration 18 same-unit 23 temporal 11 evaluation
+1 background -1 root 3 elaboration 4 manner-means 1 background 1 explain 5 elaboration 6 joint 1 elaboration 8 elaboration
+4 enablement 0 elaboration 3 explain 5 background -1 root 4 elaboration 5 elaboration 5 background 7 elaboration 8 enablement 9 enablement 4 evaluation 11 attribution 12 joint
+-1 root 0 elaboration 0 elaboration 0 elaboration 0 elaboration 3 elaboration 0 elaboration 8 attribution 11 temporal 11 contrast 9 enablement 0 elaboration 11 elaboration 0 elaboration 13 enablement 13 manner-means 15 enablement 16 enablement 13 elaboration 13 elaboration 21 attribution 0 evaluation 21 temporal
+-1 root 0 enablement 1 manner-means 2 elaboration 0 elaboration 4 enablement 2 elaboration 4 enablement 7 elaboration 7 joint 0 evaluation 10 elaboration
+4 background 2 contrast 0 contrast 2 joint 5 background -1 root 5 elaboration 5 enablement 7 temporal 5 evaluation 9 elaboration
+4 background 0 attribution 1 cause-effect 7 contrast -1 root 4 elaboration 7 contrast 4 elaboration 7 joint 7 progression 4 elaboration 10 elaboration 11 joint 12 enablement 4 evaluation 14 cause-effect 15 elaboration 14 cause-effect
+1 background -1 root 1 manner-means 1 elaboration 6 elaboration 8 contrast 5 manner-means 6 elaboration 1 evaluation 11 elaboration 8 joint 6 elaboration 11 elaboration 12 temporal
+5 background 0 elaboration 1 enablement 2 elaboration 0 elaboration -1 root 5 elaboration 5 elaboration 7 elaboration 7 elaboration 7 elaboration 10 enablement 11 elaboration 10 elaboration 13 enablement 7 evaluation 15 elaboration 15 cause-effect
+3 contrast 0 elaboration 3 background 6 contrast 7 background 4 elaboration 7 background -1 root 7 elaboration 8 manner-means 7 elaboration 12 cause-effect 7 evaluation
+4 elaboration 0 enablement 1 elaboration 0 elaboration 6 background 4 temporal -1 root 6 contrast 7 elaboration 7 manner-means 7 contrast 10 enablement 11 elaboration 10 elaboration 6 evaluation 14 attribution
+-1 root 0 enablement 3 manner-means 0 elaboration 3 evaluation
+5 background 0 elaboration 1 temporal 5 contrast 3 joint 6 background -1 root 6 elaboration 7 enablement 7 manner-means 9 background 6 elaboration
+6 background 0 elaboration 0 elaboration 4 temporal 0 elaboration 4 elaboration -1 root 6 manner-means 7 enablement 8 elaboration 13 manner-means 10 background 10 elaboration 6 elaboration 13 elaboration 14 enablement
+9 background 0 temporal 0 elaboration 9 background 3 elaboration 6 contrast 9 background 6 joint 9 background -1 root 9 elaboration 10 contrast 10 elaboration 12 enablement 18 attribution 9 evaluation 15 joint 16 elaboration 16 elaboration
+-1 root 0 elaboration 4 contrast 2 elaboration 0 elaboration 4 enablement 0 elaboration 6 elaboration 6 elaboration 0 elaboration 9 enablement 0 elaboration 0 evaluation
+4 elaboration 0 elaboration 0 elaboration 0 enablement 8 background 4 elaboration 8 elaboration 6 joint -1 root 8 elaboration 11 enablement 8 elaboration 13 attribution 8 evaluation
+4 background 0 explain 1 temporal 0 elaboration -1 root 4 enablement 5 joint 4 elaboration 7 elaboration 7 elaboration 11 attribution 4 evaluation
+-1 root 0 elaboration 1 elaboration 2 elaboration 2 elaboration 4 elaboration 0 elaboration 6 elaboration 7 background 1 evaluation 9 elaboration
+3 background 0 background 0 joint 4 background -1 root 4 enablement 4 elaboration 6 enablement 4 elaboration 8 elaboration 9 elaboration 8 elaboration 11 elaboration 11 same-unit 13 enablement 16 attribution 4 evaluation 16 elaboration 19 joint 16 explain
+8 background 0 elaboration 0 same-unit 5 temporal 5 elaboration 8 background 5 elaboration 8 attribution -1 root 12 background 9 elaboration 12 condition 8 elaboration 12 elaboration 13 elaboration 12 cause-effect 8 evaluation 16 enablement
+-1 root 0 enablement 0 elaboration 0 elaboration 3 elaboration 4 elaboration 0 elaboration 6 enablement 9 attribution 0 evaluation 9 elaboration 9 same-unit 11 contrast 12 elaboration 9 same-unit
+4 contrast 0 elaboration 0 explain 4 explain 7 background 4 same-unit 7 enablement -1 root 7 elaboration 8 enablement 8 manner-means 7 evaluation 13 attribution 7 evaluation
+8 background 4 contrast 1 contrast 2 temporal 8 background 4 elaboration 4 same-unit 8 background -1 root 8 elaboration 9 manner-means 10 elaboration 8 elaboration 14 attribution 12 enablement 14 joint 19 elaboration 16 enablement 19 background 8 elaboration 19 elaboration 8 evaluation
+4 background 0 elaboration 0 same-unit 0 elaboration -1 root 4 manner-means 4 elaboration
+2 background 2 background -1 root 2 manner-means 3 manner-means 3 elaboration 5 enablement 5 elaboration 7 elaboration 7 same-unit 2 evaluation 10 elaboration 11 joint
+1 contrast 3 contrast 1 enablement 5 background 3 elaboration -1 root 5 elaboration 6 joint 7 joint 8 elaboration
+-1 root 0 manner-means 1 elaboration 2 enablement 3 temporal 6 background 0 elaboration 6 enablement 6 background 6 elaboration 11 manner-means 6 elaboration 11 cause-effect 12 progression 13 enablement 14 temporal
+3 background 0 elaboration 3 background -1 root 3 elaboration 6 cause-effect 3 elaboration 6 elaboration 7 progression 6 progression 9 elaboration 10 temporal 3 evaluation 12 elaboration 12 joint 14 manner-means
+2 background 0 elaboration 13 background 2 manner-means 3 elaboration 6 attribution 2 elaboration 6 elaboration 6 same-unit 2 elaboration 9 contrast 10 attribution 11 attribution -1 root 13 elaboration 14 joint 15 comparison
+11 background 0 enablement 0 elaboration 2 explain 3 joint 2 contrast 5 manner-means 6 elaboration 5 contrast 11 elaboration 9 same-unit -1 root 11 enablement 11 elaboration
+1 elaboration 5 background 1 elaboration 2 elaboration 5 enablement -1 root 5 elaboration 5 elaboration 7 elaboration 7 elaboration 11 attribution 7 elaboration 11 elaboration 12 elaboration 15 progression 11 joint 15 elaboration
+-1 root 0 contrast 1 manner-means 0 elaboration 3 enablement 0 elaboration 5 elaboration 9 manner-means 9 attribution 0 evaluation 9 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 5 background 0 elaboration 5 elaboration 0 elaboration 7 elaboration 0 evaluation 9 manner-means
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 enablement 8 manner-means 5 elaboration 0 elaboration 7 joint 8 manner-means 8 joint 7 progression 11 background 7 progression 13 joint
+4 background 3 condition 5 elaboration 5 background 5 background -1 root 5 elaboration 5 elaboration 7 elaboration 7 elaboration 7 elaboration 10 elaboration 13 manner-means 5 evaluation 13 manner-means 16 attribution 5 evaluation
+3 background 0 elaboration 3 background -1 root 3 elaboration 3 elaboration 5 elaboration 6 joint 7 elaboration
+-1 root 0 enablement 0 elaboration 2 enablement 0 elaboration 4 enablement 4 joint 6 enablement 7 elaboration 0 elaboration 9 elaboration 0 elaboration 11 joint 0 evaluation 13 manner-means 14 enablement 0 evaluation
+-1 root 0 elaboration 0 enablement 0 elaboration 3 elaboration 4 elaboration 7 manner-means 0 elaboration 7 manner-means 7 joint 7 manner-means 12 comparison 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 manner-means 0 elaboration 4 background 7 explain 0 elaboration 7 elaboration 8 cause-effect 9 elaboration 10 enablement 0 evaluation
+5 contrast 0 elaboration 0 elaboration 0 elaboration 3 elaboration 11 background 5 contrast 6 enablement 6 contrast 8 joint 11 background -1 root 11 joint 12 enablement 13 elaboration 16 enablement 11 elaboration 16 elaboration 19 attribution 16 evaluation
+3 background 0 elaboration 3 enablement -1 root 3 elaboration 3 elaboration 5 elaboration 5 progression 3 evaluation 8 progression 9 attribution
+-1 root 0 elaboration 0 elaboration 0 elaboration 3 progression 4 progression 3 progression 6 elaboration 7 joint 8 manner-means
+-1 root 0 elaboration 1 manner-means 2 elaboration 3 temporal 4 elaboration 7 attribution 0 background 10 elaboration 7 elaboration 7 same-unit 10 elaboration 13 attribution 0 elaboration 13 elaboration 14 elaboration 17 cause-effect 18 cause-effect 13 elaboration 14 elaboration 18 enablement 22 enablement 13 attribution 22 condition 23 joint 0 elaboration 0 elaboration 1 manner-means 3 elaboration 4 elaboration 29 elaboration 0 elaboration 7 attribution 10 elaboration 7 elaboration 32 same-unit 7 elaboration 38 attribution 12 attribution 38 joint
+2 background 0 elaboration -1 root 2 enablement 2 manner-means 2 joint 5 elaboration 5 temporal 2 elaboration 2 elaboration 9 manner-means 2 elaboration 11 enablement 12 background 2 evaluation 14 elaboration
+-1 root 0 elaboration 1 joint 0 elaboration 3 elaboration 3 same-unit 7 elaboration 0 elaboration 0 elaboration 7 elaboration 0 elaboration 10 manner-means 11 elaboration 0 elaboration 13 elaboration 14 temporal 15 elaboration 14 joint 17 elaboration 18 condition 18 condition
+1 background -1 root 1 enablement 1 elaboration 3 elaboration 3 same-unit 1 elaboration 6 manner-means 7 manner-means 8 evaluation 9 joint
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 cause-effect 3 cause-effect 8 elaboration 8 elaboration 0 evaluation 8 elaboration 9 enablement
+-1 root 0 elaboration 0 elaboration 2 joint 3 elaboration 4 manner-means 0 evaluation 8 attribution 6 progression 2 elaboration 9 elaboration 0 evaluation
+1 contrast 5 contrast 1 manner-means 2 joint 3 enablement 6 elaboration 17 temporal 0 elaboration 7 same-unit 8 joint 9 enablement 10 temporal 11 elaboration -1 root 13 elaboration 14 enablement 13 elaboration 13 elaboration 19 elaboration 22 elaboration 13 elaboration 20 elaboration 20 elaboration 22 manner-means 20 evaluation
+2 background 0 joint 4 contrast 2 elaboration 6 background 4 progression -1 root 6 elaboration 7 joint 6 evaluation 9 manner-means 9 evaluation
+-1 root 0 enablement 1 manner-means 2 elaboration 3 elaboration 6 enablement 0 elaboration 6 temporal 0 evaluation
+-1 root 0 background 0 elaboration 2 enablement 0 elaboration 6 attribution 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 0 elaboration 5 elaboration 5 elaboration 7 joint 8 elaboration 9 elaboration 12 attribution 14 elaboration 12 elaboration 0 elaboration 14 elaboration
+6 background 3 elaboration 3 enablement 0 elaboration 3 enablement 3 same-unit 13 background 6 background 13 progression 8 elaboration 9 elaboration 9 joint 13 background -1 root 13 enablement 14 elaboration 15 contrast 13 evaluation 17 progression
+5 background 0 elaboration 0 elaboration 0 elaboration 5 attribution -1 root 5 elaboration 5 elaboration 7 elaboration 8 manner-means
+8 background 0 manner-means 1 elaboration 6 contrast 5 progression 3 joint 8 background 6 elaboration -1 root 8 manner-means 9 elaboration 10 joint 11 elaboration 10 evaluation 13 elaboration 14 cause-effect
+4 background 2 elaboration 0 contrast 2 elaboration -1 root 4 elaboration 5 background 6 elaboration 7 elaboration 4 elaboration
+-1 root 0 enablement 0 elaboration 2 cause-effect 2 elaboration 4 elaboration 0 elaboration 0 elaboration 10 elaboration 10 elaboration 0 evaluation 10 elaboration 10 same-unit 17 attribution 17 contrast 14 background 14 same-unit 12 elaboration 17 elaboration 18 elaboration
+1 background -1 root 1 joint 2 elaboration
+6 background 0 elaboration 3 cause-effect 1 cause-effect 0 elaboration 6 background -1 root 6 enablement 6 elaboration 11 joint 11 attribution 6 evaluation 11 joint
+-1 root 0 enablement 1 elaboration 0 elaboration 0 elaboration 6 attribution 0 elaboration 6 enablement 6 enablement 6 attribution 9 attribution
+-1 root 0 elaboration 0 elaboration 2 enablement 0 elaboration 4 joint 8 cause-effect 6 elaboration 0 evaluation 8 elaboration 0 evaluation 10 background 10 temporal
+-1 root 0 enablement 0 elaboration 0 enablement 3 elaboration 0 elaboration 5 enablement 0 elaboration 7 enablement 7 evaluation 9 joint 13 elaboration 11 elaboration 10 elaboration 13 temporal
+-1 root 0 joint 0 background 0 elaboration 3 manner-means 0 elaboration 7 elaboration 0 elaboration 7 elaboration 10 elaboration 0 evaluation 10 elaboration 11 elaboration
+1 background -1 root 1 elaboration 1 elaboration 3 elaboration 4 background 1 elaboration 6 elaboration 7 elaboration 7 same-unit 9 elaboration 1 evaluation
+1 cause-effect -1 root 3 enablement 0 elaboration 3 enablement 3 enablement 3 enablement 6 cause-effect 9 attribution 7 elaboration 9 joint 10 joint 8 elaboration 12 enablement 13 elaboration 12 progression 15 elaboration 15 same-unit
+9 background 0 background 0 same-unit 2 elaboration 2 same-unit 2 elaboration 2 elaboration 2 same-unit 9 background -1 root 9 elaboration 13 elaboration 9 elaboration 12 elaboration 13 elaboration 13 elaboration 13 elaboration 16 joint 17 enablement 18 elaboration 9 evaluation 20 elaboration
+2 elaboration 0 enablement 5 background 2 elaboration 3 elaboration -1 root 5 elaboration 5 elaboration 7 enablement 7 elaboration 9 enablement 13 attribution 11 attribution 14 joint 5 evaluation 14 elaboration 15 enablement
+2 contrast 0 elaboration 3 elaboration -1 root 3 elaboration 4 elaboration 2 elaboration 6 explain 7 elaboration 4 elaboration 9 enablement 9 elaboration 11 elaboration 15 elaboration 11 same-unit 19 elaboration 15 elaboration 15 cause-effect 17 attribution 2 evaluation
+2 contrast 0 elaboration 5 background 2 joint 0 elaboration -1 root 5 elaboration 6 elaboration 7 elaboration 7 elaboration 7 same-unit 6 manner-means 11 manner-means 6 elaboration 11 elaboration 16 comparison 13 comparison 16 elaboration 15 elaboration
+3 elaboration 6 background 1 attribution 2 contrast 3 elaboration 3 same-unit -1 root 6 elaboration 6 elaboration 8 joint 6 elaboration 10 elaboration 10 elaboration 10 elaboration 13 condition 16 temporal 6 elaboration 16 elaboration 16 joint
+1 background -1 root 1 elaboration 1 elaboration 3 elaboration 6 manner-means 1 elaboration 6 manner-means 1 evaluation 8 comparison 11 joint 12 enablement 13 elaboration 1 evaluation 13 cause-effect 14 elaboration
+-1 root 0 background 0 elaboration 0 elaboration 5 joint 0 evaluation 5 manner-means
+-1 root 0 elaboration 1 summary 5 contrast 3 cause-effect 6 attribution 8 attribution 6 temporal 0 elaboration 8 elaboration 8 same-unit 0 evaluation 11 elaboration 12 elaboration
+4 background 0 elaboration 4 contrast 4 elaboration 6 background 4 elaboration 7 background -1 root 9 condition 7 elaboration 9 enablement 9 elaboration 11 enablement 12 elaboration 11 joint 16 elaboration 7 evaluation
+2 contrast 0 elaboration 4 cause-effect 2 elaboration 5 elaboration -1 root 5 elaboration 5 elaboration 7 elaboration 8 temporal 9 contrast 10 joint 11 attribution 12 attribution 13 condition 13 attribution 15 attribution
+5 background 0 elaboration 1 elaboration 2 joint 5 elaboration 6 background -1 root 6 manner-means 6 elaboration 8 enablement 8 elaboration 10 enablement 13 attribution 6 evaluation
+2 elaboration 0 elaboration 4 background 2 enablement 5 background -1 root 5 elaboration 6 elaboration 9 attribution 5 elaboration 5 elaboration 10 elaboration 11 joint 5 elaboration 13 elaboration 14 enablement 18 progression 5 evaluation 17 joint 18 elaboration
+-1 root 0 elaboration 1 background 0 elaboration 0 elaboration 4 elaboration 5 elaboration 4 manner-means 0 elaboration 8 elaboration 0 elaboration 8 elaboration 11 elaboration 3 attribution 13 attribution 14 joint
+3 contrast 0 elaboration 0 elaboration 4 contrast 6 background 4 cause-effect -1 root 6 elaboration 7 elaboration 8 joint 6 evaluation 10 elaboration
+1 background -1 root 1 enablement 1 elaboration 3 background 4 elaboration 10 manner-means 9 enablement 7 elaboration 1 elaboration 9 enablement 10 manner-means 9 same-unit 1 elaboration 1 elaboration 14 enablement 14 progression 18 attribution 1 evaluation 18 elaboration 19 manner-means
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 0 elaboration 5 elaboration 5 same-unit 5 elaboration 7 same-unit 0 elaboration 10 elaboration
+-1 root 0 manner-means 1 elaboration 0 elaboration 3 contrast 4 elaboration 0 elaboration 6 elaboration 6 cause-effect 6 elaboration 12 comparison 12 comparison 0 evaluation 12 condition 12 elaboration
+4 background 0 elaboration 1 elaboration 1 elaboration -1 root 4 joint 5 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 explain 0 elaboration 6 elaboration 6 same-unit 10 attribution 0 evaluation 10 elaboration
+2 elaboration 0 manner-means -1 root 2 elaboration 5 enablement 3 elaboration 5 enablement 5 elaboration 7 enablement 7 enablement 11 attribution 12 elaboration 2 evaluation 12 elaboration 12 elaboration
+2 contrast 0 elaboration 5 contrast 2 enablement 3 elaboration 9 background 5 elaboration 5 enablement -1 root 8 elaboration 11 attribution 9 evaluation 11 elaboration 9 elaboration 13 condition 14 elaboration 14 same-unit
+9 background 0 elaboration 0 same-unit 2 enablement 0 elaboration 4 explain 5 elaboration 6 elaboration 6 same-unit -1 root 9 elaboration 10 enablement 14 manner-means 12 elaboration 9 evaluation
+-1 root 0 elaboration 0 elaboration 4 attribution 0 evaluation 6 comparison 4 elaboration 6 elaboration
+-1 root 2 attribution 0 elaboration 0 background 3 elaboration 3 cause-effect 5 enablement 0 elaboration 7 background 8 elaboration 7 evaluation 10 manner-means 13 attribution 10 cause-effect 2 attribution 14 attribution
+-1 root 0 elaboration 0 background 2 elaboration 3 elaboration 0 elaboration 5 condition 6 elaboration 7 elaboration 7 elaboration 6 cause-effect 0 elaboration 11 enablement 14 attribution 12 elaboration 14 condition 0 evaluation
+4 background 0 elaboration 0 temporal 4 attribution 7 background 4 joint 7 background 9 background 7 joint -1 root 9 elaboration 9 elaboration 13 attribution 11 elaboration 11 elaboration
+-1 root 0 elaboration 0 elaboration 2 manner-means 5 manner-means 0 elaboration 8 attribution 6 attribution 9 contrast 0 evaluation 9 comparison
+-1 root 0 elaboration 0 elaboration 2 elaboration 2 manner-means 4 elaboration 2 enablement 8 progression 6 joint 0 evaluation 9 elaboration
+-1 root 0 enablement 0 elaboration 4 elaboration 0 joint 4 elaboration 5 elaboration 4 evaluation
+-1 root 0 elaboration 1 elaboration 2 condition 2 cause-effect 6 attribution 4 cause-effect 6 elaboration 0 elaboration 8 elaboration 8 elaboration 8 elaboration
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 elaboration 4 elaboration 4 same-unit 8 condition 0 elaboration 8 elaboration 11 progression 8 joint
+-1 root 0 elaboration 0 elaboration 2 enablement 0 elaboration 4 elaboration 5 elaboration 5 comparison 5 enablement 0 elaboration 9 elaboration 10 elaboration 0 elaboration 12 elaboration 0 evaluation 14 elaboration
+-1 root 0 elaboration 3 contrast 0 elaboration 3 elaboration 4 contrast 5 temporal 8 attribution 0 evaluation 11 condition 9 elaboration 0 evaluation 11 elaboration 12 elaboration 13 enablement 0 elaboration
+7 background 0 elaboration 1 manner-means 7 contrast 3 contrast 4 elaboration 7 attribution -1 root 7 manner-means 8 elaboration 8 elaboration 8 enablement 7 evaluation 12 attribution
+4 background 0 enablement 3 contrast 4 background -1 root 4 enablement 4 contrast 4 elaboration 7 joint 7 contrast 9 elaboration 4 elaboration
+1 background -1 root 1 enablement 1 elaboration 3 enablement 1 elaboration 5 enablement 1 evaluation 7 comparison 10 attribution 1 evaluation 10 enablement 1 evaluation 12 joint
+-1 root 0 elaboration 1 elaboration 1 elaboration 3 background 0 elaboration 5 elaboration 6 enablement 7 enablement
+2 elaboration 0 elaboration 5 elaboration 2 elaboration 2 same-unit 6 elaboration 7 background -1 root 7 background 7 elaboration
+4 background 0 contrast 0 contrast 2 joint -1 root 4 background 4 elaboration 6 elaboration 9 elaboration 6 elaboration 9 elaboration 9 elaboration 11 enablement
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 1 elaboration 1 elaboration 6 enablement 7 elaboration 1 elaboration 6 enablement 18 attribution 11 attribution 1 elaboration 13 elaboration 13 enablement 13 elaboration 18 attribution 1 evaluation
+6 background 0 contrast 1 elaboration 1 joint 3 temporal 3 elaboration -1 root 6 elaboration 7 elaboration 6 elaboration 9 manner-means 6 evaluation 11 elaboration
+4 background 0 comparison 1 elaboration 4 background -1 root 4 elaboration 4 elaboration 6 enablement 10 contrast 8 elaboration 4 elaboration 10 elaboration 10 elaboration 12 joint 13 background 10 elaboration 15 manner-means 15 manner-means 19 attribution 4 evaluation 19 elaboration
+3 background 0 same-unit 0 condition -1 root 3 elaboration 7 elaboration 5 progression 3 elaboration 7 elaboration 11 manner-means 11 enablement 12 elaboration 15 manner-means 12 elaboration 17 attribution 14 attribution 15 elaboration 3 evaluation
+5 background 3 contrast 3 enablement 0 contrast 3 elaboration -1 root 7 manner-means 5 elaboration 7 elaboration 8 elaboration 5 evaluation 10 elaboration 10 elaboration
+-1 root 0 elaboration 1 elaboration 1 elaboration 0 elaboration 4 manner-means 8 attribution 8 attribution 0 evaluation 5 background
+1 contrast 5 background 1 explain 2 joint 3 joint -1 root 5 elaboration 6 elaboration 7 enablement 8 elaboration 5 elaboration 10 joint 13 manner-means 5 evaluation
+-1 root 0 elaboration 3 elaboration 0 elaboration 3 elaboration 6 enablement 0 elaboration 6 joint 6 progression 8 joint 9 enablement 8 elaboration 11 elaboration 19 cause-effect 19 background 13 elaboration 15 explain 16 elaboration 17 condition 20 elaboration 21 elaboration 0 evaluation 21 progression
+-1 root 0 enablement 0 elaboration 0 elaboration 3 manner-means 0 elaboration 0 elaboration 0 elaboration 7 attribution 8 elaboration 0 evaluation 10 manner-means
+1 contrast 2 elaboration 4 background 2 elaboration -1 root 6 contrast 4 contrast 6 elaboration 6 elaboration 10 attribution 11 progression 0 elaboration 11 elaboration 11 same-unit
+-1 root 0 elaboration 0 elaboration 2 explain 6 enablement 0 elaboration 5 elaboration 6 elaboration
+-1 root 0 background 0 elaboration 2 enablement 3 elaboration 4 contrast 5 enablement 5 contrast 0 elaboration 8 elaboration 8 elaboration 10 enablement 10 joint 12 elaboration 15 cause-effect 18 manner-means 15 background 13 attribution 17 attribution 18 temporal 18 temporal
+4 background 0 elaboration 3 temporal 4 background -1 root 4 elaboration 4 elaboration 6 manner-means 4 evaluation 8 attribution 9 elaboration 9 same-unit 11 comparison 12 joint 13 joint
+-1 root 0 elaboration 0 elaboration 2 background 3 elaboration 4 enablement 4 elaboration 6 joint 4 elaboration 8 elaboration 13 progression 10 elaboration 8 temporal 12 progression 13 progression 14 cause-effect
+1 attribution -1 root 1 elaboration 2 enablement 1 elaboration 4 contrast 5 manner-means 1 attribution 1 elaboration 8 manner-means 1 evaluation 10 comparison 11 elaboration
+-1 root 0 elaboration 1 elaboration 4 same-unit 0 elaboration 4 same-unit 4 joint 6 joint 0 evaluation 8 manner-means 9 elaboration
+-1 root 0 elaboration 1 joint 0 elaboration 0 elaboration 0 elaboration 5 temporal 5 same-unit 0 elaboration 8 elaboration 8 joint 12 enablement 0 elaboration 12 enablement 13 elaboration 0 evaluation
+1 elaboration 16 background 1 elaboration 1 elaboration 0 elaboration 0 elaboration 5 elaboration 5 elaboration 7 elaboration 7 elaboration 9 joint 10 elaboration 16 elaboration 12 manner-means 12 enablement 14 joint -1 root 12 elaboration
+-1 root 0 elaboration 6 enablement 2 elaboration 6 enablement 6 manner-means 0 elaboration 6 elaboration 6 elaboration 8 joint 9 progression 10 joint 6 elaboration 6 evaluation
+4 background 0 elaboration 1 enablement 7 contrast -1 root 4 manner-means 7 contrast 4 elaboration 7 background 4 elaboration 9 enablement 9 enablement 9 evaluation 12 cause-effect 13 joint
+-1 root 0 enablement 0 elaboration 0 elaboration 3 enablement 4 elaboration 5 manner-means 0 elaboration 7 elaboration 7 enablement 7 progression
+-1 root 0 elaboration 0 elaboration 2 elaboration 0 same-unit 0 elaboration 0 elaboration 6 contrast 0 elaboration 8 elaboration 9 manner-means 10 same-unit 0 elaboration 12 elaboration
+5 background 0 elaboration 1 condition 0 elaboration 5 background -1 root 5 elaboration 6 elaboration 7 elaboration 10 attribution 5 evaluation
+1 background 5 background 1 elaboration 1 elaboration 5 enablement -1 root 5 elaboration 6 elaboration 7 elaboration 7 contrast 5 cause-effect 7 joint 15 elaboration 12 manner-means 13 enablement 16 cause-effect 17 elaboration 7 comparison
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 3 elaboration 5 elaboration 0 elaboration 7 enablement 0 evaluation 9 elaboration 13 cause-effect 9 manner-means 12 joint
+3 background 0 elaboration 0 same-unit -1 root 3 same-unit 4 elaboration 5 elaboration 6 elaboration 3 evaluation 3 progression
+2 background 0 same-unit -1 root 2 elaboration 2 elaboration 4 enablement 2 elaboration 6 cause-effect 7 elaboration
+3 background 0 elaboration 1 manner-means -1 root 3 background 3 elaboration 5 enablement 3 elaboration 7 elaboration 8 contrast 11 elaboration 7 evaluation 11 elaboration
+1 elaboration 2 background -1 root 4 attribution 6 attribution 6 contrast 2 elaboration 2 elaboration 7 elaboration
+4 background 0 elaboration 1 manner-means 2 joint 5 attribution -1 root 5 manner-means 8 condition 5 elaboration 8 elaboration 8 evaluation 10 progression
+-1 root 0 enablement 1 manner-means 2 elaboration 0 evaluation 4 temporal 5 joint 6 joint
+-1 root 0 elaboration 1 temporal 4 explain 0 elaboration 4 enablement 0 elaboration 6 elaboration 7 elaboration 6 evaluation 12 contrast 9 elaboration 11 progression 12 manner-means
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 4 elaboration 5 condition 6 joint 4 elaboration 8 same-unit 0 elaboration
+-1 root 0 elaboration 0 same-unit 5 temporal 5 manner-means 0 elaboration 5 condition 0 evaluation 0 elaboration 8 elaboration 8 elaboration
+2 background 2 enablement -1 root 2 elaboration 3 manner-means 3 elaboration 5 elaboration 6 elaboration 2 evaluation 11 manner-means 9 manner-means 2 elaboration 2 evaluation 2 evaluation
+-1 root 0 enablement 1 elaboration 0 elaboration 0 elaboration 4 enablement 4 elaboration 6 elaboration 7 manner-means 7 elaboration 9 manner-means 9 joint
+1 elaboration 7 contrast 1 elaboration 7 contrast 7 same-unit 10 contrast 7 elaboration 5 contrast 7 elaboration 10 attribution -1 root 10 elaboration 11 elaboration 10 attribution 16 attribution 13 attribution 15 attribution 16 elaboration 17 enablement 21 progression 19 elaboration 23 attribution 23 attribution 15 attribution
+6 background 0 elaboration 1 temporal 2 cause-effect 3 elaboration 6 enablement -1 root 6 enablement 7 elaboration 6 elaboration 9 enablement 6 elaboration 11 enablement 12 manner-means 6 evaluation 14 comparison 18 progression 16 elaboration 14 explain
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 elaboration 7 joint 0 elaboration 6 joint 7 enablement 0 elaboration 9 elaboration
+2 background 0 elaboration -1 root 2 elaboration 3 enablement 2 elaboration 5 elaboration 6 elaboration 9 enablement 2 elaboration 9 progression 10 manner-means 10 explain 12 elaboration 13 elaboration 14 contrast
+-1 root 0 enablement 3 enablement 0 elaboration 3 elaboration 0 elaboration 8 explain 8 attribution 0 evaluation 8 joint
+-1 root 0 elaboration 1 progression 2 enablement 3 elaboration 7 progression 5 manner-means 2 progression 7 progression 8 comparison
+4 background 0 enablement 1 elaboration 0 same-unit -1 root 4 elaboration 4 joint 6 temporal 6 elaboration 4 elaboration 9 manner-means 4 evaluation 11 elaboration 12 joint
+-1 root 2 contrast 0 elaboration 2 manner-means 2 contrast 0 elaboration 5 explain 0 evaluation
+-1 root 0 enablement 4 elaboration 4 background 0 elaboration 4 manner-means 4 elaboration 4 elaboration 7 elaboration 8 elaboration 11 background 8 elaboration 11 elaboration 12 cause-effect 13 elaboration 14 elaboration 11 progression 16 progression 17 enablement
+2 background 2 enablement -1 root 2 elaboration 3 manner-means 6 attribution 2 evaluation 13 progression 7 elaboration 8 elaboration 13 attribution 10 attribution 11 elaboration 2 evaluation
+-1 root 0 background 6 temporal 2 elaboration 3 elaboration 6 temporal 0 elaboration 6 explain 7 elaboration 8 elaboration
+1 background -1 root 1 elaboration 1 manner-means 1 elaboration 4 joint 5 background 8 attribution 1 evaluation
+5 background 0 elaboration 4 contrast 2 joint 5 background -1 root 5 manner-means 6 elaboration 7 enablement 8 enablement 8 enablement 12 attribution 5 evaluation 12 elaboration 13 manner-means 14 comparison 5 progression 16 elaboration
+9 background 0 elaboration 3 enablement 0 elaboration 5 elaboration 3 elaboration 5 elaboration 5 joint 9 background -1 root 9 elaboration 12 elaboration 9 elaboration 12 elaboration 12 same-unit 9 evaluation 15 elaboration
+-1 root 0 elaboration 3 elaboration 0 elaboration 3 elaboration 4 elaboration 0 evaluation 8 attribution 6 joint
+7 background 0 elaboration 1 joint 2 background 0 explain 4 cause-effect 2 elaboration -1 root
+2 background 0 elaboration 4 background 2 elaboration -1 root 2 elaboration 5 elaboration 5 elaboration 5 elaboration 5 elaboration 9 temporal
+-1 root 0 elaboration 1 elaboration 2 enablement 3 elaboration 1 elaboration 5 elaboration 5 explain 7 progression 5 progression
+3 background 0 elaboration 3 background -1 root 3 elaboration 3 elaboration 5 progression 8 attribution 5 elaboration 8 attribution 9 elaboration 10 joint
+-1 root 0 background 3 attribution 0 evaluation 3 elaboration 3 same-unit
+1 background -1 root 1 enablement 1 evaluation 3 attribution
+-1 root 0 manner-means 0 enablement 0 elaboration 3 elaboration 3 elaboration 3 evaluation 3 elaboration 7 elaboration 7 elaboration
+-1 root 0 elaboration 1 enablement 0 elaboration 3 elaboration 4 elaboration 0 elaboration 6 elaboration 6 joint 6 same-unit 9 elaboration 12 cause-effect 0 evaluation
+4 background 0 elaboration 1 temporal 2 elaboration -1 root 4 elaboration 7 attribution 4 evaluation 7 enablement 8 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 3 manner-means 4 enablement 7 attribution 0 elaboration 7 enablement 11 contrast 9 attribution 0 evaluation
+8 background 0 enablement 0 elaboration 0 elaboration 8 background 4 condition 4 condition 8 background -1 root 8 enablement 9 manner-means 9 enablement 8 evaluation 12 joint 8 evaluation 14 background
+1 elaboration 5 explain 0 elaboration 2 elaboration 5 background -1 root 5 enablement 6 elaboration 5 elaboration 5 elaboration 9 elaboration 12 background 5 elaboration 12 enablement 11 evaluation 14 comparison
+-1 root 0 enablement 0 elaboration 2 elaboration 0 elaboration 4 manner-means 7 manner-means 0 elaboration 0 elaboration 8 elaboration 9 background 0 elaboration 11 enablement 11 elaboration 13 elaboration 14 elaboration
+-1 root 0 elaboration 1 elaboration 2 elaboration 1 elaboration 9 elaboration 7 enablement 1 elaboration 7 elaboration 7 joint 9 elaboration 7 progression 13 contrast 14 contrast 16 elaboration 16 background 1 elaboration 16 elaboration 19 attribution 16 evaluation
+-1 root 0 elaboration 1 manner-means 1 elaboration 3 elaboration 6 manner-means 0 elaboration 6 manner-means 9 attribution 0 evaluation 9 joint
+3 background 0 joint 3 manner-means -1 root 3 joint 3 elaboration 3 elaboration 3 elaboration 7 elaboration 8 elaboration 8 elaboration 10 enablement 3 evaluation
+3 elaboration 0 elaboration 0 enablement 8 contrast 3 contrast 3 same-unit 5 manner-means 3 condition 9 background -1 root 9 background 10 elaboration 13 elaboration 9 evaluation 13 elaboration 14 joint 15 elaboration 16 elaboration
+7 background 0 elaboration 0 elaboration 2 enablement 5 elaboration 7 elaboration 5 elaboration -1 root 7 evaluation 8 elaboration 11 background 7 elaboration 11 manner-means 14 attribution 11 evaluation
+-1 root 0 background 3 attribution 0 elaboration 3 manner-means 3 enablement 0 elaboration 6 elaboration 7 background 8 elaboration 9 background 12 manner-means 0 evaluation
+1 elaboration 9 enablement 0 elaboration 2 enablement 2 condition 6 background -1 root 6 elaboration 6 same-unit 6 elaboration
+4 background 0 elaboration 0 elaboration 18 joint 11 background 4 elaboration 7 attribution 4 elaboration 11 elaboration 11 elaboration 9 joint -1 root 11 elaboration 11 elaboration 16 attribution 13 attribution 15 attribution 16 enablement 17 joint 18 elaboration 11 elaboration
+-1 root 0 enablement 0 elaboration 2 elaboration 2 elaboration 0 evaluation
+4 background 0 elaboration 1 background 4 background -1 root 4 elaboration 5 enablement 4 temporal 7 enablement 7 enablement 12 manner-means 4 elaboration 4 evaluation 12 manner-means 12 joint 4 evaluation 17 attribution 15 joint 17 temporal
+-1 root 0 elaboration 0 elaboration 0 elaboration 0 elaboration 4 elaboration 5 elaboration 0 elaboration 7 joint 0 elaboration 0 elaboration 0 elaboration 16 attribution 12 attribution 13 enablement 16 elaboration 0 elaboration 16 elaboration 17 elaboration
+-1 root 0 manner-means 1 elaboration 0 elaboration 3 elaboration 4 enablement 0 elaboration 6 elaboration 6 joint 8 elaboration 0 evaluation
+1 elaboration 2 background -1 root 2 elaboration 3 progression 4 enablement 5 joint
+2 background 0 same-unit -1 root 2 elaboration 2 contrast 2 elaboration 7 attribution 5 progression 2 elaboration 10 elaboration 4 contrast 10 comparison 10 contrast 2 elaboration 13 elaboration 16 elaboration 17 elaboration 2 evaluation 17 comparison 18 comparison
+-1 root 0 elaboration 1 same-unit 2 enablement 3 elaboration 4 elaboration 4 joint
+4 background 2 enablement 0 elaboration 2 enablement -1 root 4 manner-means 4 elaboration 6 elaboration 4 elaboration 8 manner-means 8 joint 10 manner-means 13 attribution 4 evaluation
+7 background 0 elaboration 0 same-unit 0 elaboration 2 same-unit 4 temporal 5 cause-effect -1 root 7 enablement 7 progression 7 progression 10 enablement
+1 attribution 8 background 1 manner-means 2 elaboration 5 elaboration 8 joint 5 elaboration 8 background -1 root 8 enablement 8 background 8 elaboration 11 enablement 12 joint 13 elaboration 8 elaboration 15 enablement 18 attribution 1 evaluation
+1 background -1 root 1 condition 1 elaboration 3 joint 4 elaboration 5 enablement 6 enablement 7 elaboration 1 elaboration 9 elaboration 1 elaboration 11 manner-means 11 elaboration 12 elaboration 16 attribution 1 evaluation 16 elaboration
+4 background 0 elaboration 0 elaboration 0 same-unit -1 root 4 enablement 4 joint 4 elaboration 7 elaboration 7 elaboration
+9 background 0 elaboration 1 enablement 9 background 3 enablement 9 background 5 elaboration 5 temporal 9 background -1 root 9 elaboration 9 elaboration 11 elaboration 14 attribution 9 evaluation
+-1 root 0 elaboration 1 joint 2 joint 3 elaboration 6 contrast 0 evaluation
+-1 root 0 same-unit 0 elaboration 2 manner-means 3 elaboration 0 elaboration 5 elaboration 6 joint 5 elaboration 8 elaboration 9 elaboration 5 evaluation 11 enablement 11 elaboration 11 joint 14 elaboration 12 background
+-1 root 0 attribution 1 manner-means 2 background 2 elaboration 1 elaboration 5 elaboration 1 evaluation 7 joint 7 attribution 9 attribution 10 elaboration
+6 background 0 elaboration 0 elaboration 2 joint 6 background 6 elaboration -1 root 6 elaboration 6 elaboration 8 contrast 11 explain 13 elaboration 11 elaboration 6 evaluation
+24 background 0 elaboration 1 elaboration 2 elaboration 3 elaboration 6 explain 2 elaboration 9 joint 6 elaboration 8 progression 8 joint 6 contrast 15 elaboration 12 enablement 13 elaboration -1 root 15 elaboration 16 enablement 17 joint 15 elaboration 15 elaboration 15 elaboration 15 elaboration 24 manner-means 15 evaluation 15 elaboration 16 enablement
+3 contrast 0 elaboration 1 elaboration 5 contrast 5 attribution 9 background 5 progression 6 elaboration 7 enablement -1 root 9 elaboration 10 elaboration 9 elaboration 12 cause-effect 13 enablement 16 progression 5 evaluation
+5 background 0 joint 3 contrast 5 contrast 3 enablement 6 background -1 root 6 elaboration 6 elaboration 8 manner-means 9 manner-means
+5 background 0 enablement 3 contrast 4 contrast 5 background -1 root 5 elaboration 6 attribution 7 attribution 8 attribution 9 progression 10 enablement 11 manner-means 10 joint
+1 background -1 root 1 elaboration 2 elaboration 3 joint
+1 background 2 contrast 3 background -1 root 3 elaboration 4 manner-means 3 elaboration 6 attribution 7 attribution 3 elaboration
+2 background 0 elaboration -1 root 2 elaboration 2 progression 4 elaboration 7 attribution 2 elaboration 7 elaboration 8 elaboration 11 attribution 15 condition 15 elaboration 12 elaboration 13 elaboration 17 elaboration 18 elaboration 2 evaluation 17 elaboration 18 elaboration
+2 background 0 elaboration -1 root 2 elaboration 3 elaboration 4 elaboration 2 elaboration 6 elaboration 7 elaboration 2 elaboration 9 elaboration 10 elaboration 11 elaboration 16 manner-means 15 attribution 9 elaboration 15 progression
+-1 root 0 condition 0 elaboration 2 attribution 3 condition 2 elaboration 0 elaboration 6 contrast 7 elaboration 8 enablement 7 elaboration 12 cause-effect 0 elaboration
+-1 root 0 background 1 elaboration 0 elaboration 3 elaboration 3 elaboration 0 elaboration 6 enablement 3 elaboration 8 enablement 9 elaboration 0 elaboration 11 manner-means 12 elaboration 13 comparison 11 background 15 elaboration
+-1 root 0 elaboration 1 enablement 2 elaboration 0 elaboration 4 elaboration 5 elaboration 4 elaboration 7 elaboration 10 attribution 0 elaboration 10 enablement 11 joint 14 attribution 9 attribution 14 elaboration
+6 background 0 enablement 0 contrast 2 elaboration 2 same-unit 6 elaboration -1 root 6 elaboration 7 enablement 7 elaboration 9 elaboration 13 contrast 14 comparison 10 joint 13 comparison
+10 background 2 elaboration 9 background 2 elaboration 2 condition 4 elaboration 4 elaboration 6 joint 10 background 10 background -1 root 10 manner-means 10 progression 10 background 13 elaboration 14 elaboration 10 manner-means 16 elaboration 16 manner-means 20 attribution 10 evaluation
+5 background 0 contrast 1 manner-means 2 elaboration 5 background -1 root 5 elaboration 5 enablement 9 elaboration 5 elaboration 9 elaboration 10 joint 13 manner-means 9 elaboration 13 elaboration 5 evaluation
+4 elaboration 0 elaboration 0 same-unit 4 elaboration -1 root 4 elaboration 5 elaboration 5 same-unit 4 elaboration 11 manner-means 9 elaboration 8 elaboration 11 elaboration 12 elaboration 11 elaboration 14 attribution 4 elaboration
+-1 root 0 elaboration 0 elaboration 2 joint 0 elaboration 4 manner-means 5 elaboration 6 elaboration 0 elaboration 8 enablement 11 attribution 0 evaluation
+1 background -1 root 1 elaboration 1 elaboration 1 elaboration 4 elaboration 5 elaboration 6 manner-means 7 elaboration 8 elaboration 8 evaluation 12 cause-effect 10 elaboration
+-1 root 0 elaboration 1 elaboration 0 elaboration 0 elaboration 4 elaboration 5 attribution 6 attribution 7 elaboration 8 enablement 14 condition 7 attribution 11 attribution 12 attribution 0 evaluation 14 manner-means 15 cause-effect
+-1 root 0 elaboration 1 enablement 2 enablement 0 elaboration 4 elaboration 5 elaboration
+5 elaboration 0 elaboration 1 elaboration 2 enablement 3 joint 9 elaboration 5 elaboration 9 explain 9 cause-effect 13 background 9 joint 10 elaboration 11 enablement -1 root 13 background 13 elaboration 13 elaboration 16 elaboration 17 enablement 20 contrast 22 contrast 20 elaboration 13 elaboration 20 cause-effect 23 comparison 27 comparison 27 elaboration 13 evaluation 27 elaboration 28 elaboration 27 elaboration 27 enablement 27 comparison
+3 background 0 elaboration 1 enablement -1 root 3 elaboration 3 elaboration 5 elaboration 3 elaboration 3 elaboration 8 elaboration 9 elaboration 8 elaboration 11 elaboration 12 temporal 3 elaboration 3 evaluation 15 elaboration 15 joint
+3 background 0 manner-means 3 progression -1 root 3 enablement 3 elaboration 7 elaboration 9 elaboration 7 elaboration 10 manner-means 0 elaboration 10 enablement 10 cause-effect 12 cause-effect 13 cause-effect 14 enablement
+-1 root 0 elaboration 1 joint 0 elaboration 3 elaboration 3 elaboration 5 elaboration 6 joint 0 elaboration 7 progression 0 evaluation
+-1 root 0 elaboration 0 elaboration 2 elaboration 3 elaboration 4 elaboration 5 elaboration 6 manner-means 7 elaboration 10 attribution 0 evaluation
+3 background 0 elaboration 1 elaboration -1 root 3 enablement 4 joint 3 elaboration 6 enablement 7 elaboration 3 elaboration 9 joint 10 temporal 3 evaluation
+1 elaboration 2 cause-effect 4 background 2 joint -1 root 4 elaboration 5 elaboration 8 enablement 4 elaboration 8 enablement 4 evaluation 10 joint
+2 background 0 elaboration -1 root 2 elaboration 3 background 2 elaboration 2 evaluation 6 elaboration 6 same-unit 8 elaboration 9 condition 10 elaboration 8 same-unit 6 same-unit
+11 background 0 elaboration 1 manner-means 0 elaboration 3 elaboration 11 background 7 explain 11 background 7 elaboration 8 elaboration 11 background -1 root 11 enablement 11 elaboration 13 elaboration 11 evaluation
+-1 root 0 elaboration 1 enablement 0 elaboration 3 elaboration 4 joint 0 elaboration 0 elaboration 7 elaboration 7 same-unit 9 enablement 10 joint 0 evaluation 12 elaboration 12 elaboration 14 elaboration
+1 temporal 2 contrast 7 background 2 elaboration 1 joint 4 same-unit 5 elaboration -1 root 7 enablement 7 elaboration 9 elaboration 9 elaboration 11 enablement 11 manner-means 15 attribution 11 elaboration 9 elaboration 16 elaboration 16 cause-effect
+3 background 0 contrast 1 elaboration -1 root 3 elaboration 3 elaboration 5 elaboration 5 background 5 elaboration 8 enablement 3 elaboration 3 evaluation 11 comparison
+9 background 2 enablement 0 enablement 2 elaboration 3 condition 0 evaluation 5 contrast 6 elaboration 6 elaboration -1 root 9 progression 10 elaboration 10 elaboration 10 elaboration 10 progression 14 attribution 15 enablement 5 evaluation
+-1 root 0 manner-means 1 enablement 0 elaboration 3 manner-means 6 explain 0 elaboration 8 comparison 0 evaluation
