@@ -99,7 +99,8 @@ class DependencyTreeRelModel(nn.Module):
         tree_graph.pull(tree_graph.nodes())
                             
         compat_matrix = self.get_compat_matrix(all_edus)
-        print("cpm ", compat_matrix)
+        print("cpm ", compat_matrix.shape, compat_matrix)
+        print("alledus", all_edus.shape, all_edus)
         root_scores = self.root_clf(all_edus).view(all_edus.shape[0], -1)
         all_edus = all_edus.unsqueeze(0)
         self.total_score += self.logistic_loss(compat_matrix, 
