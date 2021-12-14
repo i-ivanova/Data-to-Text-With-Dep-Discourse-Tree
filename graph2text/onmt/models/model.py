@@ -2,7 +2,7 @@
 import torch
 import torch.nn as nn
 import dgl
-import calc_uas_las from onmt.decoders.dependency_tree_rel_model
+from onmt.decoders.dependency_tree_rel_model import pred_root
 
 
 class NMTModel(nn.Module):
