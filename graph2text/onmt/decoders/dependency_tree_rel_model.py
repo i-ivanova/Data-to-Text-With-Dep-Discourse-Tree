@@ -305,7 +305,7 @@ class DependencyTreeRelModel(nn.Module):
         num_nodes = len(result_dict) + 1
         new_adj_matrix = th.zeros((num_nodes, num_nodes, 2), 
                                   dtype=th.long, 
-                                  device=self.config[DEVICE])
+                                  device="cuda:0")
 
         for _, value in result_dict.items():
             new_adj_matrix[value.head, value.tail, etype[value.head, value.tail]] = 1
