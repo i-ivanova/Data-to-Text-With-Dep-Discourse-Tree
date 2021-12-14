@@ -136,36 +136,42 @@ def build_loss_compute_plan(model, plan_field, tgt_field, opt, train=True):
    # text generator
     out_padding_idx = tgt_field.vocab.stoi[tgt_field.pad_token]
     out_unk_idx = tgt_field.vocab.stoi[tgt_field.unk_token]
+    
+    out_criterion = onmt.modules.CopyGeneratorLoss(
+        len(tgt_field.vocab), opt.copy_attn_force,
+        unk_index=out_unk_idx, ignore_index=out_padding_idx
+    )
 
-    if opt.copy_attn:
-        out_criterion = onmt.modules.CopyGeneratorLoss(
-            len(tgt_field.vocab), opt.copy_attn_force,
-            unk_index=out_unk_idx, ignore_index=out_padding_idx
-        )
-    elif opt.label_smoothing > 0 and train:
-        out_criterion = LabelSmoothingLoss(
-            opt.label_smoothing, len(tgt_field.vocab), ignore_index=out_padding_idx
-        )
-    elif isinstance(model.generator[-1], LogSparsemax):
-        out_criterion = SparsemaxLoss(ignore_index=out_padding_idx, reduction='sum')
-    else:
-        out_criterion = nn.NLLLoss(ignore_index=out_padding_idx, reduction='sum')
+    # if opt.copy_attn:
+    #     out_criterion = onmt.modules.CopyGeneratorLoss(
+    #        len(tgt_field.vocab), opt.copy_attn_force,
+    #         unk_index=out_unk_idx, ignore_index=out_padding_idx
+    #     )
+
+    # elif opt.label_smoothing > 0 and train:
+    #     out_criterion = LabelSmoothingLoss(
+    #         opt.label_smoothing, len(tgt_field.vocab), ignore_index=out_padding_idx
+    #     )
+    # elif isinstance(model.generator[-1], LogSparsemax):
+    #     out_criterion = SparsemaxLoss(ignore_index=out_padding_idx, reduction='sum')
+    # else:
+    #     out_criterion = nn.NLLLoss(ignore_index=out_padding_idx, reduction='sum')
 
     # if the loss function operates on vectors of raw logits instead of
     # probabilities, only the first part of the generator needs to be
     # passed to the NMTLossCompute. At the moment, the only supported
     # loss function of this kind is the sparsemax loss.
-    use_raw_logits = isinstance(out_criterion, SparsemaxLoss)
-    out_loss_gen = model.generator[0] if use_raw_logits else model.generator
-    if opt.copy_attn:
-        out_compute = onmt.modules.CopyGeneratorLossCompute(
-            out_criterion, out_loss_gen, tgt_field.vocab, opt.copy_loss_by_seqlength,
-            lambda_coverage=opt.lambda_coverage
-        )
-    else:
-        out_compute = NMTLossCompute(
-            out_criterion, out_loss_gen, lambda_coverage=opt.lambda_coverage,
-            lambda_align=opt.lambda_align)
+    # use_raw_logits = isinstance(out_criterion, SparsemaxLoss)
+    out_loss_gen = model.generator
+    # if opt.copy_attn:
+    out_compute = onmt.modules.CopyGeneratorLossCompute(
+        out_criterion, out_loss_gen, tgt_field.vocab, opt.copy_loss_by_seqlength,
+        lambda_coverage=opt.lambda_coverage
+    )
+    # else:
+    #     out_compute = NMTLossCompute(
+    #         out_criterion, out_loss_gen, lambda_coverage=opt.lambda_coverage,
+    #         lambda_align=opt.lambda_align)
 
     plan_compute.to(device)
     out_compute.to(device)
