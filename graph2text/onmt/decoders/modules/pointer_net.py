@@ -325,7 +325,7 @@ class PointerNet(nn.Module):
         input_length = inputs.size(1)
         decoder_input0 = self.decoder_input0.unsqueeze(0).expand(batch_size, -1)
         decoder_hidden0 = (decoder_hidden0,
-                               torch.zeros(inputs[0][-1].shape, device=self.config[DEVICE]))
+                               torch.zeros(inputs[0][-1].shape, device="cuda:0"))
         (outputs, pointers), _ = self.decoder(inputs,
                                               decoder_input0,
                                               decoder_hidden0,
@@ -337,7 +337,7 @@ class PointerNet(nn.Module):
         input_length = inputs.size(1)
         decoder_input0 = self.decoder_input0.unsqueeze(0).expand(batch_size, -1)
         decoder_hidden0 = (decoder_hidden0,
-                               torch.zeros(inputs[0][-1].shape, device=self.config[DEVICE]))
+                               torch.zeros(inputs[0][-1].shape, device="cuda:0"))
         pointers = self.decoder.beam_decode(inputs,decoder_input0,decoder_hidden0,inputs)
         return pointers
     
