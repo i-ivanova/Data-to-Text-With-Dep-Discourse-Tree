@@ -129,7 +129,9 @@ class NMTPlanModel(nn.Module):
         plan_dec_out, plan_attns = self.plan_decoder(plan, memory_bank,
                                       memory_lengths=src_lengths,
                                       with_align=with_align)
-        print("Generator? ", self.plan_generator)
+        print("Generating Blan: ")
+        print("ENC STATE: ", enc_state); print("SHAPE ", enc_state.shape)
+        print("Memory Bank: ", memory_bank.shape, memory_bank)
         
         tree_loss = 0
         num_trees = len(trees)
@@ -182,7 +184,7 @@ class NMTPlanModel(nn.Module):
                 msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
                 # Decode the EDU order from the tree
                 dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(pred_root))
-                print("Dep tree root", dep_tree_root)
+                # print("Dep tree root", dep_tree_root)
                 flat_new_adj = torch.sum(new_adj_matrix, dim=2)
                 adj = torch.cat([adj_matrix[0].squeeze(0), adj_matrix[1].squeeze(0)], dim=2)
                 flat_gold_adj = torch.sum(adj, dim=2)               
