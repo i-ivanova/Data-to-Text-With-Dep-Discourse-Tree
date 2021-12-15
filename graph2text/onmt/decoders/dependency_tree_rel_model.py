@@ -215,7 +215,7 @@ class DependencyTreeRelModel(nn.Module):
         uas, las = calc_uas_las(new_adj_matrix, gold_adj_matrix, root, gold_root, num_nodes)
         embeds = (h_cat, doc_embed)
         pred_order = self.node_order(embeds, dep_tree_root)
-        pred_order = th.tensor(pred_order, device=self.config[DEVICE])      
+        pred_order = th.tensor(pred_order, device="cuda:0")      
         # Make 1 to num_nodes instead of 0 to num_nodes - 1
         pred_order += 1
         # Computing validation loss
