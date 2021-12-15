@@ -217,7 +217,7 @@ class CopyGenerator(nn.Module):
         #).transpose(0, 1)
         #copy_prob = copy_prob.contiguous().view(-1, cvocab)
         full_attns = torch.cat([out_prob, mul_attn], 1)
-        print("COPY GENERATOR ATTNS", full_attns.shape, full_attns)
+        #print("COPY GENERATOR ATTNS", full_attns.shape, full_attns)
         return torch.cat([out_prob, mul_attn], 1)
 
 
