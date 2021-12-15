@@ -295,6 +295,7 @@ class DependencyTreeRelModel(nn.Module):
         h_cat = h_cat.squeeze(0)
         nodes_indices = th.tensor([node.edu_id for node in children], device="cuda:0")
         print("HCAT ", h_cat.shape)
+        print("DOC EMBED ", doc_embed)
         print("NODE INDICES ", nodes_indices)
         inputs = h_cat.squeeze(0)[nodes_indices]
         print("INPUTS :", inputs.shape)
