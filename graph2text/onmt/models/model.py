@@ -128,7 +128,7 @@ class NMTPlanModel(nn.Module):
 
         plan_dec_out, plan_attns = self.plan_decoder(plan, memory_bank,
                                       memory_lengths=src_lengths,
-        #                               with_align=with_align)
+                                      with_align=with_align)
         # print("Generating Blan: ")
         # print("DECODER IN ", dec_in)
         # print("ENC STATE: ", enc_state); print("SHAPE ", enc_state.shape)
