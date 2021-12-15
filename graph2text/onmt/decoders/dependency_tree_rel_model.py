@@ -318,7 +318,7 @@ class DependencyTreeRelModel(nn.Module):
             else:
                 nodes[value.head].lnodes.append(nodes[value.tail])
         # assert nodes[root] != 0
-        print(root)
+        # print(root)
         return nodes[root], new_adj_matrix   
 
 def calc_uas_las(new_adj_matrix, gold_adj_matrix,
