@@ -191,9 +191,9 @@ class CopyGenerator(nn.Module):
                ``(src_len, batch, extra_words)``
         """
         #print("HIDDEN ", hidden.shape, hidden)
-        print("SRC_MAP", src_map.shape, src_map)
-        print("SRC MAP ONE", src_map[0])
-        print("ATTNS", attn.shape, attn)
+        # print("SRC_MAP", src_map.shape, src_map)
+        # print("SRC MAP ONE", src_map[0])
+        # print("ATTNS", attn.shape, attn)
         # CHECKS
         batch_by_tlen, _ = hidden.size()
         batch_by_tlen_, slen = attn.size()
