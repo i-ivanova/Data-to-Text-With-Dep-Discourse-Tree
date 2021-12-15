@@ -197,9 +197,9 @@ class CopyGenerator(nn.Module):
         # CHECKS
         batch_by_tlen, _ = hidden.size()
         batch_by_tlen_, slen = attn.size()
-        slen_, batch, cvocab = src_map.size()
+        # slen_, batch, cvocab = src_map.size()
         aeq(batch_by_tlen, batch_by_tlen_)
-        aeq(slen, slen_)
+        # aeq(slen, slen_)
 
         # Original probabilities.
         logits = self.linear(hidden)

@@ -134,6 +134,7 @@ class NMTPlanModel(nn.Module):
         print("ENC STATE: ", enc_state); print("SHAPE ", enc_state.shape)
         print("Memory Bank: ", memory_bank.shape, memory_bank)
         print("PLAN", plan.shape, plan)
+        self.plan_generator(plan_dec_out, plan_attns, None)
         raise ValueError
         
         tree_loss = 0
