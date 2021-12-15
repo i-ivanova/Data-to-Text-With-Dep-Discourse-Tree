@@ -240,7 +240,7 @@ class DependencyTreeRelModel(nn.Module):
         beam_size = min(num_nodes, 5)
         arcs = []
         
-        compat_matrix, etype = th.max(compat_matrix_full.unsqueeze(0), dim=2)
+        compat_matrix, etype = th.max(compat_matrix_full.squeeze(0), dim=2)
         print("COMPAT ", compat_matrix.shape, compat_matrix[0, 0], compat_matrix)
         print("ETYPE: ", etype)
         
