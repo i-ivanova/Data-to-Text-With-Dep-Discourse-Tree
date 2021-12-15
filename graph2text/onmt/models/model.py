@@ -132,6 +132,7 @@ class NMTPlanModel(nn.Module):
         print("Generating Blan: ")
         print("ENC STATE: ", enc_state); print("SHAPE ", enc_state.shape)
         print("Memory Bank: ", memory_bank.shape, memory_bank)
+        print("PLAN", plan.shape, plan)
         
         tree_loss = 0
         num_trees = len(trees)
