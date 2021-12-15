@@ -130,9 +130,11 @@ class NMTPlanModel(nn.Module):
                                       memory_lengths=src_lengths,
                                       with_align=with_align)
         print("Generating Blan: ")
+        print("DECODER IN ", dec_in)
         print("ENC STATE: ", enc_state); print("SHAPE ", enc_state.shape)
         print("Memory Bank: ", memory_bank.shape, memory_bank)
         print("PLAN", plan.shape, plan)
+        raise ValueError
         
         tree_loss = 0
         num_trees = len(trees)
@@ -194,11 +196,11 @@ class NMTPlanModel(nn.Module):
                 print("UAS: ", uas.item())
                 print("LAS: ", las.item())
                 
-                # pred_order = self.tree_decoder.node_order((edus.unsqueeze(0), torch.mean(edus, dim=0).unsqueeze(0)), dep_tree_root)
-                # print("PRED ORDER", pred_order)
-                # # pred_order = torch.tensor(pred_order, device=self.config[DEVICE])      
-                # # Make 1 to num_nodes instead of 0 to num_nodes - 1
-                # pred_order += 1
+                pred_order = self.tree_decoder.node_order((edus.unsqueeze(0), torch.mean(edus, dim=0).unsqueeze(0)), dep_tree_root)
+                print("PRED ORDER", pred_order)
+                # pred_order = torch.tensor(pred_order, device=self.config[DEVICE])      
+                # Make 1 to num_nodes instead of 0 to num_nodes - 1
+                pred_order += 1
 
         
         dec_out, attns = self.decoder(dec_in, memory_bank,
