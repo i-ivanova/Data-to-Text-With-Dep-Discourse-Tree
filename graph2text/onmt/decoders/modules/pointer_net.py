@@ -130,7 +130,7 @@ class Decoder(nn.Module):
 
         # Generating arang(input_length), broadcasted across batch_size
         runner = self.runner.repeat(input_length)
-        runner.data = torch.arange(input_length, device=self.config[DEVICE])
+        runner.data = torch.arange(input_length, device="cuda:0")
         runner = runner.unsqueeze(0).expand(batch_size, -1).long()
 
         outputs = []
@@ -203,7 +203,7 @@ class Decoder(nn.Module):
         mask = self.mask.repeat(input_length).unsqueeze(0).repeat(batch_size, 1)
         
         # Generating arang(input_length), broadcasted across batch_size
-        runner = torch.arange(input_length, device=self.config[DEVICE])
+        runner = torch.arange(input_length, device="cuda:0")
         runner = runner.unsqueeze(0).expand(batch_size, -1).long()
         # decoding goes sentence by sentence
         for idx in range(batch_size):
@@ -211,7 +211,7 @@ class Decoder(nn.Module):
             node = BeamSearchNode(decoder_hidden, 
                                   None, 
                                   decoder_input, 
-                                  torch.zeros(1, device=self.config[DEVICE]), 
+                                  torch.zeros(1, device="cuda:0"), 
                                   0, 
                                   mask.clone(), 
                                   -1)
@@ -290,7 +290,7 @@ class Decoder(nn.Module):
                 utterance = utterance[::-1]
                 utterances.append(utterance)
             decoded_batch.append(utterances)
-        return torch.tensor(decoded_batch[0][0][1:], device=self.config[DEVICE])
+        return torch.tensor(decoded_batch[0][0][1:], device="cuda:0")
     
 class PointerNet(nn.Module):
     """
