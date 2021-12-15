@@ -88,7 +88,6 @@ class DependencyTreeRelModel(nn.Module):
     
     def directed_tree_loss(self, all_edus, adj_matrix, tree_graph, root):
 
-        print("all edus", all_edus.shape, all_edus)
         batch, seq_len, _ = all_edus.shape
         all_edus = all_edus.squeeze(0)
         doc_embed = th.mean(all_edus, dim=0)
@@ -99,8 +98,6 @@ class DependencyTreeRelModel(nn.Module):
         tree_graph.pull(tree_graph.nodes())
                             
         compat_matrix = self.get_compat_matrix(all_edus)
-        print("cpm ", compat_matrix.shape, compat_matrix)
-        print("alledus", all_edus.shape, all_edus)
         root_scores = self.root_clf(all_edus).view(all_edus.shape[0], -1)
         all_edus = all_edus.unsqueeze(0)
         self.total_score += self.logistic_loss(compat_matrix, 
