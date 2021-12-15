@@ -238,6 +238,7 @@ class Decoder(nn.Module):
                     masks.append(mask)
                     old_nodes.append(n)
                     old_logprobs.append(n.logp)
+                print("Inputs ", len(inputs), inputs[0].shape)
                 inputs = torch.cat(inputs, dim=0)
                 hiddens_h = torch.cat(hiddens_h, dim=0)
                 hiddens_c = torch.cat(hiddens_c, dim=0)
@@ -245,7 +246,9 @@ class Decoder(nn.Module):
                 masks = torch.cat(masks, dim=0)
                 old_logprobs = torch.cat(old_logprobs).unsqueeze(1).expand(-1, input_length)
                 # decode for one step using decoder
-                print(inputs, hiddens, masks)
+                # print("INPUTS ", inputs.shape, inputs)
+                # print("HIDENS ", len(hiddens), hiddens[0].shape)
+                # print("MASK ", masks.shape, mask)
                 h_t, c_t, outs, raw_att = self.step(inputs, hiddens, masks, context.repeat(inputs.shape[0], 1, 1))
                 beam_indexes = torch.arange(inputs.shape[0]).repeat_interleave(input_length)
                 num_candidates = min(beam_width, input_length * inputs.shape[0])
