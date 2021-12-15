@@ -198,14 +198,10 @@ class NMTPlanModel(nn.Module):
                 print("UAS: ", uas.item())
                 print("LAS: ", las.item())
                 
-                # (1, num tokens, 512), (1, 1, 512)
-                print("EDUS ", edus.shape)
-                print("doc embed ", torch.mean(edus, dim=1).shape)
-                pred_order = self.tree_decoder.node_order((edus, torch.mean(edus, dim=1)), dep_tree_root)
-                print("PRED ORDER", pred_order)
-                pred_order = torch.tensor(pred_order, device=self.config[DEVICE])      
+                pred_order = torch.tensor(self.tree_decoder.node_order((edus, torch.mean(edus, dim=1)), dep_tree_root)).to("cuda:0")
                 # Make 1 to num_nodes instead of 0 to num_nodes - 1
                 pred_order += 1
+                print("Order: ", pred_order)
 
         
         dec_out, attns = self.decoder(dec_in, memory_bank,
