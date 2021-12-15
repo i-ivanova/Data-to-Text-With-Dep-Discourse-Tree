@@ -292,12 +292,14 @@ class DependencyTreeRelModel(nn.Module):
     def direct_ch_order(self, embed, children, acc, root_id):
         
         h_cat, doc_embed = embed
+        h_cat = h_cat.squeeze(0)
         nodes_indices = th.tensor([node.edu_id for node in children], device="cuda:0")
         print("HCAT ", h_cat.shape)
         print("NODE INDICES ", nodes_indices)
         inputs = h_cat.squeeze(0)[nodes_indices]
         print("INPUTS :", inputs.shape)
-        print("INPUTS: ", inputs.unsqueeze(0))
+        inputs = inputs.unsqueeze(0)
+        print("INPUTS: ", inputs.shape)
         pred_order = self.pointer_net.decode(inputs, doc_embed)
         ordered_acc = [] 
         for i in pred_order.squeeze(0):
