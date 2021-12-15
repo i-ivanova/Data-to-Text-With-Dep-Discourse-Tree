@@ -199,12 +199,12 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
 
     # Build Plan Generator Decoder (decoding the text)
     print("TODO: Plan Generator Decoder implementation")
-    print("FIELDS ", fields)
+    #print("FIELDS ", fields)
     tgt_base_field = fields["tgt"].base_field
-    print("TGT PAD TOKEN ", tgt_base_field.pad_token)
+    #print("TGT PAD TOKEN ", tgt_base_field.pad_token)
     #print("TGT BASE ", tgt_base_field)
     #print("TGT BASE", tgt_base_field.vocab.stoi)
-    print("Plan Field Vocab", fields["plan"].vocab.stoi)
+    #print("Plan Field Vocab", fields["plan"].vocab.stoi)
     #print("Plan Field Vocab", )
     #raise IndexError
     # vocab_size = len(tgt_base_field.vocab)
