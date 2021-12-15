@@ -297,7 +297,7 @@ class DependencyTreeRelModel(nn.Module):
         print("HCAT ", h_cat.shape)
         print("DOC EMBED ", doc_embed.shape, doc_embed)
         print("NODE INDICES ", nodes_indices)
-        inputs = h_cat.squeeze(0)[nodes_indices]
+        inputs = h_cat[nodes_indices]
         print("INPUTS :", inputs.shape)
         inputs = inputs.unsqueeze(0)
         print("INPUTS: ", inputs.shape)
