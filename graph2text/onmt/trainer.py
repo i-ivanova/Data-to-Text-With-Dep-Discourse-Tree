@@ -220,7 +220,7 @@ class Trainer(object):
         if valid_iter is None:
             logger.info('Start training loop without validation...')
         else:
-            valid_steps = 1
+            valid_steps = 5000
             logger.info('Start training loop and validate every %d steps...',
                         valid_steps)
 
