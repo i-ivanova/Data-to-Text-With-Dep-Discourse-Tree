@@ -269,7 +269,7 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
         # end of patch for backward compatibility
 
         model.load_state_dict(checkpoint['model'], strict=False)
-        plan_generator.load_state_dict(checkpoint['plan_gnerator'], strict=False)
+        plan_generator.load_state_dict(checkpoint['plan_generator'], strict=False)
         generator.load_state_dict(checkpoint['generator'], strict=False)
     else:
         if model_opt.param_init != 0.0:
