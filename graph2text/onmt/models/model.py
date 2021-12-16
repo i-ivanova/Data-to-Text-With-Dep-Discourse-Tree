@@ -182,26 +182,26 @@ class NMTPlanModel(nn.Module):
                 tree_graph = dgl.DGLGraph(edges).to("cuda:0")
                 edus = tree_edus[i].unsqueeze(0)
                 adj_matrix = (left_adj, right_adj)
-                tree_loss += self.tree_decoder(edus, tree_graph, adj_matrix, root, rels)
-                # compat_matrix_full = self.tree_decoder.get_compat_matrix(edus.squeeze(0))
-                # root_scores = self.tree_decoder.root_clf(edus).view(-1)
-                # # Decode the tree structure
-                # msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
-                # # Decode the EDU order from the tree
-                # dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(pred_root))
-                # # print("Dep tree root", dep_tree_root)
-                # flat_new_adj = torch.sum(new_adj_matrix, dim=2)
-                # adj = torch.cat([adj_matrix[0].squeeze(0), adj_matrix[1].squeeze(0)], dim=2)
-                # flat_gold_adj = torch.sum(adj, dim=2)               
-                # uas = 1 - torch.sum(flat_new_adj != flat_gold_adj).float() / (num_nodes * 2) - int(pred_root != root) / num_nodes
-                # las = 1 - torch.sum(new_adj_matrix != adj).float() / (num_nodes * 2) - int(pred_root != root) / num_nodes                
-                # print("UAS: ", uas.item())
-                # print("LAS: ", las.item())
+                # tree_loss += self.tree_decoder(edus, tree_graph, adj_matrix, root, rels)
+                compat_matrix_full = self.tree_decoder.get_compat_matrix(edus.squeeze(0))
+                root_scores = self.tree_decoder.root_clf(edus).view(-1)
+                # Decode the tree structure
+                msp_result, etype, pred_root = self.tree_decoder.decode_mst(compat_matrix_full, root_scores)
+                # Decode the EDU order from the tree
+                dep_tree_root, new_adj_matrix = self.tree_decoder.arrange_dep_tree_rootclf(msp_result, etype, int(pred_root))
+                # print("Dep tree root", dep_tree_root)
+                flat_new_adj = torch.sum(new_adj_matrix, dim=2)
+                adj = torch.cat([adj_matrix[0].squeeze(0), adj_matrix[1].squeeze(0)], dim=2)
+                flat_gold_adj = torch.sum(adj, dim=2)               
+                uas = 1 - torch.sum(flat_new_adj != flat_gold_adj).float() / (num_nodes * 2) - int(pred_root != root) / num_nodes
+                las = 1 - torch.sum(new_adj_matrix != adj).float() / (num_nodes * 2) - int(pred_root != root) / num_nodes                
+                print("UAS: ", uas.item())
+                print("LAS: ", las.item())
                 
-                # pred_order = self.tree_decoder.node_order((edus, torch.mean(edus, dim=1)), dep_tree_root)
-                # # Make 1 to num_nodes instead of 0 to num_nodes - 1
-                # pred_order = [i + 1 for i in pred_order]
-                # print("Order: ", pred_order)
+                pred_order = self.tree_decoder.node_order((edus, torch.mean(edus, dim=1)), dep_tree_root)
+                # Make 1 to num_nodes instead of 0 to num_nodes - 1
+                pred_order = [i + 1 for i in pred_order]
+                print("Order: ", pred_order)
 
         
         dec_out, attns = self.decoder(dec_in, memory_bank,
