@@ -358,5 +358,7 @@ class CopyGeneratorLossCompute(NMTLossCompute):
             loss = torch.div(loss, tgt_lens).sum()
         else:
             loss = loss.sum()
+            
+        print("LOSS ", loss)
 
         return loss, stats
