@@ -323,9 +323,12 @@ class Translator(object):
 
         src_data = {"reader": self.src_reader, "data": src, "dir": src_dir}
         graph_data = {"reader": self.src_reader, "data": graph, "dir": None}
+        plan_data = {"reader": self.src_reader, "data": plan, "dir": None}
+        tree_data = {"reader": self.src_reader, "data": tree, "dir": None}
         tgt_data = {"reader": self.tgt_reader, "data": tgt, "dir": None}
         _readers, _data, _dir = inputters.Dataset.config(
-            [('src', src_data), ('graph', graph_data), ('tgt', tgt_data)])
+            [('src', src_data), ('graph', graph_data), ('plan', plan_data),
+             ('tree', tree_data), ('tgt', tgt_data)])
 
         data = inputters.Dataset(
             self.fields, readers=_readers, data=_data, dirs=_dir,
