@@ -23,7 +23,7 @@ def translate(opt):
     plan_shard = split_corpus(opt.plan, opt.shard_size)
     tree_shard = split_corpus(opt.tree, opt.shard_size)
     tgt_shards = split_corpus(opt.tgt, opt.shard_size)
-    shard_pairs = zip(src_shards, graph_shards, tgt_shards)
+    shard_pairs = zip(src_shards, graph_shards, plan_shard, tree_shard, tgt_shards)
 
     for i, (src_shard, graph_shard, plan_shard, tree_shard, tgt_shard) in enumerate(shard_pairs):
         logger.info("Translating shard %d." % i)
