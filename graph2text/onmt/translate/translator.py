@@ -598,7 +598,7 @@ class Translator(object):
                 decoder_in.gt(self._tgt_vocab_len - 1), self._tgt_unk_idx
             )
         
-        plan_dec_out, plan_dec_attn = self.plan_decoder(
+        plan_dec_out, plan_dec_attn = self.model.plan_decoder(
             batch.plan, memory_bank, memory_lengths=memory_lengths, with_align=True
             )
         
