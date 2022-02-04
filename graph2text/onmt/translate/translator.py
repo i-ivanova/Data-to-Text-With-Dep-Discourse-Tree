@@ -594,6 +594,13 @@ class Translator(object):
             decoder_in = decoder_in.masked_fill(
                 decoder_in.gt(self._tgt_vocab_len - 1), self._tgt_unk_idx
             )
+        
+        plan_dec_out, plan_dec_attn = self.plan_decoder(
+            batch.plan, memory_bank, memory_lengths=memory_lengths, with_align=True
+            )
+        
+        print("plan_dec_out ", plan_dec_out, plan_dec_out.shape)
+        print("plan_dec_attn ", plan_dec_attn, plan_dec_attn.shape)
 
         # Decoder forward, takes [tgt_len, batch, nfeats] as input
         # and [src_len, batch, hidden] as memory_bank
@@ -661,6 +668,7 @@ class Translator(object):
         # (1) Run the encoder on the src.
         src, enc_states, memory_bank, src_lengths = self._run_encoder(batch)
         self.model.decoder.init_state(src, memory_bank, enc_states)
+        self.model.plan_decoder.init_state(src, memory_bank, enc_states)
 
         results = {
             "predictions": None,
