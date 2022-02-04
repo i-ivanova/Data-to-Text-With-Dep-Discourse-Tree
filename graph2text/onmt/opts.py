@@ -779,6 +779,10 @@ def translate_opts(parser):
               type=int, default=3, choices=[3, 1],
               help="Using grayscale image can training "
                    "model faster and smaller")
+    
+    # Option for decoding with plan
+    group.add('--plan', '-plan', type=str, help="File containing parsed plan")
+    group.add('--tree', '-tree', type=str, help="File containing parsed trees")
 
 
 # Copyright 2016 The Chromium Authors. All rights reserved.
