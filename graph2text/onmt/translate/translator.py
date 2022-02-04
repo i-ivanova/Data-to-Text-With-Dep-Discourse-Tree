@@ -601,6 +601,13 @@ class Translator(object):
         
         print("plan_dec_out ", plan_dec_out, plan_dec_out.shape)
         print("plan_dec_attn ", plan_dec_attn, plan_dec_attn.shape)
+        
+        scores = self.model.plan_generator(plan_dec_out.view(-1, plan_dec_out.size(2)),
+                                          plan_dec_attn.view(-1, plan_dec_attn.size(2)),
+                                          src_map)
+        
+        print("scores", scores, scores.shape)
+        raise ValueError("Checko point")
 
         # Decoder forward, takes [tgt_len, batch, nfeats] as input
         # and [src_len, batch, hidden] as memory_bank
