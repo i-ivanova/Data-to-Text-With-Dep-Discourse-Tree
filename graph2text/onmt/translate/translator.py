@@ -290,6 +290,8 @@ class Translator(object):
             self,
             src,
             graph,
+            plan,
+            tree,
             tgt=None,
             src_dir=None,
             batch_size=None,
