@@ -13,7 +13,7 @@ from onmt.encoders import str2enc
 
 from onmt.decoders import str2dec
 
-from onmt.modules import Embeddings, VecEmbedding, CopyGenerator, CopyGeneratorPlan, CopyGeneratorFromPlan #, CopyGeneratorPlanDecoder
+from onmt.modules import Embeddings, VecEmbedding, CopyGenerator, CopyGeneratorPlan
 from onmt.modules.util_class import Cast
 from onmt.utils.misc import use_gpu
 from onmt.utils.logging import logger
@@ -80,7 +80,7 @@ def build_encoder(opt, embeddings):
     return str2enc[enc_type].from_opt(opt, embeddings)
 
 
-def build_decoder(opt, embeddings, is_plan=False):
+def build_decoder(opt, embeddings, is_plan=False, is_masked=False):
     """
     Various decoder dispatcher function.
     Args:
@@ -89,6 +89,8 @@ def build_decoder(opt, embeddings, is_plan=False):
     """
     if is_plan:
         dec_type = "plan_transformer"
+    elif is_masked:
+        dec_type = "mask_transformer"    
     else:
         dec_type = "ifrnn" if opt.decoder_type == "rnn" and opt.input_feed \
                    else opt.decoder_type
@@ -167,7 +169,11 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
 
         tgt_emb.word_lut.weight = src_emb.word_lut.weight
     
+    # normal decoder
     decoder = build_decoder(model_opt, tgt_emb)
+    
+    # masked decoder
+    masked_decoder = build_decoder(model_opt, tgt_emb, is_masked=True)
     
     # Build plan decoder
     plan_field = fields["plan"]
@@ -198,15 +204,15 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
     plan_generator = CopyGenerator(model_opt.dec_rnn_size, vocab_size, pad_idx)
 
     # Build Plan Generator Decoder (decoding the text)
-    print("TODO: Plan Generator Decoder implementation")
-    #print("FIELDS ", fields)
+    # print("TODO: Plan Generator Decoder implementation")
+    # print("FIELDS ", fields)
     tgt_base_field = fields["tgt"].base_field
-    #print("TGT PAD TOKEN ", tgt_base_field.pad_token)
-    #print("TGT BASE ", tgt_base_field)
-    #print("TGT BASE", tgt_base_field.vocab.stoi)
-    #print("Plan Field Vocab", fields["plan"].vocab.stoi)
-    #print("Plan Field Vocab", )
-    #raise IndexError
+    # print("TGT PAD TOKEN ", tgt_base_field.pad_token)
+    # print("TGT BASE ", tgt_base_field)
+    # print("TGT BASE", tgt_base_field.vocab.stoi)
+    # print("Plan Field Vocab", fields["plan"].vocab.stoi)
+    # print("Plan Field Vocab", )
+    # raise IndexError
     # vocab_size = len(tgt_base_field.vocab)
     # pad_idx = tgt_base_field.vocab.stoi[tgt_base_field.pad_token]
     # plan_generator_decoder = CopyGeneratorPlanDecoder(model_opt.dec_rnn_size, vocab_size, pad_idx)

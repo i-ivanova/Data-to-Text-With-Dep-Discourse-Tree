@@ -245,22 +245,22 @@ class Trainer(object):
                                     .all_gather_list
                                     (normalization))
 
-            # self._gradient_accumulation(
-            #     batches, normalization, total_stats,
-            #     report_stats)
+            self._gradient_accumulation(
+                batches, normalization, total_stats,
+                report_stats)
 
-            # if self.average_decay > 0 and i % self.average_every == 0:
-            #     self._update_average(step)
+            if self.average_decay > 0 and i % self.average_every == 0:
+                self._update_average(step)
 
-            # report_stats = self._maybe_report_training(
-            #     step, train_steps,
-            #     self.optim.learning_rate(),
-            #     report_stats)
+            report_stats = self._maybe_report_training(
+                step, train_steps,
+                self.optim.learning_rate(),
+                report_stats)
 
-            # if (self.model_saver is not None
-            #     and (save_checkpoint_steps != 0
-            #          and step % save_checkpoint_steps == 0)):
-            #     self.model_saver.save(step, moving_average=self.moving_average)
+            if (self.model_saver is not None
+                and (save_checkpoint_steps != 0
+                     and step % save_checkpoint_steps == 0)):
+                self.model_saver.save(step, moving_average=self.moving_average)
            
             # skip validation for now, will do later for each saved model
             
@@ -369,6 +369,7 @@ class Trainer(object):
                             plan_tgt,
                             plan_attns,
                             plan_align)
+                        
                         loss += plan_loss / num_trees
                         loss += tree_loss
 
@@ -455,6 +456,9 @@ class Trainer(object):
                     # print("A hack in batch gradient accumulator!!!")
                     plan_tgt = torch.where(plan < 0, plan, 0) + 4
                     plan_align = torch.where(plan >= 0, plan, -1)
+                    print("PLAN ", plan)
+                    print("PLAN TGT ", plan_tgt)
+                    print("PLAN ALIGN ", plan_align)
 
                     plan_loss, _ = self.train_loss_plan._compute_loss(
                         batch,
@@ -462,6 +466,8 @@ class Trainer(object):
                         plan_tgt,
                         plan_attns,
                         plan_align)
+                    
+                    raise ValueError("STOP")
 
                     # print("PLAN DECODER LOSS TOTAL", plan_loss.item())
                     

@@ -581,6 +581,46 @@ class Translator(object):
                                .long() \
                                .fill_(memory_bank.size(0))
         return src, enc_states, memory_bank, src_lengths
+    
+    def _decode_and_generate_plan(self,
+            decoder_in,
+            memory_bank,
+            batch,
+            src_vocabs,
+            memory_lengths,
+            src_map=None,
+            step=None,
+            batch_offset=None):
+        
+#         if self.copy_attn:
+#             # Turn any copied words into UNKs.
+        decoder_in = decoder_in.masked_fill(
+                decoder_in.gt(self._tgt_vocab_len - 1), self._tgt_unk_idx
+            )
+        
+        plan_dec_out, plan_dec_attn = self.model.plan_decoder(
+            decoder_in, memory_bank, memory_lengths=memory_lengths, with_align=False
+            )
+        
+        
+        # Generator forward.
+        attn = plan_dec_attn['std']
+        scores = self.model.plan_generator(plan_dec_out.view(-1, plan_dec_out.size(2)), attn.view(-1, attn.size(2)), src_map)
+        # here we have scores [tgt_lenxbatch, vocab] or [beamxbatch, vocab]
+
+        if batch_offset is None:
+            scores = scores.view(-1, batch.batch_size, scores.size(-1))
+            scores = scores.transpose(0, 1).contiguous()
+        else:
+            scores = scores.view(-1, self.beam_size, scores.size(-1))
+
+        scores = scores.view(decoder_in.size(0), -1, scores.size(-1))
+        log_probs = scores.squeeze(0).log()
+            # returns [(batch_size x beam_size) , vocab ] when 1 step
+            # or [ tgt_len, batch_size, vocab ] when full sentence
+#         print("log_probs", torch.max(log_probs.squeeze(1), dim=1))
+        return log_probs.squeeze(1), attn
+        
 
     def _decode_and_generate(
             self,
@@ -592,25 +632,12 @@ class Translator(object):
             src_map=None,
             step=None,
             batch_offset=None):
+
         if self.copy_attn:
             # Turn any copied words into UNKs.
             decoder_in = decoder_in.masked_fill(
                 decoder_in.gt(self._tgt_vocab_len - 1), self._tgt_unk_idx
             )
-        
-        plan_dec_out, plan_dec_attn = self.model.plan_decoder(
-            batch.plan, memory_bank, memory_lengths=memory_lengths, with_align=True
-            )
-        
-        print("plan_dec_out ", plan_dec_out, plan_dec_out.shape)
-        print("plan_dec_attn ", plan_dec_attn, plan_dec_attn.shape)
-        
-        scores = self.model.plan_generator(plan_dec_out.view(-1, plan_dec_out.size(2)),
-                                          plan_dec_attn.view(-1, plan_dec_attn.size(2)),
-                                          src_map)
-        
-        print("scores", scores, scores.shape)
-        raise ValueError("Checko point")
 
         # Decoder forward, takes [tgt_len, batch, nfeats] as input
         # and [src_len, batch, hidden] as memory_bank
@@ -688,6 +715,15 @@ class Translator(object):
             "gold_score": self._gold_score(
                 batch, memory_bank, src_lengths, src_vocabs, use_src_map,
                 enc_states, batch_size, src)}
+        
+        plan_results = {
+            "predictions": None,
+            "scores": None,
+            "attention": None,
+            "batch": batch,
+            "gold_score": self._gold_score(
+                batch, memory_bank, src_lengths, src_vocabs, use_src_map,
+                enc_states, batch_size, src)}
 
         # (2) prep decode_strategy. Possibly repeat src objects.
         src_map = batch.src_map if use_src_map else None
@@ -695,6 +731,69 @@ class Translator(object):
             decode_strategy.initialize(memory_bank, src_lengths, src_map)
         if fn_map_state is not None:
             self.model.decoder.map_state(fn_map_state)
+        
+        # (2.1) decode plan
+        for step in range(decode_strategy.max_length):
+            decoder_input = decode_strategy.current_predictions.view(-1, 1)
+            
+            log_probs, attn = self._decode_and_generate_plan(
+                decoder_input,
+                memory_bank,
+                batch,
+                src_vocabs,
+                memory_lengths=memory_lengths,
+                src_map=src_map,
+                step=step,
+                batch_offset=decode_strategy.batch_offset)
+            
+            decode_strategy.advance(log_probs, attn)
+            any_finished = decode_strategy.is_finished.any()
+            if any_finished:
+                decode_strategy.update_finished()
+                if decode_strategy.done:
+                    break
+
+            select_indices = decode_strategy.select_indices
+
+            if any_finished:
+                # Reorder states.
+                if isinstance(memory_bank, tuple):
+                    memory_bank = tuple(x.index_select(1, select_indices)
+                                        for x in memory_bank)
+                else:
+                    memory_bank = memory_bank.index_select(1, select_indices)
+
+                memory_lengths = memory_lengths.index_select(0, select_indices)
+
+                if src_map is not None:
+                    src_map = src_map.index_select(1, select_indices)
+
+            if parallel_paths > 1 or any_finished:
+                self.model.decoder.map_state(
+                    lambda state, dim: state.index_select(dim, select_indices))
+
+        plan_results["scores"] = decode_strategy.scores
+        plan_results["predictions"] = decode_strategy.predictions
+        plan_results["attention"] = decode_strategy.attention
+        if self.report_align:
+            plan_results["alignment"] = self._align_forward(
+                batch, decode_strategy.predictions)
+        else:
+            plan_results["alignment"] = [[] for _ in range(batch_size)]
+        
+#         print(plan_results["predictions"])
+#         return plan_results
+        
+        # (2.2) decode tree
+        print("enc_states", enc_states.shape, enc_states)
+        genrated_plan = plan_results["predictions"]
+        plan_dec_out, plan_attns = self.model.plan_decoder(genrated_plan, memory_bank,
+                              memory_lengths=src_lengths,
+                              with_align=with_align)
+        print("plan_dec_out", plan_dec_out.shape)
+        raise ValueError("STOP")
+
+        # self.model.tree_decoder
 
         # (3) Begin decoding step by step:
         for step in range(decode_strategy.max_length):
@@ -794,3 +893,4 @@ class Translator(object):
             shell=True, stdin=self.out_file
         ).decode("utf-8").strip()
         return msg
+

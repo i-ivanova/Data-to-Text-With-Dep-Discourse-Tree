@@ -22,14 +22,14 @@ python -u graph2text/translate.py -model ${MODEL} \
 -plan ${PLAN_FILE} \
 -tree ${TREE_FILE} \
 -output ${OUTPUT} \
--beam_size 5 \
+-beam_size 1 \
 -share_vocab \
 -min_length 0 \
--max_length 430 \
+-max_length 20 \
 -length_penalty wu \
 -alpha 5 \
 -verbose \
--batch_size 80 \
+-batch_size 2 \
 -gpu 0
 
 cat ${OUTPUT} | sed -r 's/(@@ )|(@@ ?$)//g' > "${OUTPUT}_proc.txt"

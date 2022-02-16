@@ -114,6 +114,8 @@ class NMTPlanModel(nn.Module):
         dec_in = tgt#[:-1]  # exclude last target from inputs 
         enc_state, memory_bank, src_lengths = self.encoder(src, src_lengths, batch=batch)
         
+        #print("PLAN ", plan, plan.shape)
+        #raise ValueError("Stop")
         # print(enc_state.shape, memory_bank.shape, src.shape, tgt.shape, plan.shape, with_align)
         if bptt is False:
             self.decoder.init_state(src, memory_bank, enc_state)

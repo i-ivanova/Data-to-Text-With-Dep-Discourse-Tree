@@ -80,47 +80,6 @@ class CopyGeneratorPlan(nn.Module):
         mul_attn = torch.mul(attn, p_copy)
         copy_prob = mul_attn.contiguous().view(-1, slen)
         return torch.cat([out_prob, copy_prob], 1)
-
-
-class CopyGeneratorFromPlan(nn.Module):
-    """"Take the generated plan -> produce the text
-
-    The vocab -> where do you get thta from? do whatever they do for the vocab
-    Input -> the plan (modified sequence of nodes -1 ) -> pass the
-
-    Output_size -> vocab size
-    """
-    def __init__(self, input_size, output_size, pad_idx=1):
-        super(CopyGeneratorFromPlan, self).__init__()
-        self.linear = nn.Linear(input_size, output_size)
-        self.linear_copy = nn.Linear(input_size, 1)
-        self.pad_idx = pad_idx
-
-    def forward(self, hidden, attn, src_map):
-        # CHECKS
-        batch_by_tlen, _ = hidden.size()
-        batch_by_tlen_, slen = attn.size()
-        slen_, batch, cvocab = src_map.size()
-        aeq(batch_by_tlen, batch_by_tlen_)
-        aeq(slen, slen_)
-
-        # Original probabilities.
-        logits = self.linear(hidden)
-        logits[:, self.pad_idx] = -float('inf')
-        prob = torch.softmax(logits, 1)
-
-        # Probability of copying p(z=1) batch.
-        p_copy = torch.sigmoid(self.linear_copy(hidden))
-        # Probability of not copying: p_{word}(w) * (1 - p(z))
-        out_prob = torch.mul(prob, 1 - p_copy)
-        mul_attn = torch.mul(attn, p_copy)
-        
-        copy_prob = torch.bmm(
-           mul_attn.view(-1, batch, slen).transpose(0, 1),
-           src_map.transpose(0, 1)
-        ).transpose(0, 1)
-        copy_prob = copy_prob.contiguous().view(-1, cvocab)
-        return torch.cat([out_prob, mul_attn], 1)
         
 
 class CopyGenerator(nn.Module):
@@ -195,6 +154,8 @@ class CopyGenerator(nn.Module):
         # print("SRC MAP ONE", src_map[0])
         # print("ATTNS", attn.shape, attn)
         # CHECKS
+#         print("hidden ", hidden.size())
+#         print("attns ", attn.size())
         batch_by_tlen, _ = hidden.size()
         batch_by_tlen_, slen = attn.size()
         # slen_, batch, cvocab = src_map.size()
